@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>dc.js example - Untappd Data Visualization</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/dc.css">
+    <link rel="stylesheet" type="text/css" href="css/leaflet.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 dc-data-count dc-chart" id="data-count">
+        <h2>Wo wohnen welche Autos?
+            <small>
+                <span class="filter-count"></span> selected out of <span class="total-count"></span> records |
+                <a id="all" href="#">Reset All</a>
+                </span>
+            </small>
+        </h2>
+      </div>
+    </div>
+    <div class="row" id="control-row">
+      <div class="col-xs-6">
+        <h4>Marke <small><a id="Marke">zurücksetzen</a></small></h4>
+        <div class="dc-chart" id="chart-Marke"></div>
+      </div>
+      <div class="col-xs-6">
+        <h4>Modell <small><a id="Modell" href="#">zurücksetzen</a></small></h4>
+        <div class="dc-chart" id="chart-Modell"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <table class="table table-bordered table-striped" id="data-table">
+          <thead>
+            <tr class="header">
+              <th>Marke</th>
+              <th>Modell</th>
+              <th>AnzahlRandom</th>
+            </tr>
+          </thead>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="js/d3.js"></script>
+  <script type="text/javascript" src="js/crossfilter.js"></script>
+  <script type="text/javascript" src="js/dc.js"></script>
+  <script type="text/javascript" src="js/leaflet.js"></script>
+  <script type="text/javascript" src="js/underscore-min.js"></script>
+  <script type="text/javascript">
+
+  d3.json('data/Auto_Random.json', function(error, data) {
+    var AutoData=data.autos;
+
+    // normalize/parse data so dc can correctly sort & bin them
+    _.each(AutoData, function(d){
+      d.AnzahlRandom = +d.AnzahlRandom;
+
+    });
+
+
+
+
+  // set crossfilter
+  var ndx = crossfilter(AutoData);
+
+  // create dimensions (x-axis values)
+  var MarkeDim = ndx.dimension(function(d){return d.Marke;});
+  var ModellDim = ndx.dimension(dc.pluck('Modell'))
+
+
+  // create groups (y-axis values)
+   var all = ndx.groupAll();
+
+   var countPerMarke = MarkeDim.group().reduceCount();
+   var countPerModell = ModellDim.group().reduceCount();
+
+   // specify charts
+   var MarkeChart = dc.barChart('#chart-Marke');
+   var ModellChart = dc.barChart('#chart-Modell');
+
+   MarkeChart
+    .width(300)
+    .height(180)
+    .dimension(MarkeDim)
+    .group(countPerMarke)
+    .x(d3.scale.ordinal())
+    .xUnits(dc.units.ordinal)
+    .elasticX(true)
+    .elasticY(true)
+    .centerBar(true)
+    .barPadding(5)
+    .xAxisLabel('Marke')
+    .yAxisLabel('AnzahlRandom')
+    .margins({top: 10, right: 20, bottom: 50, left: 50});
+
+  ModellChart
+    .width(300)
+    .height(180)
+    .dimension(ModellDim)
+    .group(countPerModell)
+    .x(d3.scale.ordinal())
+    .xUnits(dc.units.ordinal)
+    .elasticX(true)
+    .elasticY(true)
+    .centerBar(true)
+    .barPadding(5)
+    .xAxisLabel('Modell')
+    .yAxisLabel('AnzahlRandom')
+    .margins({top: 10, right: 20, bottom: 50, left: 50});
+
+  // register handlers
+  d3.selectAll('a#all').on('click', function () {
+    dc.filterAll();
+    dc.renderAll();
+  });
+  d3.selectAll('a#Marke').on('click', function () {
+    MarkeChart.filterAll();
+    dc.redrawAll();
+  });
+  d3.selectAll('a#Modell').on('click', function () {
+    ModellChart.filterAll();
+    dc.redrawAll();
+  });
+
+  // showtime!
+  dc.renderAll();
+
+    console.log(dc.version);
+
+});
+
+  </script>
+</body>
+</html>
