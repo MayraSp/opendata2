@@ -53,7 +53,7 @@
 <script type="text/javascript" src="js/underscore-min.js"></script>
 <script type="text/javascript">
 
-    d3.csv('data/Auto_Random.csv', function(error, data) {
+    d3.json('data/Auto_Random.json', function(error, data) {
         var AutoData=data.autos;
 
         // normalize/parse data so dc can correctly sort & bin them
@@ -87,7 +87,12 @@
         .group(countPerMarke)
         .ordering(function(AutoData) { return -AutoData.value })
         //.cap(20) //collapse into "other"
-        .margins({top: 0, right: 0, bottom: -1, left: 0})
+        .margins({top: 0, right: 0, bottom: -1, left: 50})
+        //.ordinalColors(['#3182bd'])
+        //.label(function(d){return d.key + ':   ' + d.value})
+        .title(function(d){return d.value})
+        .renderTitleLabel(true)
+        .titleLabelOffsetX(260) //todo: use chartwidth, as e.g. here: https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#dc.rowChart+fixedBarHeight
         .elasticX(true);
 
         ModellChart
@@ -95,12 +100,17 @@
         .dimension(ModellDim)
         .group(countPerModell)
         .ordering(function(AutoData) { return -AutoData.value })
-        .margins({top: 0, right: 0, bottom: -1, left: 0})
+        .margins({top: 0, right: 0, bottom: -1, left: 50})
+        .title(function(d){return d.value})
+        .renderTitleLabel(true)
+        .titleLabelOffsetX(260)
+
         .elasticX(true);
 
         TreibstoffChart
         .dimension(TreibstoffDim)
-        .group(countPerTreibstoff);
+        .group(countPerTreibstoff)
+        .innerRadius(100);
 
         dataCount
         .dimension(ndx)
