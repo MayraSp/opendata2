@@ -11,126 +11,127 @@
 </head>
 
 <body>
-  <div class="container-fluid">
+<div class="container-fluid">
     <div class="row">
-      <div class="col-xs-12 dc-data-count dc-chart" id="data-count">
-        <h2>Wo wohnen welche Autos?
-            <small>
-                <span class="filter-count"></span> ausgewählt von Total <span class="total-count"></span> Zeilen |
-                <a id="all" href="#">Alle zurücksetzen</a>
-                </span>
-            </small>
-        </h2>
-      </div>
+        <div class="col-xs-12 dc-data-count dc-chart" id="data-count">
+            <h2>Wo wohnen welche Autos?
+                <small>
+                    <span class="filter-count"></span> Autos ausgewählt</span> |
+                    <a id="all" href="#">Alle zurücksetzen</a>
+                    </span>
+                </small>
+            </h2>
+        </div>
     </div>
     <div class="row" id="control-row">
-      <div class="col-xs-4">
-        <h4>Marke <small><a id="Marke">zurücksetzen</a></small></h4>
-        <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Marke"></div>
-      </div>
-      <div class="col-xs-4">
-        <h4>Modell <small><a id="Modell" href="#">zurücksetzen</a></small></h4>
-        <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Modell"></div>
-      </div>
         <div class="col-xs-4">
-            <h4>Treibstoff <small><a id="Treibstoff" href="#">zurücksetzen</a></small></h4>
+            <h4>Marke
+                <small><a id="Marke">zurücksetzen</a></small>
+            </h4>
+            <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Marke"></div>
+        </div>
+        <div class="col-xs-4">
+            <h4>Modell
+                <small><a id="Modell" href="#">zurücksetzen</a></small>
+            </h4>
+            <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Modell"></div>
+        </div>
+        <div class="col-xs-4">
+            <h4>Treibstoff
+                <small><a id="Treibstoff" href="#">zurücksetzen</a></small>
+            </h4>
             <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Treibstoff"></div>
         </div>
     </div>
-  </div>
+</div>
 
 
-  <script type="text/javascript" src="js/d3.js"></script>
-  <script type="text/javascript" src="js/crossfilter.js"></script>
-  <script type="text/javascript" src="js/dc.js"></script>
-  <script type="text/javascript" src="js/leaflet.js"></script>
-  <script type="text/javascript" src="js/underscore-min.js"></script>
-  <script type="text/javascript">
+<script type="text/javascript" src="js/d3.js"></script>
+<script type="text/javascript" src="js/crossfilter.js"></script>
+<script type="text/javascript" src="js/dc.js"></script>
+<script type="text/javascript" src="js/leaflet.js"></script>
+<script type="text/javascript" src="js/underscore-min.js"></script>
+<script type="text/javascript">
 
-  d3.json('data/Auto_Random.json', function(error, data) {
-    var AutoData=data.autos;
+    d3.csv('data/Auto_Random.csv', function(error, data) {
+        var AutoData=data.autos;
 
-    // normalize/parse data so dc can correctly sort & bin them
-    _.each(AutoData, function(d){
-      d.AnzahlRandom = +d.AnzahlRandom;
+        // normalize/parse data so dc can correctly sort & bin them
+        _.each(AutoData, function(d){
+            d.AnzahlRandom = +d.AnzahlRandom;
+        });
+
+        // set crossfilter
+        var ndx = crossfilter(AutoData);
+
+        // create dimensions (x-axis values)
+        var MarkeDim = ndx.dimension(function(d){return d.Marke;});
+        var ModellDim = ndx.dimension(dc.pluck('Modell'));
+        var TreibstoffDim = ndx.dimension(dc.pluck('Treibstoff'));
+
+        // create groups (y-axis values)
+        var all = ndx.groupAll().reduceSum(function(d){return d.AnzahlRandom;});
+        var countPerMarke = MarkeDim.group().reduceSum(function(d){return d.AnzahlRandom;});
+        var countPerModell = ModellDim.group().reduceSum(function(d){return d.AnzahlRandom;});
+        var countPerTreibstoff = TreibstoffDim.group().reduceSum(function(d){return d.AnzahlRandom;});
+
+        // specify charts
+        var MarkeChart = dc.rowChart('#chart-Marke');
+        var ModellChart = dc.rowChart('#chart-Modell');
+        var TreibstoffChart = dc.pieChart('#chart-Treibstoff');
+        var dataCount = dc.dataCount('#data-count');
+
+        MarkeChart
+        .height(800)
+        .dimension(MarkeDim)
+        .group(countPerMarke)
+        .ordering(function(AutoData) { return -AutoData.value })
+        //.cap(20) //collapse into "other"
+        .margins({top: 0, right: 0, bottom: -1, left: 0})
+        .elasticX(true);
+
+        ModellChart
+        .height(5000)
+        .dimension(ModellDim)
+        .group(countPerModell)
+        .ordering(function(AutoData) { return -AutoData.value })
+        .margins({top: 0, right: 0, bottom: -1, left: 0})
+        .elasticX(true);
+
+        TreibstoffChart
+        .dimension(TreibstoffDim)
+        .group(countPerTreibstoff);
+
+        dataCount
+        .dimension(ndx)
+        .group(all);
+
+        // register handlers
+        d3.selectAll('a#all').on('click', function () {
+            dc.filterAll();
+            dc.renderAll();
+        });
+        d3.selectAll('a#Marke').on('click', function () {
+            MarkeChart.filterAll();
+            dc.redrawAll();
+        });
+        d3.selectAll('a#Modell').on('click', function () {
+            ModellChart.filterAll();
+            dc.redrawAll();
+        });
+        d3.selectAll('a#Treibstoff').on('click', function () {
+            TreibstoffChart.filterAll();
+            dc.redrawAll();
+        });
+
+        // showtime!
+        dc.renderAll();
+
+        console.log(dc.version);
 
     });
 
 
-
-
-  // set crossfilter
-  var ndx = crossfilter(AutoData);
-
-  // create dimensions (x-axis values)
-  var MarkeDim = ndx.dimension(function(d){return d.Marke;});
-  var ModellDim = ndx.dimension(dc.pluck('Modell'));
-  var TreibstoffDim = ndx.dimension(dc.pluck('Treibstoff'));
-
-
-   // create groups (y-axis values)
-   var all = ndx.groupAll();
-
-   var countPerMarke = MarkeDim.group().reduceCount();
-   var countPerModell = ModellDim.group().reduceCount();
-   var countPerTreibstoff = TreibstoffDim.group().reduceCount();
-
-   // specify charts
-   var MarkeChart = dc.rowChart('#chart-Marke');
-   var ModellChart = dc.rowChart('#chart-Modell');
-   var TreibstoffChart = dc.pieChart('#chart-Treibstoff');
-   var dataCount = dc.dataCount('#data-count');
-
-   MarkeChart
-    .height(800)
-    .dimension(MarkeDim)
-    .group(countPerMarke)
-    .ordering(function(AutoData) { return -AutoData.value })
-    //.cap(20) //collapse into "other"
-    .margins({top: 0, right: 0, bottom: -1, left: 0})
-    .elasticX(true);
-
-   ModellChart
-    .height(5000)
-    .dimension(ModellDim)
-    .group(countPerModell)
-    .ordering(function(AutoData) { return -AutoData.value })
-    .margins({top: 0, right: 0, bottom: -1, left: 0})
-    .elasticX(true);
-
-   TreibstoffChart
-    .dimension(TreibstoffDim)
-    .group(countPerTreibstoff);
-
-  dataCount
-      .dimension(ndx)
-      .group(all);
-
-  // register handlers
-  d3.selectAll('a#all').on('click', function () {
-    dc.filterAll();
-    dc.renderAll();
-  });
-  d3.selectAll('a#Marke').on('click', function () {
-    MarkeChart.filterAll();
-    dc.redrawAll();
-  });
-  d3.selectAll('a#Modell').on('click', function () {
-    ModellChart.filterAll();
-    dc.redrawAll();
-  });
-  d3.selectAll('a#Treibstoff').on('click', function () {
-    TreibstoffChart.filterAll();
-    dc.redrawAll();
-  });
-
-  // showtime!
-  dc.renderAll();
-
-    console.log(dc.version);
-
-});
-
-  </script>
+</script>
 </body>
 </html>
