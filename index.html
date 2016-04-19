@@ -28,13 +28,13 @@
             <h4>Marke
                 <small><a id="Marke">zurücksetzen</a></small>
             </h4>
-            <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Marke"></div>
+            <div class="dc-chart" style='overflow:scroll; height:300px;' id="chart-Marke"></div>
         </div>
         <div class="col-xs-6">
             <h4>Modell
                 <small><a id="Modell" href="#">zurücksetzen</a></small>
             </h4>
-            <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Modell"></div>
+            <div class="dc-chart" style='overflow:scroll; height:300px;' id="chart-Modell"></div>
         </div>
     </div>
     <div class="row" id="control-row2">
@@ -163,6 +163,11 @@
                 TreibstoffChart.filterAll();
                 dc.redrawAll();
             });
+            d3.selectAll('a#Wohnviertel').on('click', function () {
+                WohnviertelChart.filterAll();
+                dc.redrawAll();
+            });
+
 
             // showtime!
             dc.renderAll();
