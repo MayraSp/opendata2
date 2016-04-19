@@ -136,15 +136,21 @@
             .height(500)
             .dimension(WohnviertelDim)
             .group(countPerWohnviertel)
-            /*
-            .overlayGeoJson(WohnviertelJson.features, "Wohnviertel", function (d) {
-                return d.id;
-            })
-            */
+            .colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#81C5FF", "#6BBAFF", "#51AEFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
+            //Empty Wohnviertel grey
+            .colorCalculator(function (d) { return d ? WohnviertelChart.colors()(d) : '#ccc'; })
             .overlayGeoJson(statesJson.features, "states", function (d) {
                 return d.properties.name;
             })
             ;
+
+            //Calculate choropleth color domain: https://groups.google.com/forum/#!topic/dc-js-user-group/6_EzrHSRQ30
+            WohnviertelChart.on("preRender", function(chart) {
+                chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
+            });
+            WohnviertelChart.on("preRedraw", function(chart) {
+                chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
+            });
 
             // register handlers
             d3.selectAll('a#all').on('click', function () {
