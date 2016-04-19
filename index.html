@@ -17,31 +17,40 @@
             <h2>Wo wohnen welche Autos?
                 <small>
                     <span class="filter-count"></span> Autos ausgewählt</span> |
-                    <a id="all" href="#">Alle zurücksetzen</a>
+                    <a id="all" href="#">Alle zurücksetzen</a> Aktueller Filter: <span class="filter"></span>
                     </span>
                 </small>
             </h2>
         </div>
     </div>
     <div class="row" id="control-row">
-        <div class="col-xs-4">
+        <div class="col-xs-6">
             <h4>Marke
                 <small><a id="Marke">zurücksetzen</a></small>
             </h4>
             <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Marke"></div>
         </div>
-        <div class="col-xs-4">
+        <div class="col-xs-6">
             <h4>Modell
                 <small><a id="Modell" href="#">zurücksetzen</a></small>
             </h4>
             <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Modell"></div>
         </div>
-        <div class="col-xs-4">
+    </div>
+    <div class="row" id="control-row2">
+        <div class="col-xs-6">
+            <h4>Wohnviertel
+                <small><a id="Wohnviertel" href="#">zurücksetzen</a></small>
+            </h4>
+            <div class="dc-chart" id="chart-Wohnviertel"></div>
+        </div>
+        <div class="col-xs-6">
             <h4>Treibstoff
                 <small><a id="Treibstoff" href="#">zurücksetzen</a></small>
             </h4>
-            <div class="dc-chart" style='overflow:scroll; height:400px;' id="chart-Treibstoff"></div>
+            <div class="dc-chart" id="chart-Treibstoff"></div>
         </div>
+
     </div>
 </div>
 
@@ -68,77 +77,98 @@
         var MarkeDim = ndx.dimension(function(d){return d.Marke;});
         var ModellDim = ndx.dimension(dc.pluck('Modell'));
         var TreibstoffDim = ndx.dimension(dc.pluck('Treibstoff'));
+        var WohnviertelDim = ndx.dimension(dc.pluck('Wohnviertel'));
 
         // create groups (y-axis values)
         var all = ndx.groupAll().reduceSum(function(d){return d.AnzahlRandom;});
         var countPerMarke = MarkeDim.group().reduceSum(function(d){return d.AnzahlRandom;});
         var countPerModell = ModellDim.group().reduceSum(function(d){return d.AnzahlRandom;});
         var countPerTreibstoff = TreibstoffDim.group().reduceSum(function(d){return d.AnzahlRandom;});
+        var countPerWohnviertel = WohnviertelDim.group().reduceSum(function(d){return d.AnzahlRandom});
 
         // specify charts
         var MarkeChart = dc.rowChart('#chart-Marke');
         var ModellChart = dc.rowChart('#chart-Modell');
         var TreibstoffChart = dc.pieChart('#chart-Treibstoff');
         var dataCount = dc.dataCount('#data-count');
+        var WohnviertelChart = dc.geoChoroplethChart("#chart-Wohnviertel");
 
-        MarkeChart
-        .height(800)
-        .dimension(MarkeDim)
-        .group(countPerMarke)
-        .ordering(function(AutoData) { return -AutoData.value })
-        //.cap(20) //collapse into "other"
-        .margins({top: 0, right: 0, bottom: -1, left: 50})
-        //.ordinalColors(['#3182bd'])
-        //.label(function(d){return d.key + ':   ' + d.value})
-        .title(function(d){return d.value})
-        .renderTitleLabel(true)
-        .titleLabelOffsetX(260) //todo: use chartwidth, as e.g. here: https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#dc.rowChart+fixedBarHeight
-        .elasticX(true);
+        //d3.json("data/Wohnviertel.json", function (WohnviertelJson) {
+        d3.json("data/us-states.json", function (statesJson) {
+            MarkeChart
+            .height(800)
+            .dimension(MarkeDim)
+            .group(countPerMarke)
+            .ordering(function(AutoData) { return -AutoData.value })
+            //.cap(20) //collapse into "other"
+            .margins({top: 0, right: 0, bottom: -1, left: 50})
+            //.ordinalColors(['#3182bd'])
+            //.label(function(d){return d.key + ':   ' + d.value})
+            .title(function(d){return d.value})
+            .renderTitleLabel(true)
+            .titleLabelOffsetX(260) //todo: use chartwidth, as e.g. here: https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#dc.rowChart+fixedBarHeight
+            .elasticX(true);
 
-        ModellChart
-        .height(5000)
-        .dimension(ModellDim)
-        .group(countPerModell)
-        .ordering(function(AutoData) { return -AutoData.value })
-        .margins({top: 0, right: 0, bottom: -1, left: 50})
-        .title(function(d){return d.value})
-        .renderTitleLabel(true)
-        .titleLabelOffsetX(260)
+            ModellChart
+            .height(5000)
+            .dimension(ModellDim)
+            .group(countPerModell)
+            .ordering(function(AutoData) { return -AutoData.value })
+            .margins({top: 0, right: 0, bottom: -1, left: 50})
+            .title(function(d){return d.value})
+            .renderTitleLabel(true)
+            .titleLabelOffsetX(260)
 
-        .elasticX(true);
+            .elasticX(true);
 
-        TreibstoffChart
-        .dimension(TreibstoffDim)
-        .group(countPerTreibstoff)
-        .innerRadius(100);
+            TreibstoffChart
+            .height(200)
+            .dimension(TreibstoffDim)
+            .group(countPerTreibstoff)
+            .innerRadius(50);
 
-        dataCount
-        .dimension(ndx)
-        .group(all);
+            dataCount
+            .dimension(ndx)
+            .group(all);
 
-        // register handlers
-        d3.selectAll('a#all').on('click', function () {
-            dc.filterAll();
+            WohnviertelChart
+            .width(990)
+            .height(500)
+            .dimension(WohnviertelDim)
+            .group(countPerWohnviertel)
+            /*
+            .overlayGeoJson(WohnviertelJson.features, "Wohnviertel", function (d) {
+                return d.id;
+            })
+            */
+            .overlayGeoJson(statesJson.features, "states", function (d) {
+                return d.properties.name;
+            })
+            ;
+
+            // register handlers
+            d3.selectAll('a#all').on('click', function () {
+                dc.filterAll();
+                dc.renderAll();
+            });
+            d3.selectAll('a#Marke').on('click', function () {
+                MarkeChart.filterAll();
+                dc.redrawAll();
+            });
+            d3.selectAll('a#Modell').on('click', function () {
+                ModellChart.filterAll();
+                dc.redrawAll();
+            });
+            d3.selectAll('a#Treibstoff').on('click', function () {
+                TreibstoffChart.filterAll();
+                dc.redrawAll();
+            });
+
+            // showtime!
             dc.renderAll();
-        });
-        d3.selectAll('a#Marke').on('click', function () {
-            MarkeChart.filterAll();
-            dc.redrawAll();
-        });
-        d3.selectAll('a#Modell').on('click', function () {
-            ModellChart.filterAll();
-            dc.redrawAll();
-        });
-        d3.selectAll('a#Treibstoff').on('click', function () {
-            TreibstoffChart.filterAll();
-            dc.redrawAll();
-        });
 
-        // showtime!
-        dc.renderAll();
-
-        console.log(dc.version);
-
+            console.log(dc.version);
+        });
     });
 
 
