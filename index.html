@@ -56,6 +56,7 @@
 
 
 <script type="text/javascript" src="js/d3.js"></script>
+<script src="//d3js.org/d3.geo.projection.v0.min.js"></script>
 <script type="text/javascript" src="js/crossfilter.js"></script>
 <script type="text/javascript" src="js/dc.js"></script>
 <script type="text/javascript" src="js/leaflet.js"></script>
@@ -93,8 +94,7 @@
         var dataCount = dc.dataCount('#data-count');
         var WohnviertelChart = dc.geoChoroplethChart("#chart-Wohnviertel");
 
-        //d3.json("data/Wohnviertel.json", function (WohnviertelJson) {
-        d3.json("data/us-states.json", function (statesJson) {
+        d3.json("data/Wohnviertel.json", function (WohnviertelJson) {
             MarkeChart
             .height(800)
             .dimension(MarkeDim)
@@ -131,26 +131,51 @@
             .dimension(ndx)
             .group(all);
 
+            //other idea: https://groups.google.com/forum/#!topic/dc-js-user-group/aa2ryMQ8Rqo
+
+            //Change projection and center map automatically, see https://groups.google.com/forum/#!topic/dc-js-user-group/blRgfBGxG2A
+            var locJSON = WohnviertelJson;
+            var width = 600,
+            height = 400;
+            // Create a unit projection.
+            var projection = d3.geo.mollweide()
+            .scale(1)
+            .translate([0, 0]);
+            // Create a path generator.
+            var path = d3.geo.path()
+            .projection(projection);
+            // Compute the bounds of a feature of interest, then derive scale & translate.
+            var b = path.bounds(locJSON),
+            s = .95 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height),
+            t = [(width - s * (b[1][0] + b[0][0])) / 2, (height - s * (b[1][1] + b[0][1])) / 2];
+
+            // Update the projection to use computed scale & translation
+            projection.scale(s).translate(t);
+
             WohnviertelChart
             .width(990)
             .height(500)
             .dimension(WohnviertelDim)
             .group(countPerWohnviertel)
-            .colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#81C5FF", "#6BBAFF", "#51AEFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
+            //.colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#81C5FF", "#6BBAFF", "#51AEFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
             //Empty Wohnviertel grey
             .colorCalculator(function (d) { return d ? WohnviertelChart.colors()(d) : '#ccc'; })
-            .overlayGeoJson(statesJson.features, "states", function (d) {
+            .overlayGeoJson(WohnviertelJson.features, "states", function (d) {
                 return d.properties.name;
             })
+            .projection(projection)
+            .linearColors(['#c6dbef', '#3182bd']);
             ;
 
             //Calculate choropleth color domain: https://groups.google.com/forum/#!topic/dc-js-user-group/6_EzrHSRQ30
+
             WohnviertelChart.on("preRender", function(chart) {
                 chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
             });
             WohnviertelChart.on("preRedraw", function(chart) {
                 chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
             });
+
 
             // register handlers
             d3.selectAll('a#all').on('click', function () {
