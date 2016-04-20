@@ -28,13 +28,13 @@
             <h4>Marke
                 <small><a id="Marke">zurücksetzen</a></small>
             </h4>
-            <div class="dc-chart" style='overflow:scroll; height:300px;' id="chart-Marke"></div>
+            <div class="dc-chart" style='overflow-y:scroll; height:300px;' id="chart-Marke"></div>
         </div>
         <div class="col-xs-6">
             <h4>Modell
                 <small><a id="Modell" href="#">zurücksetzen</a></small>
             </h4>
-            <div class="dc-chart" style='overflow:scroll; height:300px;' id="chart-Modell"></div>
+            <div class="dc-chart" style='overflow-y:scroll; height:300px;' id="chart-Modell"></div>
         </div>
     </div>
     <div class="row" id="control-row2">
@@ -99,27 +99,32 @@
             .height(800)
             .dimension(MarkeDim)
             .group(countPerMarke)
-            .ordering(function(AutoData) { return -AutoData.value })
+            .ordering(function(AutoData) {return -AutoData.value })
             //.cap(20) //collapse into "other"
-            .margins({top: 0, right: 0, bottom: -1, left: 50})
+            .margins({top: 30, right: 30, bottom: -1, left: 30}) // 30 by default
             //.ordinalColors(['#3182bd'])
             //.label(function(d){return d.key + ':   ' + d.value})
             .title(function(d){return d.value})
             .renderTitleLabel(true)
-            .titleLabelOffsetX(260) //todo: use chartwidth, as e.g. here: https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#dc.rowChart+fixedBarHeight
-            .elasticX(true);
+            //.titleLabelOffsetX(260) //todo: use chartwidth, as e.g. here: https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#dc.rowChart+fixedBarHeight
+            .elasticX(true)
+            .ordinalColors(['#3182bd'])
+            .xAxis().ticks(0);
+            ;
 
             ModellChart
             .height(5000)
             .dimension(ModellDim)
             .group(countPerModell)
             .ordering(function(AutoData) { return -AutoData.value })
-            .margins({top: 0, right: 0, bottom: -1, left: 50})
+            .margins({top: 30, right: 30, bottom: -1, left: 30}) // 30 by default
             .title(function(d){return d.value})
             .renderTitleLabel(true)
-            .titleLabelOffsetX(260)
-
-            .elasticX(true);
+            //.titleLabelOffsetX(260)
+            .elasticX(true)
+            .ordinalColors(['#3182bd'])
+            .xAxis().ticks(0)
+            ;
 
             TreibstoffChart
             .height(200)
@@ -168,7 +173,6 @@
             ;
 
             //Calculate choropleth color domain: https://groups.google.com/forum/#!topic/dc-js-user-group/6_EzrHSRQ30
-
             WohnviertelChart.on("preRender", function(chart) {
                 chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
             });
@@ -176,6 +180,7 @@
                 chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
             });
 
+            //todo: Label Wohnviertel, e.g. http://jsfiddle.net/djmartin_umich/9VJHe/
 
             // register handlers
             d3.selectAll('a#all').on('click', function () {
