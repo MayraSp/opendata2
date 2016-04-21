@@ -214,6 +214,10 @@
                 //.colorCalculator(function (d) { return d ? usChart.colors()(d) : '#ccc'; })
                 .geojson(statesJson.features)
                 .linearColors(['#c6dbef', '#3182bd'])
+                .featureKeyAccessor(function(feature) {
+                    return feature.properties.name;
+                })
+                .brushOn(true)
                 ;
 
 
