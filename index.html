@@ -51,25 +51,23 @@
         </div>
     </div>
     <div class="row" id="control-row2">
-        <div class="col-xs-6">
+        <div class="col-md-5">
             <h4>Wohnviertel
                 <small><a id="Wohnviertel" href="#">zurücksetzen</a></small>
             </h4>
             <div class="dc-chart" id="chart-Wohnviertel"></div>
         </div>
-        <div class="col-xs-6">
+        <div class="col-md-5">
+            <h4>Wohnviertel (Leaflet)
+                <small><a id="WohnviertelLeaflet" href="#">zurücksetzen</a></small>
+            </h4>
+            <div class="dc-chart" id="chart-Wohnviertel-leaflet" style="width:100%; height:500px;"></div>
+        </div>
+        <div class="col-md-2">
             <h4>Treibstoff
                 <small><a id="Treibstoff" href="#">zurücksetzen</a></small>
             </h4>
             <div class="dc-chart" id="chart-Treibstoff"></div>
-        </div>
-    </div>
-    <div class="row" id="control-row3">
-        <div class="col-xs-12">
-            <h4>US Chart
-                <small><a id="Leafletchart" href="#">zurücksetzen</a></small>
-            </h4>
-            <div id="us-chart" style="width:50%; height:500px;"></div>
         </div>
     </div>
 </div>
@@ -107,7 +105,7 @@
         var TreibstoffChart = dc.pieChart('#chart-Treibstoff');
         var dataCount = dc.dataCount('#data-count');
         var WohnviertelChart = dc.geoChoroplethChart("#chart-Wohnviertel");
-        var usChart = dc.leafletChoroplethChart("#us-chart");
+        var usChartLeaflet = dc.leafletChoroplethChart("#chart-Wohnviertel-leaflet");
 
 
 
@@ -200,61 +198,65 @@
             //todo: Label Wohnviertel, e.g. http://jsfiddle.net/djmartin_umich/9VJHe/
 
 
-            d3.json("data/wohnviertel.json", function (statesJson) {
-
-                usChart
-                .width(990)
-                .height(500)
-                .center([47.570053, 7.626379])
-                .zoom(12)
-                .dimension(WohnviertelDim)
-                .group(countPerWohnviertel)
-                //.colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#81C5FF", "#6BBAFF", "#51AEFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
-                //Empty Wohnviertel grey
-                //.colorCalculator(function (d) { return d ? usChart.colors()(d) : '#ccc'; })
-                .geojson(statesJson.features)
-                .linearColors(['#c6dbef', '#3182bd'])
-                .featureKeyAccessor(function(feature) {
-                    return feature.properties.name;
-                })
-                .brushOn(true)
-                ;
-
-
-
-
-
-                // register handlers
-                d3.selectAll('a#all').on('click', function () {
-                    dc.filterAll();
-                    dc.renderAll();
-                });
-                d3.selectAll('a#Marke').on('click', function () {
-                    MarkeChart.filterAll();
-                    dc.redrawAll();
-                });
-                d3.selectAll('a#Modell').on('click', function () {
-                    ModellChart.filterAll();
-                    dc.redrawAll();
-                });
-                d3.selectAll('a#Treibstoff').on('click', function () {
-                    TreibstoffChart.filterAll();
-                    dc.redrawAll();
-                });
-                d3.selectAll('a#Wohnviertel').on('click', function () {
-                    WohnviertelChart.filterAll();
-                    dc.redrawAll();
-                });
-                d3.selectAll('a#Leafletchart').on('click', function () {
-                    uschart.filterAll();
-                    dc.redrawAll();
-                });
-
-
-
-                // showtime!
-                dc.renderAll();
+            usChartLeaflet
+            .width(990)
+            .height(500)
+            .center([47.570053, 7.626379])
+            .zoom(12)
+            .dimension(WohnviertelDim)
+            .group(countPerWohnviertel)
+            .geojson(WohnviertelJson.features)
+            .featureKeyAccessor(function(feature) {
+                return feature.properties.name;
             })
+            .brushOn(true)
+            .linearColors(['#c6dbef', '#3182bd'])
+            .colorCalculator(function (d) { return d ? usChartLeaflet.colors()(d.value) : '#ccc'; })
+            ;
+
+            //Calculate choropleth color domain: https://groups.google.com/forum/#!topic/dc-js-user-group/6_EzrHSRQ30
+            usChartLeaflet.on("preRender", function(chart) {
+                chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
+            });
+            usChartLeaflet.on("preRedraw", function(chart) {
+                chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
+            });
+
+
+
+
+            // register handlers
+            d3.selectAll('a#all').on('click', function () {
+                dc.filterAll();
+                dc.redrawAll();
+                /* Leaflet Map throws exception if renderAll() is used */
+                //dc.renderAll();
+            });
+            d3.selectAll('a#Marke').on('click', function () {
+                MarkeChart.filterAll();
+                dc.redrawAll();
+            });
+            d3.selectAll('a#Modell').on('click', function () {
+                ModellChart.filterAll();
+                dc.redrawAll();
+            });
+            d3.selectAll('a#Treibstoff').on('click', function () {
+                TreibstoffChart.filterAll();
+                dc.redrawAll();
+            });
+            d3.selectAll('a#Wohnviertel').on('click', function () {
+                WohnviertelChart.filterAll();
+                dc.redrawAll();
+            });
+            d3.selectAll('a#WohnviertelLeaflet').on('click', function () {
+                usChartLeaflet.filterAll();
+                dc.redrawAll();
+            });
+
+
+
+            // showtime!
+            dc.renderAll();
             console.log(dc.version);
         });
     });
