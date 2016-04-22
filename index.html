@@ -16,9 +16,10 @@
     <script src="node_modules/dc/dc.js"></script>
     <script src="node_modules/leaflet/dist/leaflet.js"></script>
     <script src="node_modules/dc-addons/dist/leaflet-map/dc-leaflet.js"></script>
-    <script src="node_modules/underscore/underscore-min.js"></script>
-
+    <script src="node_modules/leaflet-providers/leaflet-providers.js"></script>
     <script src="//d3js.org/d3.geo.projection.v0.min.js"></script>
+
+    <script src="node_modules/underscore/underscore-min.js"></script>
 
 </head>
 
@@ -184,17 +185,23 @@
                 return d.properties.name;
             })
             .projection(projection)
-            .linearColors(['#c6dbef', '#3182bd']);
+            .linearColors(['#c6dbef', '#3182bd'])
+            //Calculate choropleth color domain: See example http://intellipharm.github.io/dc-addons/examples/leaflet-marker.html
+            .colorDomain([
+                d3.min(countPerWohnviertel.all(), dc.pluck('value')),
+                d3.max(countPerWohnviertel.all(), dc.pluck('value'))
+            ])
             ;
 
-            //Calculate choropleth color domain: https://groups.google.com/forum/#!topic/dc-js-user-group/6_EzrHSRQ30
+            /*
+            //Alternative method to Calculate choropleth color domain: https://groups.google.com/forum/#!topic/dc-js-user-group/6_EzrHSRQ30
             WohnviertelChart.on("preRender", function(chart) {
                 chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
             });
             WohnviertelChart.on("preRedraw", function(chart) {
                 chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
             });
-
+            */
             //todo: Label Wohnviertel, e.g. http://jsfiddle.net/djmartin_umich/9VJHe/
 
 
@@ -212,17 +219,12 @@
             .brushOn(true)
             .linearColors(['#c6dbef', '#3182bd'])
             .colorCalculator(function (d) { return d ? usChartLeaflet.colors()(d.value) : '#ccc'; })
+            //Calculate choropleth color domain: See example http://intellipharm.github.io/dc-addons/examples/leaflet-marker.html
+            .colorDomain([
+                d3.min(countPerWohnviertel.all(), dc.pluck('value')),
+                d3.max(countPerWohnviertel.all(), dc.pluck('value'))
+            ])
             ;
-
-            //Calculate choropleth color domain: https://groups.google.com/forum/#!topic/dc-js-user-group/6_EzrHSRQ30
-            usChartLeaflet.on("preRender", function(chart) {
-                chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
-            });
-            usChartLeaflet.on("preRedraw", function(chart) {
-                chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
-            });
-
-
 
 
             // register handlers
