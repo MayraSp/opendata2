@@ -1,15 +1,15 @@
 ﻿Anzahl Random	Number of Records	Treibstoff (group)	Jahr	Latitude	Longitude	Farbe	Marke	Mf Marke Id	Modell	Treibstoff	Point	Wohnviertel Id (Wohnviertel Centroide.Sas7Bdat)	Wohnviertel Id	Wohnviertel
-157	1	Männlich	2015	47,556104110	7,589728832	Blau	VW	90	Golf	Benzin	0	1	1	Altstadt Grossbasel
-115	1	Männlich	2015	47,551734258	7,591713667	Blau	Mini	112	Cooper	Benzin	0	2	2	Vorstädte
-101	1	Männlich	2015	47,555336607	7,578560114	Blau	Ford	165	Mondeo	Benzin	0	3	3	Am Ring
-137	1	Männlich	2015	47,555336607	7,578560114	Blau	Opel	128	Zafira	Benzin	0	3	3	Am Ring
-182	1	Männlich	2015	47,555336607	7,578560114	Blau	Saab	32	9	Benzin	0	3	3	Am Ring
-102	1	Männlich	2015	47,555336607	7,578560114	Blau	Toyota	117	Yaris	Benzin	0	3	3	Am Ring
-251	1	Männlich	2015	47,555336607	7,578560114	Blau	VW	90	Golf	Benzin	0	3	3	Am Ring
-117	1	Männlich	2015	47,555336607	7,578560114	Blau	VW	90	Passat	Benzin	0	3	3	Am Ring
-129	1	Männlich	2015	47,552034765	7,619726658	Blau	Opel	128	Astra	Benzin	0	4	4	Breite
-198	1	Männlich	2015	47,552034765	7,619726658	Blau	VW	90	Golf	Benzin	0	4	4	Breite
-100	1	Männlich	2015	47,547740610	7,605414391	Blau	Fiat	125	500	Benzin	0	5	5	St. Alban
+157	1	Benzin	2015	47,556104110	7,589728832	Blau	VW	90	Golf	Benzin	0	1	1	Altstadt Grossbasel
+115	1	Benzin	2015	47,551734258	7,591713667	Blau	Mini	112	Cooper	Benzin	0	2	2	Vorstädte
+101	1	Benzin	2015	47,555336607	7,578560114	Blau	Ford	165	Mondeo	Benzin	0	3	3	Am Ring
+137	1	Benzin	2015	47,555336607	7,578560114	Blau	Opel	128	Zafira	Benzin	0	3	3	Am Ring
+182	1	Benzin	2015	47,555336607	7,578560114	Blau	Saab	32	9	Benzin	0	3	3	Am Ring
+102	1	Benzin	2015	47,555336607	7,578560114	Blau	Toyota	117	Yaris	Benzin	0	3	3	Am Ring
+251	1	Benzin	2015	47,555336607	7,578560114	Blau	VW	90	Golf	Benzin	0	3	3	Am Ring
+117	1	Benzin	2015	47,555336607	7,578560114	Blau	VW	90	Passat	Benzin	0	3	3	Am Ring
+129	1	Benzin	2015	47,552034765	7,619726658	Blau	Opel	128	Astra	Benzin	0	4	4	Breite
+198	1	Benzin	2015	47,552034765	7,619726658	Blau	VW	90	Golf	Benzin	0	4	4	Breite
+100	1	Benzin	2015	47,547740610	7,605414391	Blau	Fiat	125	500	Benzin	0	5	5	St. Alban
 170	1	Benzin	2015	47,547740610	7,605414391	Blau	Honda	7	Jazz	Benzin	0	5	5	St. Alban
 115	1	Benzin	2015	47,547740610	7,605414391	Blau	Mercedes-Benz	5	A	Benzin	0	5	5	St. Alban
 180	1	Benzin	2015	47,547740610	7,605414391	Blau	Mercedes-Benz	5	C	Benzin	0	5	5	St. Alban
