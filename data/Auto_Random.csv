@@ -1,0 +1,1649 @@
+Anzahl Random;Number of Records;Treibstoff (group);Jahr;Latitude;Longitude;Farbe;Marke;Mf Marke Id;Modell;Treibstoff;Point;Wohnviertel Id (Wohnviertel Centroide.Sas7Bdat);Wohnviertel Id;Wohnviertel
+157;1;Benzin;2015;47,556104110;7,589728832;Blau;VW;90;Golf;MÑnnlich;0;1;1;Altstadt Grossbasel
+115;1;Benzin;2015;47,551734258;7,591713667;Blau;Mini;112;Cooper;Weiblich;0;2;2;VorstÑdte
+101;1;Benzin;2015;47,555336607;7,578560114;Blau;Ford;165;Mondeo;Weiblich;0;3;3;Am Ring
+137;1;Benzin;2015;47,555336607;7,578560114;Blau;Opel;128;Zafira;MÑnnlich;0;3;3;Am Ring
+182;1;Benzin;2015;47,555336607;7,578560114;Blau;Saab;32;9;Weiblich;0;3;3;Am Ring
+102;1;Benzin;2015;47,555336607;7,578560114;Blau;Toyota;117;Yaris;Weiblich;0;3;3;Am Ring
+251;1;Benzin;2015;47,555336607;7,578560114;Blau;VW;90;Golf;Weiblich;0;3;3;Am Ring
+117;1;Benzin;2015;47,555336607;7,578560114;Blau;VW;90;Passat;MÑnnlich;0;3;3;Am Ring
+129;1;Benzin;2015;47,552034765;7,619726658;Blau;Opel;128;Astra;MÑnnlich;0;4;4;Breite
+198;1;Benzin;2015;47,552034765;7,619726658;Blau;VW;90;Golf;MÑnnlich;0;4;4;Breite
+100;1;Benzin;2015;47,547740610;7,605414391;Blau;Fiat;125;500;Weiblich;0;5;5;St. Alban
+170;1;Benzin;2015;47,547740610;7,605414391;Blau;Honda;7;Jazz;Weiblich;0;5;5;St. Alban
+115;1;Benzin;2015;47,547740610;7,605414391;Blau;Mercedes-Benz;5;A;Weiblich;0;5;5;St. Alban
+180;1;Benzin;2015;47,547740610;7,605414391;Blau;Mercedes-Benz;5;C;MÑnnlich;0;5;5;St. Alban
+151;1;Benzin;2015;47,547740610;7,605414391;Blau;Peugeot;170;306;Weiblich;0;5;5;St. Alban
+447;1;Benzin;2015;47,547740610;7,605414391;Blau;VW;90;Golf;MÑnnlich;0;5;5;St. Alban
+143;1;Benzin;2015;47,547740610;7,605414391;Blau;VW;90;Passat;MÑnnlich;0;5;5;St. Alban
+230;1;Benzin;2015;47,547740610;7,605414391;Blau;VW;90;Polo;Weiblich;0;5;5;St. Alban
+100;1;Benzin;2015;47,543388166;7,592303753;Blau;Audi;1;A3;MÑnnlich;0;6;6;Gundeldingen
+143;1;Benzin;2015;47,543388166;7,592303753;Blau;Fiat;125;Punto;MÑnnlich;0;6;6;Gundeldingen
+127;1;Benzin;2015;47,543388166;7,592303753;Blau;Ford;165;Focus;Weiblich;0;6;6;Gundeldingen
+206;1;Benzin;2015;47,543388166;7,592303753;Blau;Opel;128;Astra;Weiblich;0;6;6;Gundeldingen
+208;1;Benzin;2015;47,543388166;7,592303753;Blau;Opel;128;Corsa;MÑnnlich;0;6;6;Gundeldingen
+155;1;Benzin;2015;47,543388166;7,592303753;Blau;Peugeot;170;206;Weiblich;0;6;6;Gundeldingen
+118;1;Benzin;2015;47,543388166;7,592303753;Blau;Saab;32;9;Weiblich;0;6;6;Gundeldingen
+104;1;Benzin;2015;47,543388166;7,592303753;Blau;Toyota;117;Corolla;MÑnnlich;0;6;6;Gundeldingen
+123;1;Benzin;2015;47,543388166;7,592303753;Blau;Toyota;117;Yaris;MÑnnlich;0;6;6;Gundeldingen
+376;1;Benzin;2015;47,543388166;7,592303753;Blau;VW;90;Golf;MÑnnlich;0;6;6;Gundeldingen
+132;1;Benzin;2015;47,543388166;7,592303753;Blau;VW;90;Passat;MÑnnlich;0;6;6;Gundeldingen
+251;1;Benzin;2015;47,543388166;7,592303753;Blau;VW;90;Polo;Weiblich;0;6;6;Gundeldingen
+105;1;Benzin;2015;47,530785042;7,598108053;Blau;Fiat;125;500;MÑnnlich;0;7;7;Bruderholz
+100;1;Benzin;2015;47,530785042;7,598108053;Blau;Opel;128;Corsa;Weiblich;0;7;7;Bruderholz
+132;1;Benzin;2015;47,530785042;7,598108053;Blau;Opel;128;Zafira;Weiblich;0;7;7;Bruderholz
+401;1;Benzin;2015;47,530785042;7,598108053;Blau;VW;90;Golf;Weiblich;0;7;7;Bruderholz
+111;1;Benzin;2015;47,530785042;7,598108053;Blau;VW;90;Polo;Weiblich;0;7;7;Bruderholz
+132;1;Benzin;2015;47,548247527;7,571521997;Blau;Fiat;125;500;Weiblich;0;8;8;Bachletten
+106;1;Benzin;2015;47,548247527;7,571521997;Blau;Fiat;125;Punto;Weiblich;0;8;8;Bachletten
+200;1;Benzin;2015;47,548247527;7,571521997;Blau;Honda;7;Jazz;MÑnnlich;0;8;8;Bachletten
+150;1;Benzin;2015;47,548247527;7,571521997;Blau;Opel;128;Astra;Weiblich;0;8;8;Bachletten
+140;1;Benzin;2015;47,548247527;7,571521997;Blau;Opel;128;Corsa;MÑnnlich;0;8;8;Bachletten
+159;1;Benzin;2015;47,548247527;7,571521997;Blau;Opel;128;Zafira;Weiblich;0;8;8;Bachletten
+118;1;Benzin;2015;47,548247527;7,571521997;Blau;Peugeot;170;206;MÑnnlich;0;8;8;Bachletten
+133;1;Benzin;2015;47,548247527;7,571521997;Blau;Toyota;117;Avensis;Weiblich;0;8;8;Bachletten
+113;1;Benzin;2015;47,548247527;7,571521997;Blau;Toyota;117;Corolla;Weiblich;0;8;8;Bachletten
+472;1;Benzin;2015;47,548247527;7,571521997;Blau;VW;90;Golf;Weiblich;0;8;8;Bachletten
+117;1;Benzin;2015;47,548247527;7,571521997;Blau;VW;90;Passat;Weiblich;0;8;8;Bachletten
+173;1;Benzin;2015;47,548247527;7,571521997;Blau;VW;90;Polo;Weiblich;0;8;8;Bachletten
+106;1;Benzin;2015;47,555275061;7,569826841;Blau;Honda;7;Jazz;Weiblich;0;9;9;Gotthelf
+115;1;Benzin;2015;47,555275061;7,569826841;Blau;Opel;128;Corsa;MÑnnlich;0;9;9;Gotthelf
+177;1;Benzin;2015;47,555275061;7,569826841;Blau;VW;90;Polo;Weiblich;0;9;9;Gotthelf
+108;1;Benzin;2015;47,560904373;7,565889359;Blau;Audi;1;A4;Weiblich;0;10;10;Iselin
+107;1;Benzin;2015;47,560904373;7,565889359;Blau;Audi;1;A6;MÑnnlich;0;10;10;Iselin
+133;1;Benzin;2015;47,560904373;7,565889359;Blau;Fiat;125;Punto;Weiblich;0;10;10;Iselin
+151;1;Benzin;2015;47,560904373;7,565889359;Blau;Ford;165;Fiesta;MÑnnlich;0;10;10;Iselin
+101;1;Benzin;2015;47,560904373;7,565889359;Blau;Honda;7;Jazz;Weiblich;0;10;10;Iselin
+128;1;Benzin;2015;47,560904373;7,565889359;Blau;Mitsubishi;64;Colt;MÑnnlich;0;10;10;Iselin
+350;1;Benzin;2015;47,560904373;7,565889359;Blau;Opel;128;Astra;MÑnnlich;0;10;10;Iselin
+147;1;Benzin;2015;47,560904373;7,565889359;Blau;Opel;128;Corsa;MÑnnlich;0;10;10;Iselin
+122;1;Benzin;2015;47,560904373;7,565889359;Blau;Opel;128;Meriva;MÑnnlich;0;10;10;Iselin
+154;1;Benzin;2015;47,560904373;7,565889359;Blau;Opel;128;Zafira;Weiblich;0;10;10;Iselin
+116;1;Benzin;2015;47,560904373;7,565889359;Blau;Peugeot;170;206;Weiblich;0;10;10;Iselin
+158;1;Benzin;2015;47,560904373;7,565889359;Blau;Renault;42;Clio;MÑnnlich;0;10;10;Iselin
+105;1;Benzin;2015;47,560904373;7,565889359;Blau;Toyota;117;Corolla;MÑnnlich;0;10;10;Iselin
+407;1;Benzin;2015;47,560904373;7,565889359;Blau;VW;90;Golf;Weiblich;0;10;10;Iselin
+138;1;Benzin;2015;47,560904373;7,565889359;Blau;VW;90;Polo;Weiblich;0;10;10;Iselin
+158;1;Benzin;2015;47,572168422;7,572809458;Blau;Fiat;125;Punto;MÑnnlich;0;11;11;St. Johann
+145;1;Benzin;2015;47,572168422;7,572809458;Blau;Ford;165;Focus;Weiblich;0;11;11;St. Johann
+133;1;Benzin;2015;47,572168422;7,572809458;Blau;Mercedes-Benz;5;C;MÑnnlich;0;11;11;St. Johann
+264;1;Benzin;2015;47,572168422;7,572809458;Blau;Opel;128;Astra;Weiblich;0;11;11;St. Johann
+253;1;Benzin;2015;47,572168422;7,572809458;Blau;Opel;128;Corsa;MÑnnlich;0;11;11;St. Johann
+121;1;Benzin;2015;47,572168422;7,572809458;Blau;Renault;42;MÇgane;MÑnnlich;0;11;11;St. Johann
+114;1;Benzin;2015;47,572168422;7,572809458;Blau;Saab;32;9;Weiblich;0;11;11;St. Johann
+266;1;Benzin;2015;47,572168422;7,572809458;Blau;VW;90;Golf;Weiblich;0;11;11;St. Johann
+151;1;Benzin;2015;47,572168422;7,572809458;Blau;VW;90;Passat;Weiblich;0;11;11;St. Johann
+148;1;Benzin;2015;47,572168422;7,572809458;Blau;VW;90;Polo;MÑnnlich;0;11;11;St. Johann
+115;1;Benzin;2015;47,563973994;7,596074939;Blau;Opel;128;Astra;Weiblich;0;13;13;Clara
+120;1;Benzin;2015;47,563973994;7,596074939;Blau;VW;90;Golf;Weiblich;0;13;13;Clara
+183;1;Benzin;2015;47,560607537;7,606111765;Blau;VW;90;Golf;MÑnnlich;0;14;14;Wettstein
+185;1;Benzin;2015;47,573818735;7,617516518;Blau;Opel;128;Astra;MÑnnlich;0;15;15;Hirzbrunnen
+159;1;Benzin;2015;47,573818735;7,617516518;Blau;Opel;128;Corsa;MÑnnlich;0;15;15;Hirzbrunnen
+167;1;Benzin;2015;47,573818735;7,617516518;Blau;Opel;128;Zafira;Weiblich;0;15;15;Hirzbrunnen
+115;1;Benzin;2015;47,573818735;7,617516518;Blau;Renault;42;Twingo;Weiblich;0;15;15;Hirzbrunnen
+368;1;Benzin;2015;47,573818735;7,617516518;Blau;VW;90;Golf;Weiblich;0;15;15;Hirzbrunnen
+126;1;Benzin;2015;47,573818735;7,617516518;Blau;VW;90;Polo;Weiblich;0;15;15;Hirzbrunnen
+217;1;Benzin;2015;47,566507744;7,604341507;Blau;VW;90;Golf;Weiblich;0;16;16;Rosental
+194;1;Benzin;2015;47,567962785;7,590866089;Blau;Fiat;125;Punto;Weiblich;0;17;17;MatthÑus
+154;1;Benzin;2015;47,567962785;7,590866089;Blau;Opel;128;Astra;MÑnnlich;0;17;17;MatthÑus
+103;1;Benzin;2015;47,567962785;7,590866089;Blau;Opel;128;Corsa;MÑnnlich;0;17;17;MatthÑus
+107;1;Benzin;2015;47,567962785;7,590866089;Blau;Opel;128;Vectra;Weiblich;0;17;17;MatthÑus
+161;1;Benzin;2015;47,567962785;7,590866089;Blau;Opel;128;Zafira;Weiblich;0;17;17;MatthÑus
+107;1;Benzin;2015;47,567962785;7,590866089;Blau;Renault;42;Clio;Weiblich;0;17;17;MatthÑus
+103;1;Benzin;2015;47,567962785;7,590866089;Blau;Toyota;117;Yaris;MÑnnlich;0;17;17;MatthÑus
+250;1;Benzin;2015;47,567962785;7,590866089;Blau;VW;90;Golf;MÑnnlich;0;17;17;MatthÑus
+103;1;Benzin;2015;47,567962785;7,590866089;Blau;VW;90;Polo;Weiblich;0;17;17;MatthÑus
+189;1;Benzin;2015;47,574325399;7,591981888;Blau;Opel;128;Astra;MÑnnlich;0;18;18;Klybeck
+187;1;Benzin;2015;47,574325399;7,591981888;Blau;VW;90;Golf;Weiblich;0;18;18;Klybeck
+108;1;Benzin;2015;47,583473469;7,597088814;Blau;VW;90;Golf;Weiblich;0;19;19;KleinhÅningen
+186;1;Benzin;2015;47,575686131;7,650518417;Blau;Audi;1;A3;Weiblich;0;20;20;Riehen
+158;1;Benzin;2015;47,575686131;7,650518417;Blau;Audi;1;A4;Weiblich;0;20;20;Riehen
+119;1;Benzin;2015;47,575686131;7,650518417;Blau;Audi;1;A6;MÑnnlich;0;20;20;Riehen
+108;1;Benzin;2015;47,575686131;7,650518417;Blau;BMW;81;Z3;MÑnnlich;0;20;20;Riehen
+110;1;Benzin;2015;47,575686131;7,650518417;Blau;Citroân;116;C3;MÑnnlich;0;20;20;Riehen
+141;1;Benzin;2015;47,575686131;7,650518417;Blau;Ford;165;Fiesta;Weiblich;0;20;20;Riehen
+289;1;Benzin;2015;47,575686131;7,650518417;Blau;Ford;165;Focus;Weiblich;0;20;20;Riehen
+176;1;Benzin;2015;47,575686131;7,650518417;Blau;Honda;7;Jazz;MÑnnlich;0;20;20;Riehen
+125;1;Benzin;2015;47,575686131;7,650518417;Blau;Mercedes-Benz;5;A;Weiblich;0;20;20;Riehen
+135;1;Benzin;2015;47,575686131;7,650518417;Blau;Mitsubishi;64;Colt;Weiblich;0;20;20;Riehen
+407;1;Benzin;2015;47,575686131;7,650518417;Blau;Opel;128;Astra;MÑnnlich;0;20;20;Riehen
+156;1;Benzin;2015;47,575686131;7,650518417;Blau;Opel;128;Corsa;MÑnnlich;0;20;20;Riehen
+116;1;Benzin;2015;47,575686131;7,650518417;Blau;Opel;128;Meriva;Weiblich;0;20;20;Riehen
+272;1;Benzin;2015;47,575686131;7,650518417;Blau;Opel;128;Zafira;Weiblich;0;20;20;Riehen
+135;1;Benzin;2015;47,575686131;7,650518417;Blau;Peugeot;170;206;Weiblich;0;20;20;Riehen
+207;1;Benzin;2015;47,575686131;7,650518417;Blau;Renault;42;Clio;MÑnnlich;0;20;20;Riehen
+154;1;Benzin;2015;47,575686131;7,650518417;Blau;Renault;42;MÇgane;Weiblich;0;20;20;Riehen
+141;1;Benzin;2015;47,575686131;7,650518417;Blau;Renault;42;Twingo;Weiblich;0;20;20;Riehen
+157;1;Benzin;2015;47,575686131;7,650518417;Blau;Saab;32;9;MÑnnlich;0;20;20;Riehen
+117;1;Benzin;2015;47,575686131;7,650518417;Blau;Skoda;134;Octavia;Weiblich;0;20;20;Riehen
+103;1;Benzin;2015;47,575686131;7,650518417;Blau;Toyota;117;Corolla;Weiblich;0;20;20;Riehen
+225;1;Benzin;2015;47,575686131;7,650518417;Blau;Toyota;117;Yaris;MÑnnlich;0;20;20;Riehen
+811;1;Benzin;2015;47,575686131;7,650518417;Blau;VW;90;Golf;Weiblich;0;20;20;Riehen
+120;1;Benzin;2015;47,575686131;7,650518417;Blau;VW;90;Passat;MÑnnlich;0;20;20;Riehen
+271;1;Benzin;2015;47,575686131;7,650518417;Blau;VW;90;Polo;Weiblich;0;20;20;Riehen
+234;1;Benzin;2015;47,575686131;7,650518417;Blau;Volvo;16;V70;Weiblich;0;20;20;Riehen
+102;1;Benzin;2015;47,556104110;7,589728832;Dunkelblau;VW;90;Golf;Weiblich;0;1;1;Altstadt Grossbasel
+164;1;Benzin;2015;47,555336607;7,578560114;Dunkelblau;VW;90;Golf;Weiblich;0;3;3;Am Ring
+156;1;Benzin;2015;47,547740610;7,605414391;Dunkelblau;VW;90;Golf;MÑnnlich;0;5;5;St. Alban
+116;1;Benzin;2015;47,543388166;7,592303753;Dunkelblau;Audi;1;A3;Weiblich;0;6;6;Gundeldingen
+123;1;Benzin;2015;47,543388166;7,592303753;Dunkelblau;Ford;165;Fiesta;Weiblich;0;6;6;Gundeldingen
+124;1;Benzin;2015;47,543388166;7,592303753;Dunkelblau;VW;90;Golf;Weiblich;0;6;6;Gundeldingen
+103;1;Benzin;2015;47,530785042;7,598108053;Dunkelblau;VW;90;Golf;MÑnnlich;0;7;7;Bruderholz
+149;1;Benzin;2015;47,560904373;7,565889359;Dunkelblau;VW;90;Golf;MÑnnlich;0;10;10;Iselin
+106;1;Benzin;2015;47,573818735;7,617516518;Dunkelblau;VW;90;Golf;Weiblich;0;15;15;Hirzbrunnen
+118;1;Benzin;2015;47,567962785;7,590866089;Dunkelblau;Audi;1;A4;Weiblich;0;17;17;MatthÑus
+146;1;Benzin;2015;47,567962785;7,590866089;Dunkelblau;VW;90;Golf;MÑnnlich;0;17;17;MatthÑus
+104;1;Benzin;2015;47,567962785;7,590866089;Dunkelblau;VW;90;Polo;MÑnnlich;0;17;17;MatthÑus
+130;1;Benzin;2015;47,575686131;7,650518417;Dunkelblau;Audi;1;A4;Weiblich;0;20;20;Riehen
+102;1;Benzin;2015;47,575686131;7,650518417;Dunkelblau;Opel;128;Astra;Weiblich;0;20;20;Riehen
+205;1;Benzin;2015;47,575686131;7,650518417;Dunkelblau;VW;90;Golf;MÑnnlich;0;20;20;Riehen
+106;1;Benzin;2015;47,575686131;7,650518417;Dunkelblau;VW;90;Touran;MÑnnlich;0;20;20;Riehen
+136;1;Benzin;2015;47,545249405;7,661075592;Dunkelgrau;Skoda;134;Octavia;Weiblich;0;0;99;ausserkantonal
+112;1;Benzin;2015;47,551734258;7,591713667;Dunkelgrau;Audi;1;A3;Weiblich;0;2;2;VorstÑdte
+154;1;Benzin;2015;47,552034765;7,619726658;Dunkelgrau;Toyota;117;Yaris;MÑnnlich;0;4;4;Breite
+132;1;Benzin;2015;47,547740610;7,605414391;Dunkelgrau;Skoda;134;Octavia;Weiblich;0;5;5;St. Alban
+224;1;Benzin;2015;47,547740610;7,605414391;Dunkelgrau;VW;90;Golf;MÑnnlich;0;5;5;St. Alban
+143;1;Benzin;2015;47,543388166;7,592303753;Dunkelgrau;Skoda;134;Octavia;Weiblich;0;6;6;Gundeldingen
+115;1;Benzin;2015;47,543388166;7,592303753;Dunkelgrau;Toyota;117;Rav4;Weiblich;0;6;6;Gundeldingen
+248;1;Benzin;2015;47,543388166;7,592303753;Dunkelgrau;VW;90;Golf;Weiblich;0;6;6;Gundeldingen
+137;1;Benzin;2015;47,530785042;7,598108053;Dunkelgrau;VW;90;Golf;Weiblich;0;7;7;Bruderholz
+154;1;Benzin;2015;47,548247527;7,571521997;Dunkelgrau;VW;90;Golf;MÑnnlich;0;8;8;Bachletten
+101;1;Benzin;2015;47,548247527;7,571521997;Dunkelgrau;VW;90;Touran;MÑnnlich;0;8;8;Bachletten
+123;1;Benzin;2015;47,560904373;7,565889359;Dunkelgrau;Audi;1;A3;Weiblich;0;10;10;Iselin
+238;1;Benzin;2015;47,560904373;7,565889359;Dunkelgrau;VW;90;Golf;MÑnnlich;0;10;10;Iselin
+162;1;Benzin;2015;47,572168422;7,572809458;Dunkelgrau;VW;90;Golf;Weiblich;0;11;11;St. Johann
+129;1;Benzin;2015;47,573818735;7,617516518;Dunkelgrau;Opel;128;Astra;MÑnnlich;0;15;15;Hirzbrunnen
+120;1;Benzin;2015;47,573818735;7,617516518;Dunkelgrau;Opel;128;Zafira;Weiblich;0;15;15;Hirzbrunnen
+112;1;Benzin;2015;47,566507744;7,604341507;Dunkelgrau;VW;90;Polo;MÑnnlich;0;16;16;Rosental
+121;1;Benzin;2015;47,575686131;7,650518417;Dunkelgrau;Audi;1;A3;MÑnnlich;0;20;20;Riehen
+114;1;Benzin;2015;47,575686131;7,650518417;Dunkelgrau;Mercedes-Benz;5;A;Weiblich;0;20;20;Riehen
+125;1;Benzin;2015;47,575686131;7,650518417;Dunkelgrau;Toyota;117;Corolla;MÑnnlich;0;20;20;Riehen
+268;1;Benzin;2015;47,575686131;7,650518417;Dunkelgrau;VW;90;Golf;MÑnnlich;0;20;20;Riehen
+194;1;Benzin;2015;47,575686131;7,650518417;Dunkelgrau;VW;90;Polo;MÑnnlich;0;20;20;Riehen
+140;1;Benzin;2015;47,575686131;7,650518417;Dunkelgrau;VW;90;Touran;MÑnnlich;0;20;20;Riehen
+134;1;Benzin;2015;47,567962785;7,590866089;Gelb;Opel;128;Astra;Weiblich;0;17;17;MatthÑus
+106;1;Benzin;2015;47,545249405;7,661075592;Grau;Audi;1;A4;MÑnnlich;0;0;99;ausserkantonal
+115;1;Benzin;2015;47,545249405;7,661075592;Grau;Audi;1;A6;MÑnnlich;0;0;99;ausserkantonal
+106;1;Benzin;2015;47,545249405;7,661075592;Grau;Fiat;125;500;MÑnnlich;0;0;99;ausserkantonal
+125;1;Benzin;2015;47,545249405;7,661075592;Grau;Ford;165;Focus;MÑnnlich;0;0;99;ausserkantonal
+126;1;Benzin;2015;47,545249405;7,661075592;Grau;Mercedes-Benz;5;E;Weiblich;0;0;99;ausserkantonal
+103;1;Benzin;2015;47,545249405;7,661075592;Grau;Opel;128;Astra;MÑnnlich;0;0;99;ausserkantonal
+228;1;Benzin;2015;47,545249405;7,661075592;Grau;Skoda;134;Octavia;MÑnnlich;0;0;99;ausserkantonal
+242;1;Benzin;2015;47,545249405;7,661075592;Grau;VW;90;Golf;MÑnnlich;0;0;99;ausserkantonal
+197;1;Benzin;2015;47,556104110;7,589728832;Grau;Mercedes-Benz;5;C;Weiblich;0;1;1;Altstadt Grossbasel
+101;1;Benzin;2015;47,556104110;7,589728832;Grau;Toyota;117;Yaris;Weiblich;0;1;1;Altstadt Grossbasel
+156;1;Benzin;2015;47,556104110;7,589728832;Grau;VW;90;Golf;MÑnnlich;0;1;1;Altstadt Grossbasel
+121;1;Benzin;2015;47,556104110;7,589728832;Grau;VW;90;Polo;MÑnnlich;0;1;1;Altstadt Grossbasel
+110;1;Benzin;2015;47,551734258;7,591713667;Grau;BMW;81;X3;Weiblich;0;2;2;VorstÑdte
+101;1;Benzin;2015;47,551734258;7,591713667;Grau;Fiat;125;Punto;MÑnnlich;0;2;2;VorstÑdte
+153;1;Benzin;2015;47,551734258;7,591713667;Grau;Mercedes-Benz;5;A;MÑnnlich;0;2;2;VorstÑdte
+176;1;Benzin;2015;47,551734258;7,591713667;Grau;Mercedes-Benz;5;B;Weiblich;0;2;2;VorstÑdte
+103;1;Benzin;2015;47,551734258;7,591713667;Grau;Mercedes-Benz;5;C;MÑnnlich;0;2;2;VorstÑdte
+100;1;Benzin;2015;47,551734258;7,591713667;Grau;Mercedes-Benz;5;Clk;MÑnnlich;0;2;2;VorstÑdte
+120;1;Benzin;2015;47,551734258;7,591713667;Grau;Mini;112;Cooper;MÑnnlich;0;2;2;VorstÑdte
+119;1;Benzin;2015;47,551734258;7,591713667;Grau;Opel;128;Corsa;MÑnnlich;0;2;2;VorstÑdte
+160;1;Benzin;2015;47,551734258;7,591713667;Grau;Opel;128;Zafira;MÑnnlich;0;2;2;VorstÑdte
+123;1;Benzin;2015;47,551734258;7,591713667;Grau;Porsche;113;911;MÑnnlich;0;2;2;VorstÑdte
+179;1;Benzin;2015;47,551734258;7,591713667;Grau;Saab;32;9;MÑnnlich;0;2;2;VorstÑdte
+313;1;Benzin;2015;47,551734258;7,591713667;Grau;VW;90;Golf;MÑnnlich;0;2;2;VorstÑdte
+135;1;Benzin;2015;47,551734258;7,591713667;Grau;VW;90;Polo;MÑnnlich;0;2;2;VorstÑdte
+115;1;Benzin;2015;47,555336607;7,578560114;Grau;Alfa Romeo;147;147;MÑnnlich;0;3;3;Am Ring
+252;1;Benzin;2015;47,555336607;7,578560114;Grau;Audi;1;A4;Weiblich;0;3;3;Am Ring
+143;1;Benzin;2015;47,555336607;7,578560114;Grau;Fiat;125;Punto;MÑnnlich;0;3;3;Am Ring
+121;1;Benzin;2015;47,555336607;7,578560114;Grau;Ford;165;Focus;Weiblich;0;3;3;Am Ring
+169;1;Benzin;2015;47,555336607;7,578560114;Grau;Honda;7;Jazz;Weiblich;0;3;3;Am Ring
+126;1;Benzin;2015;47,555336607;7,578560114;Grau;Mazda;122;3;Weiblich;0;3;3;Am Ring
+216;1;Benzin;2015;47,555336607;7,578560114;Grau;Mercedes-Benz;5;A;Weiblich;0;3;3;Am Ring
+117;1;Benzin;2015;47,555336607;7,578560114;Grau;Mercedes-Benz;5;B;MÑnnlich;0;3;3;Am Ring
+201;1;Benzin;2015;47,555336607;7,578560114;Grau;Mercedes-Benz;5;C;Weiblich;0;3;3;Am Ring
+173;1;Benzin;2015;47,555336607;7,578560114;Grau;Mercedes-Benz;5;E;MÑnnlich;0;3;3;Am Ring
+136;1;Benzin;2015;47,555336607;7,578560114;Grau;Opel;128;Agila;MÑnnlich;0;3;3;Am Ring
+226;1;Benzin;2015;47,555336607;7,578560114;Grau;Opel;128;Astra;Weiblich;0;3;3;Am Ring
+109;1;Benzin;2015;47,555336607;7,578560114;Grau;Opel;128;Corsa;Weiblich;0;3;3;Am Ring
+111;1;Benzin;2015;47,555336607;7,578560114;Grau;Opel;128;Meriva;Weiblich;0;3;3;Am Ring
+185;1;Benzin;2015;47,555336607;7,578560114;Grau;Opel;128;Zafira;MÑnnlich;0;3;3;Am Ring
+109;1;Benzin;2015;47,555336607;7,578560114;Grau;Peugeot;170;206;Weiblich;0;3;3;Am Ring
+248;1;Benzin;2015;47,555336607;7,578560114;Grau;Renault;42;Clio;Weiblich;0;3;3;Am Ring
+105;1;Benzin;2015;47,555336607;7,578560114;Grau;Saab;32;9;MÑnnlich;0;3;3;Am Ring
+101;1;Benzin;2015;47,555336607;7,578560114;Grau;Smart;104;Fortwo;Weiblich;0;3;3;Am Ring
+165;1;Benzin;2015;47,555336607;7,578560114;Grau;Toyota;117;Corolla;Weiblich;0;3;3;Am Ring
+216;1;Benzin;2015;47,555336607;7,578560114;Grau;Toyota;117;Yaris;MÑnnlich;0;3;3;Am Ring
+407;1;Benzin;2015;47,555336607;7,578560114;Grau;VW;90;Golf;Weiblich;0;3;3;Am Ring
+199;1;Benzin;2015;47,555336607;7,578560114;Grau;VW;90;Passat;MÑnnlich;0;3;3;Am Ring
+174;1;Benzin;2015;47,555336607;7,578560114;Grau;VW;90;Polo;Weiblich;0;3;3;Am Ring
+242;1;Benzin;2015;47,552034765;7,619726658;Grau;Audi;1;A3;MÑnnlich;0;4;4;Breite
+218;1;Benzin;2015;47,552034765;7,619726658;Grau;Audi;1;A4;MÑnnlich;0;4;4;Breite
+113;1;Benzin;2015;47,552034765;7,619726658;Grau;BMW;81;320i;MÑnnlich;0;4;4;Breite
+201;1;Benzin;2015;47,552034765;7,619726658;Grau;Fiat;125;Punto;MÑnnlich;0;4;4;Breite
+119;1;Benzin;2015;47,552034765;7,619726658;Grau;Ford;165;Focus;Weiblich;0;4;4;Breite
+182;1;Benzin;2015;47,552034765;7,619726658;Grau;Honda;7;Jazz;Weiblich;0;4;4;Breite
+134;1;Benzin;2015;47,552034765;7,619726658;Grau;Mazda;122;3;Weiblich;0;4;4;Breite
+282;1;Benzin;2015;47,552034765;7,619726658;Grau;Mercedes-Benz;5;A;MÑnnlich;0;4;4;Breite
+235;1;Benzin;2015;47,552034765;7,619726658;Grau;Mercedes-Benz;5;C;MÑnnlich;0;4;4;Breite
+133;1;Benzin;2015;47,552034765;7,619726658;Grau;Mercedes-Benz;5;E;Weiblich;0;4;4;Breite
+293;1;Benzin;2015;47,552034765;7,619726658;Grau;Opel;128;Astra;Weiblich;0;4;4;Breite
+191;1;Benzin;2015;47,552034765;7,619726658;Grau;Opel;128;Corsa;Weiblich;0;4;4;Breite
+160;1;Benzin;2015;47,552034765;7,619726658;Grau;Opel;128;Vectra;MÑnnlich;0;4;4;Breite
+160;1;Benzin;2015;47,552034765;7,619726658;Grau;Opel;128;Zafira;Weiblich;0;4;4;Breite
+238;1;Benzin;2015;47,552034765;7,619726658;Grau;Peugeot;170;206;Weiblich;0;4;4;Breite
+139;1;Benzin;2015;47,552034765;7,619726658;Grau;Peugeot;170;307;Weiblich;0;4;4;Breite
+233;1;Benzin;2015;47,552034765;7,619726658;Grau;Renault;42;Clio;Weiblich;0;4;4;Breite
+111;1;Benzin;2015;47,552034765;7,619726658;Grau;Renault;42;MÇgane;Weiblich;0;4;4;Breite
+135;1;Benzin;2015;47,552034765;7,619726658;Grau;Smart;104;Fortwo;Weiblich;0;4;4;Breite
+130;1;Benzin;2015;47,552034765;7,619726658;Grau;Toyota;117;Corolla;MÑnnlich;0;4;4;Breite
+186;1;Benzin;2015;47,552034765;7,619726658;Grau;Toyota;117;Yaris;Weiblich;0;4;4;Breite
+372;1;Benzin;2015;47,552034765;7,619726658;Grau;VW;90;Golf;Weiblich;0;4;4;Breite
+160;1;Benzin;2015;47,552034765;7,619726658;Grau;VW;90;Polo;Weiblich;0;4;4;Breite
+483;1;Benzin;2015;47,547740610;7,605414391;Grau;Audi;1;A3;Weiblich;0;5;5;St. Alban
+300;1;Benzin;2015;47,547740610;7,605414391;Grau;Audi;1;A4;Weiblich;0;5;5;St. Alban
+104;1;Benzin;2015;47,547740610;7,605414391;Grau;Audi;1;A6;Weiblich;0;5;5;St. Alban
+133;1;Benzin;2015;47,547740610;7,605414391;Grau;Citroân;116;C3;Keine Angabe;0;5;5;St. Alban
+123;1;Benzin;2015;47,547740610;7,605414391;Grau;Fiat;125;500;MÑnnlich;0;5;5;St. Alban
+191;1;Benzin;2015;47,547740610;7,605414391;Grau;Fiat;125;Punto;Weiblich;0;5;5;St. Alban
+112;1;Benzin;2015;47,547740610;7,605414391;Grau;Ford;165;Focus;MÑnnlich;0;5;5;St. Alban
+147;1;Benzin;2015;47,547740610;7,605414391;Grau;Honda;7;Jazz;Weiblich;0;5;5;St. Alban
+101;1;Benzin;2015;47,547740610;7,605414391;Grau;Mazda;122;6;Weiblich;0;5;5;St. Alban
+366;1;Benzin;2015;47,547740610;7,605414391;Grau;Mercedes-Benz;5;A;Weiblich;0;5;5;St. Alban
+316;1;Benzin;2015;47,547740610;7,605414391;Grau;Mercedes-Benz;5;B;MÑnnlich;0;5;5;St. Alban
+465;1;Benzin;2015;47,547740610;7,605414391;Grau;Mercedes-Benz;5;C;MÑnnlich;0;5;5;St. Alban
+133;1;Benzin;2015;47,547740610;7,605414391;Grau;Mercedes-Benz;5;E;MÑnnlich;0;5;5;St. Alban
+293;1;Benzin;2015;47,547740610;7,605414391;Grau;Mini;112;Cooper;MÑnnlich;0;5;5;St. Alban
+103;1;Benzin;2015;47,547740610;7,605414391;Grau;Mitsubishi;64;Colt;Weiblich;0;5;5;St. Alban
+296;1;Benzin;2015;47,547740610;7,605414391;Grau;Opel;128;Astra;Weiblich;0;5;5;St. Alban
+123;1;Benzin;2015;47,547740610;7,605414391;Grau;Opel;128;Corsa;MÑnnlich;0;5;5;St. Alban
+146;1;Benzin;2015;47,547740610;7,605414391;Grau;Opel;128;Meriva;MÑnnlich;0;5;5;St. Alban
+117;1;Benzin;2015;47,547740610;7,605414391;Grau;Opel;128;Vectra;MÑnnlich;0;5;5;St. Alban
+227;1;Benzin;2015;47,547740610;7,605414391;Grau;Opel;128;Zafira;MÑnnlich;0;5;5;St. Alban
+263;1;Benzin;2015;47,547740610;7,605414391;Grau;Peugeot;170;206;MÑnnlich;0;5;5;St. Alban
+188;1;Benzin;2015;47,547740610;7,605414391;Grau;Peugeot;170;307;Weiblich;0;5;5;St. Alban
+123;1;Benzin;2015;47,547740610;7,605414391;Grau;Porsche;113;911;MÑnnlich;0;5;5;St. Alban
+126;1;Benzin;2015;47,547740610;7,605414391;Grau;Renault;42;Megane;MÑnnlich;0;5;5;St. Alban
+115;1;Benzin;2015;47,547740610;7,605414391;Grau;Saab;32;9;MÑnnlich;0;5;5;St. Alban
+231;1;Benzin;2015;47,547740610;7,605414391;Grau;Skoda;134;Fabia;MÑnnlich;0;5;5;St. Alban
+150;1;Benzin;2015;47,547740610;7,605414391;Grau;Skoda;134;Octavia;MÑnnlich;0;5;5;St. Alban
+164;1;Benzin;2015;47,547740610;7,605414391;Grau;Smart;104;Fortwo;Weiblich;0;5;5;St. Alban
+108;1;Benzin;2015;47,547740610;7,605414391;Grau;Toyota;117;Avensis;MÑnnlich;0;5;5;St. Alban
+145;1;Benzin;2015;47,547740610;7,605414391;Grau;Toyota;117;Yaris;MÑnnlich;0;5;5;St. Alban
+1026;1;Benzin;2015;47,547740610;7,605414391;Grau;VW;90;Golf;MÑnnlich;0;5;5;St. Alban
+207;1;Benzin;2015;47,547740610;7,605414391;Grau;VW;90;Passat;MÑnnlich;0;5;5;St. Alban
+333;1;Benzin;2015;47,547740610;7,605414391;Grau;VW;90;Polo;MÑnnlich;0;5;5;St. Alban
+128;1;Benzin;2015;47,547740610;7,605414391;Grau;VW;90;Touran;MÑnnlich;0;5;5;St. Alban
+125;1;Benzin;2015;47,547740610;7,605414391;Grau;Volvo;16;V50;MÑnnlich;0;5;5;St. Alban
+100;1;Benzin;2015;47,543388166;7,592303753;Grau;Alfa Romeo;147;147;Weiblich;0;6;6;Gundeldingen
+195;1;Benzin;2015;47,543388166;7,592303753;Grau;Audi;1;A3;MÑnnlich;0;6;6;Gundeldingen
+406;1;Benzin;2015;47,543388166;7,592303753;Grau;Audi;1;A4;Weiblich;0;6;6;Gundeldingen
+171;1;Benzin;2015;47,543388166;7,592303753;Grau;Audi;1;A6;MÑnnlich;0;6;6;Gundeldingen
+121;1;Benzin;2015;47,543388166;7,592303753;Grau;BMW;81;320i;MÑnnlich;0;6;6;Gundeldingen
+107;1;Benzin;2015;47,543388166;7,592303753;Grau;BMW;81;325i;MÑnnlich;0;6;6;Gundeldingen
+145;1;Benzin;2015;47,543388166;7,592303753;Grau;Citroân;116;C4;MÑnnlich;0;6;6;Gundeldingen
+363;1;Benzin;2015;47,543388166;7,592303753;Grau;Fiat;125;Punto;MÑnnlich;0;6;6;Gundeldingen
+210;1;Benzin;2015;47,543388166;7,592303753;Grau;Ford;165;Focus;Weiblich;0;6;6;Gundeldingen
+135;1;Benzin;2015;47,543388166;7,592303753;Grau;Honda;7;Civic;MÑnnlich;0;6;6;Gundeldingen
+237;1;Benzin;2015;47,543388166;7,592303753;Grau;Mercedes-Benz;5;A;MÑnnlich;0;6;6;Gundeldingen
+129;1;Benzin;2015;47,543388166;7,592303753;Grau;Mercedes-Benz;5;B;MÑnnlich;0;6;6;Gundeldingen
+405;1;Benzin;2015;47,543388166;7,592303753;Grau;Mercedes-Benz;5;C;Weiblich;0;6;6;Gundeldingen
+253;1;Benzin;2015;47,543388166;7,592303753;Grau;Mercedes-Benz;5;E;Weiblich;0;6;6;Gundeldingen
+151;1;Benzin;2015;47,543388166;7,592303753;Grau;Mini;112;Cooper;Weiblich;0;6;6;Gundeldingen
+607;1;Benzin;2015;47,543388166;7,592303753;Grau;Opel;128;Astra;Weiblich;0;6;6;Gundeldingen
+207;1;Benzin;2015;47,543388166;7,592303753;Grau;Opel;128;Corsa;Weiblich;0;6;6;Gundeldingen
+100;1;Benzin;2015;47,543388166;7,592303753;Grau;Opel;128;Meriva;MÑnnlich;0;6;6;Gundeldingen
+190;1;Benzin;2015;47,543388166;7,592303753;Grau;Opel;128;Vectra;MÑnnlich;0;6;6;Gundeldingen
+262;1;Benzin;2015;47,543388166;7,592303753;Grau;Opel;128;Zafira;Weiblich;0;6;6;Gundeldingen
+339;1;Benzin;2015;47,543388166;7,592303753;Grau;Peugeot;170;206;MÑnnlich;0;6;6;Gundeldingen
+230;1;Benzin;2015;47,543388166;7,592303753;Grau;Peugeot;170;207;Weiblich;0;6;6;Gundeldingen
+125;1;Benzin;2015;47,543388166;7,592303753;Grau;Peugeot;170;307;Weiblich;0;6;6;Gundeldingen
+111;1;Benzin;2015;47,543388166;7,592303753;Grau;Renault;42;Clio;Weiblich;0;6;6;Gundeldingen
+132;1;Benzin;2015;47,543388166;7,592303753;Grau;Renault;42;Laguna;MÑnnlich;0;6;6;Gundeldingen
+128;1;Benzin;2015;47,543388166;7,592303753;Grau;Skoda;134;Octavia;Weiblich;0;6;6;Gundeldingen
+116;1;Benzin;2015;47,543388166;7,592303753;Grau;Smart;104;Fortwo;Weiblich;0;6;6;Gundeldingen
+155;1;Benzin;2015;47,543388166;7,592303753;Grau;Toyota;117;Corolla;MÑnnlich;0;6;6;Gundeldingen
+267;1;Benzin;2015;47,543388166;7,592303753;Grau;Toyota;117;Yaris;Weiblich;0;6;6;Gundeldingen
+851;1;Benzin;2015;47,543388166;7,592303753;Grau;VW;90;Golf;Weiblich;0;6;6;Gundeldingen
+214;1;Benzin;2015;47,543388166;7,592303753;Grau;VW;90;Passat;Weiblich;0;6;6;Gundeldingen
+333;1;Benzin;2015;47,543388166;7,592303753;Grau;VW;90;Polo;Weiblich;0;6;6;Gundeldingen
+109;1;Benzin;2015;47,543388166;7,592303753;Grau;Volvo;16;S60;Weiblich;0;6;6;Gundeldingen
+101;1;Benzin;2015;47,530785042;7,598108053;Grau;Audi;1;A3;Weiblich;0;7;7;Bruderholz
+217;1;Benzin;2015;47,530785042;7,598108053;Grau;Audi;1;A4;Weiblich;0;7;7;Bruderholz
+132;1;Benzin;2015;47,530785042;7,598108053;Grau;Citroân;116;C3;Weiblich;0;7;7;Bruderholz
+154;1;Benzin;2015;47,530785042;7,598108053;Grau;Fiat;125;500;Weiblich;0;7;7;Bruderholz
+109;1;Benzin;2015;47,530785042;7,598108053;Grau;Fiat;125;Punto;MÑnnlich;0;7;7;Bruderholz
+115;1;Benzin;2015;47,530785042;7,598108053;Grau;Ford;165;Focus;Weiblich;0;7;7;Bruderholz
+110;1;Benzin;2015;47,530785042;7,598108053;Grau;Honda;7;Jazz;MÑnnlich;0;7;7;Bruderholz
+429;1;Benzin;2015;47,530785042;7,598108053;Grau;Mercedes-Benz;5;A;Weiblich;0;7;7;Bruderholz
+156;1;Benzin;2015;47,530785042;7,598108053;Grau;Mercedes-Benz;5;C;Weiblich;0;7;7;Bruderholz
+163;1;Benzin;2015;47,530785042;7,598108053;Grau;Mercedes-Benz;5;E;Weiblich;0;7;7;Bruderholz
+193;1;Benzin;2015;47,530785042;7,598108053;Grau;Mini;112;Cooper;MÑnnlich;0;7;7;Bruderholz
+196;1;Benzin;2015;47,530785042;7,598108053;Grau;Opel;128;Astra;Weiblich;0;7;7;Bruderholz
+205;1;Benzin;2015;47,530785042;7,598108053;Grau;Opel;128;Zafira;Weiblich;0;7;7;Bruderholz
+124;1;Benzin;2015;47,530785042;7,598108053;Grau;Peugeot;170;206;Weiblich;0;7;7;Bruderholz
+198;1;Benzin;2015;47,530785042;7,598108053;Grau;Peugeot;170;307;Weiblich;0;7;7;Bruderholz
+137;1;Benzin;2015;47,530785042;7,598108053;Grau;Porsche;113;911;MÑnnlich;0;7;7;Bruderholz
+148;1;Benzin;2015;47,530785042;7,598108053;Grau;Renault;42;MÇgane;Weiblich;0;7;7;Bruderholz
+101;1;Benzin;2015;47,530785042;7,598108053;Grau;Saab;32;9;Weiblich;0;7;7;Bruderholz
+170;1;Benzin;2015;47,530785042;7,598108053;Grau;Subaru;17;Legacy;MÑnnlich;0;7;7;Bruderholz
+122;1;Benzin;2015;47,530785042;7,598108053;Grau;Toyota;117;Avensis;MÑnnlich;0;7;7;Bruderholz
+132;1;Benzin;2015;47,530785042;7,598108053;Grau;Toyota;117;Corolla;Weiblich;0;7;7;Bruderholz
+278;1;Benzin;2015;47,530785042;7,598108053;Grau;Toyota;117;Yaris;Weiblich;0;7;7;Bruderholz
+698;1;Benzin;2015;47,530785042;7,598108053;Grau;VW;90;Golf;MÑnnlich;0;7;7;Bruderholz
+167;1;Benzin;2015;47,530785042;7,598108053;Grau;VW;90;Polo;MÑnnlich;0;7;7;Bruderholz
+101;1;Benzin;2015;47,530785042;7,598108053;Grau;VW;90;Touran;MÑnnlich;0;7;7;Bruderholz
+279;1;Benzin;2015;47,548247527;7,571521997;Grau;Audi;1;A3;MÑnnlich;0;8;8;Bachletten
+147;1;Benzin;2015;47,548247527;7,571521997;Grau;Audi;1;A4;MÑnnlich;0;8;8;Bachletten
+107;1;Benzin;2015;47,548247527;7,571521997;Grau;Audi;1;A6;MÑnnlich;0;8;8;Bachletten
+131;1;Benzin;2015;47,548247527;7,571521997;Grau;BMW;81;320i;MÑnnlich;0;8;8;Bachletten
+111;1;Benzin;2015;47,548247527;7,571521997;Grau;Citroân;116;C4;MÑnnlich;0;8;8;Bachletten
+116;1;Benzin;2015;47,548247527;7,571521997;Grau;Fiat;125;500;MÑnnlich;0;8;8;Bachletten
+253;1;Benzin;2015;47,548247527;7,571521997;Grau;Fiat;125;Punto;MÑnnlich;0;8;8;Bachletten
+151;1;Benzin;2015;47,548247527;7,571521997;Grau;Ford;165;Focus;MÑnnlich;0;8;8;Bachletten
+124;1;Benzin;2015;47,548247527;7,571521997;Grau;Honda;7;Civic;MÑnnlich;0;8;8;Bachletten
+172;1;Benzin;2015;47,548247527;7,571521997;Grau;Honda;7;Jazz;MÑnnlich;0;8;8;Bachletten
+292;1;Benzin;2015;47,548247527;7,571521997;Grau;Mercedes-Benz;5;A;MÑnnlich;0;8;8;Bachletten
+100;1;Benzin;2015;47,548247527;7,571521997;Grau;Mercedes-Benz;5;B;MÑnnlich;0;8;8;Bachletten
+188;1;Benzin;2015;47,548247527;7,571521997;Grau;Mercedes-Benz;5;C;Weiblich;0;8;8;Bachletten
+151;1;Benzin;2015;47,548247527;7,571521997;Grau;Mercedes-Benz;5;Clk;MÑnnlich;0;8;8;Bachletten
+180;1;Benzin;2015;47,548247527;7,571521997;Grau;Mercedes-Benz;5;E;Weiblich;0;8;8;Bachletten
+101;1;Benzin;2015;47,548247527;7,571521997;Grau;Mini;112;Cooper;MÑnnlich;0;8;8;Bachletten
+106;1;Benzin;2015;47,548247527;7,571521997;Grau;Opel;128;Agila;MÑnnlich;0;8;8;Bachletten
+437;1;Benzin;2015;47,548247527;7,571521997;Grau;Opel;128;Astra;Weiblich;0;8;8;Bachletten
+286;1;Benzin;2015;47,548247527;7,571521997;Grau;Opel;128;Corsa;MÑnnlich;0;8;8;Bachletten
+120;1;Benzin;2015;47,548247527;7,571521997;Grau;Opel;128;Meriva;MÑnnlich;0;8;8;Bachletten
+122;1;Benzin;2015;47,548247527;7,571521997;Grau;Opel;128;Vectra;Weiblich;0;8;8;Bachletten
+468;1;Benzin;2015;47,548247527;7,571521997;Grau;Opel;128;Zafira;MÑnnlich;0;8;8;Bachletten
+232;1;Benzin;2015;47,548247527;7,571521997;Grau;Peugeot;170;206;Weiblich;0;8;8;Bachletten
+121;1;Benzin;2015;47,548247527;7,571521997;Grau;Peugeot;170;207;MÑnnlich;0;8;8;Bachletten
+150;1;Benzin;2015;47,548247527;7,571521997;Grau;Peugeot;170;307;MÑnnlich;0;8;8;Bachletten
+144;1;Benzin;2015;47,548247527;7,571521997;Grau;Porsche;113;911;MÑnnlich;0;8;8;Bachletten
+103;1;Benzin;2015;47,548247527;7,571521997;Grau;Renault;42;Clio;Weiblich;0;8;8;Bachletten
+149;1;Benzin;2015;47,548247527;7,571521997;Grau;Renault;42;MÇgane;Weiblich;0;8;8;Bachletten
+342;1;Benzin;2015;47,548247527;7,571521997;Grau;Saab;32;9;Weiblich;0;8;8;Bachletten
+113;1;Benzin;2015;47,548247527;7,571521997;Grau;Skoda;134;Fabia;Weiblich;0;8;8;Bachletten
+191;1;Benzin;2015;47,548247527;7,571521997;Grau;Skoda;134;Octavia;MÑnnlich;0;8;8;Bachletten
+127;1;Benzin;2015;47,548247527;7,571521997;Grau;Subaru;17;Forester;Weiblich;0;8;8;Bachletten
+144;1;Benzin;2015;47,548247527;7,571521997;Grau;Toyota;117;Avensis;MÑnnlich;0;8;8;Bachletten
+220;1;Benzin;2015;47,548247527;7,571521997;Grau;Toyota;117;Corolla;Weiblich;0;8;8;Bachletten
+344;1;Benzin;2015;47,548247527;7,571521997;Grau;Toyota;117;Yaris;Weiblich;0;8;8;Bachletten
+795;1;Benzin;2015;47,548247527;7,571521997;Grau;VW;90;Golf;MÑnnlich;0;8;8;Bachletten
+114;1;Benzin;2015;47,548247527;7,571521997;Grau;VW;90;Passat;Weiblich;0;8;8;Bachletten
+425;1;Benzin;2015;47,548247527;7,571521997;Grau;VW;90;Polo;MÑnnlich;0;8;8;Bachletten
+160;1;Benzin;2015;47,548247527;7,571521997;Grau;VW;90;Touran;MÑnnlich;0;8;8;Bachletten
+110;1;Benzin;2015;47,548247527;7,571521997;Grau;Volvo;16;V40;MÑnnlich;0;8;8;Bachletten
+122;1;Benzin;2015;47,555275061;7,569826841;Grau;Audi;1;A3;Weiblich;0;9;9;Gotthelf
+165;1;Benzin;2015;47,555275061;7,569826841;Grau;Fiat;125;Punto;MÑnnlich;0;9;9;Gotthelf
+101;1;Benzin;2015;47,555275061;7,569826841;Grau;Ford;165;Focus;MÑnnlich;0;9;9;Gotthelf
+126;1;Benzin;2015;47,555275061;7,569826841;Grau;Mercedes-Benz;5;C;MÑnnlich;0;9;9;Gotthelf
+159;1;Benzin;2015;47,555275061;7,569826841;Grau;Opel;128;Astra;MÑnnlich;0;9;9;Gotthelf
+107;1;Benzin;2015;47,555275061;7,569826841;Grau;Opel;128;Corsa;Weiblich;0;9;9;Gotthelf
+177;1;Benzin;2015;47,555275061;7,569826841;Grau;Peugeot;170;206;Weiblich;0;9;9;Gotthelf
+109;1;Benzin;2015;47,555275061;7,569826841;Grau;Skoda;134;Octavia;MÑnnlich;0;9;9;Gotthelf
+209;1;Benzin;2015;47,555275061;7,569826841;Grau;Toyota;117;Yaris;Weiblich;0;9;9;Gotthelf
+388;1;Benzin;2015;47,555275061;7,569826841;Grau;VW;90;Golf;Weiblich;0;9;9;Gotthelf
+164;1;Benzin;2015;47,555275061;7,569826841;Grau;VW;90;Polo;MÑnnlich;0;9;9;Gotthelf
+222;1;Benzin;2015;47,560904373;7,565889359;Grau;Audi;1;A3;Weiblich;0;10;10;Iselin
+174;1;Benzin;2015;47,560904373;7,565889359;Grau;Audi;1;A4;MÑnnlich;0;10;10;Iselin
+199;1;Benzin;2015;47,560904373;7,565889359;Grau;Fiat;125;Punto;Weiblich;0;10;10;Iselin
+155;1;Benzin;2015;47,560904373;7,565889359;Grau;Ford;165;Focus;MÑnnlich;0;10;10;Iselin
+105;1;Benzin;2015;47,560904373;7,565889359;Grau;Honda;7;Accord;MÑnnlich;0;10;10;Iselin
+136;1;Benzin;2015;47,560904373;7,565889359;Grau;Honda;7;Civic;Weiblich;0;10;10;Iselin
+110;1;Benzin;2015;47,560904373;7,565889359;Grau;Honda;7;Cr;Weiblich;0;10;10;Iselin
+162;1;Benzin;2015;47,560904373;7,565889359;Grau;Honda;7;Jazz;Weiblich;0;10;10;Iselin
+260;1;Benzin;2015;47,560904373;7,565889359;Grau;Mercedes-Benz;5;A;MÑnnlich;0;10;10;Iselin
+135;1;Benzin;2015;47,560904373;7,565889359;Grau;Mercedes-Benz;5;B;MÑnnlich;0;10;10;Iselin
+363;1;Benzin;2015;47,560904373;7,565889359;Grau;Mercedes-Benz;5;C;MÑnnlich;0;10;10;Iselin
+136;1;Benzin;2015;47,560904373;7,565889359;Grau;Mercedes-Benz;5;E;MÑnnlich;0;10;10;Iselin
+140;1;Benzin;2015;47,560904373;7,565889359;Grau;Mitsubishi;64;Colt;Weiblich;0;10;10;Iselin
+100;1;Benzin;2015;47,560904373;7,565889359;Grau;Mitsubishi;64;Galant;MÑnnlich;0;10;10;Iselin
+538;1;Benzin;2015;47,560904373;7,565889359;Grau;Opel;128;Astra;MÑnnlich;0;10;10;Iselin
+302;1;Benzin;2015;47,560904373;7,565889359;Grau;Opel;128;Corsa;MÑnnlich;0;10;10;Iselin
+131;1;Benzin;2015;47,560904373;7,565889359;Grau;Opel;128;Meriva;Weiblich;0;10;10;Iselin
+293;1;Benzin;2015;47,560904373;7,565889359;Grau;Opel;128;Zafira;Weiblich;0;10;10;Iselin
+380;1;Benzin;2015;47,560904373;7,565889359;Grau;Peugeot;170;206;MÑnnlich;0;10;10;Iselin
+101;1;Benzin;2015;47,560904373;7,565889359;Grau;Peugeot;170;207;Weiblich;0;10;10;Iselin
+172;1;Benzin;2015;47,560904373;7,565889359;Grau;Peugeot;170;307;Weiblich;0;10;10;Iselin
+139;1;Benzin;2015;47,560904373;7,565889359;Grau;Renault;42;MÇgane;MÑnnlich;0;10;10;Iselin
+197;1;Benzin;2015;47,560904373;7,565889359;Grau;Saab;32;9;MÑnnlich;0;10;10;Iselin
+112;1;Benzin;2015;47,560904373;7,565889359;Grau;Seat;61;Ibiza;MÑnnlich;0;10;10;Iselin
+139;1;Benzin;2015;47,560904373;7,565889359;Grau;Skoda;134;Fabia;MÑnnlich;0;10;10;Iselin
+106;1;Benzin;2015;47,560904373;7,565889359;Grau;Smart;104;Fortwo;MÑnnlich;0;10;10;Iselin
+123;1;Benzin;2015;47,560904373;7,565889359;Grau;Toyota;117;Avensis;MÑnnlich;0;10;10;Iselin
+273;1;Benzin;2015;47,560904373;7,565889359;Grau;Toyota;117;Corolla;MÑnnlich;0;10;10;Iselin
+288;1;Benzin;2015;47,560904373;7,565889359;Grau;Toyota;117;Yaris;MÑnnlich;0;10;10;Iselin
+494;1;Benzin;2015;47,560904373;7,565889359;Grau;VW;90;Golf;MÑnnlich;0;10;10;Iselin
+234;1;Benzin;2015;47,560904373;7,565889359;Grau;VW;90;Passat;Weiblich;0;10;10;Iselin
+225;1;Benzin;2015;47,560904373;7,565889359;Grau;VW;90;Polo;MÑnnlich;0;10;10;Iselin
+113;1;Benzin;2015;47,560904373;7,565889359;Grau;VW;90;Touran;Weiblich;0;10;10;Iselin
+144;1;Benzin;2015;47,572168422;7,572809458;Grau;Audi;1;A3;Weiblich;0;11;11;St. Johann
+170;1;Benzin;2015;47,572168422;7,572809458;Grau;Audi;1;A4;Weiblich;0;11;11;St. Johann
+128;1;Benzin;2015;47,572168422;7,572809458;Grau;Audi;1;A6;MÑnnlich;0;11;11;St. Johann
+165;1;Benzin;2015;47,572168422;7,572809458;Grau;BMW;81;320i;MÑnnlich;0;11;11;St. Johann
+369;1;Benzin;2015;47,572168422;7,572809458;Grau;Fiat;125;Punto;MÑnnlich;0;11;11;St. Johann
+238;1;Benzin;2015;47,572168422;7,572809458;Grau;Ford;165;Focus;Weiblich;0;11;11;St. Johann
+140;1;Benzin;2015;47,572168422;7,572809458;Grau;Honda;7;Jazz;Weiblich;0;11;11;St. Johann
+173;1;Benzin;2015;47,572168422;7,572809458;Grau;Mercedes-Benz;5;A;Weiblich;0;11;11;St. Johann
+108;1;Benzin;2015;47,572168422;7,572809458;Grau;Mercedes-Benz;5;B;MÑnnlich;0;11;11;St. Johann
+251;1;Benzin;2015;47,572168422;7,572809458;Grau;Mercedes-Benz;5;C;MÑnnlich;0;11;11;St. Johann
+148;1;Benzin;2015;47,572168422;7,572809458;Grau;Mercedes-Benz;5;E;Weiblich;0;11;11;St. Johann
+102;1;Benzin;2015;47,572168422;7,572809458;Grau;Mercedes-Benz;5;Slk;Weiblich;0;11;11;St. Johann
+122;1;Benzin;2015;47,572168422;7,572809458;Grau;Mitsubishi;64;Space;MÑnnlich;0;11;11;St. Johann
+361;1;Benzin;2015;47,572168422;7,572809458;Grau;Opel;128;Astra;Weiblich;0;11;11;St. Johann
+440;1;Benzin;2015;47,572168422;7,572809458;Grau;Opel;128;Corsa;MÑnnlich;0;11;11;St. Johann
+180;1;Benzin;2015;47,572168422;7,572809458;Grau;Opel;128;Meriva;MÑnnlich;0;11;11;St. Johann
+207;1;Benzin;2015;47,572168422;7,572809458;Grau;Opel;128;Vectra;MÑnnlich;0;11;11;St. Johann
+302;1;Benzin;2015;47,572168422;7,572809458;Grau;Opel;128;Zafira;Weiblich;0;11;11;St. Johann
+239;1;Benzin;2015;47,572168422;7,572809458;Grau;Peugeot;170;206;Weiblich;0;11;11;St. Johann
+135;1;Benzin;2015;47,572168422;7,572809458;Grau;Peugeot;170;207;Weiblich;0;11;11;St. Johann
+234;1;Benzin;2015;47,572168422;7,572809458;Grau;Peugeot;170;307;Weiblich;0;11;11;St. Johann
+232;1;Benzin;2015;47,572168422;7,572809458;Grau;Renault;42;Clio;Weiblich;0;11;11;St. Johann
+193;1;Benzin;2015;47,572168422;7,572809458;Grau;Renault;42;MÇgane;Weiblich;0;11;11;St. Johann
+171;1;Benzin;2015;47,572168422;7,572809458;Grau;Saab;32;9;MÑnnlich;0;11;11;St. Johann
+159;1;Benzin;2015;47,572168422;7,572809458;Grau;Skoda;134;Fabia;Weiblich;0;11;11;St. Johann
+106;1;Benzin;2015;47,572168422;7,572809458;Grau;Subaru;17;Legacy;MÑnnlich;0;11;11;St. Johann
+118;1;Benzin;2015;47,572168422;7,572809458;Grau;Toyota;117;Avensis;Weiblich;0;11;11;St. Johann
+176;1;Benzin;2015;47,572168422;7,572809458;Grau;Toyota;117;Corolla;Weiblich;0;11;11;St. Johann
+157;1;Benzin;2015;47,572168422;7,572809458;Grau;Toyota;117;Previa;Weiblich;0;11;11;St. Johann
+302;1;Benzin;2015;47,572168422;7,572809458;Grau;Toyota;117;Yaris;MÑnnlich;0;11;11;St. Johann
+786;1;Benzin;2015;47,572168422;7,572809458;Grau;VW;90;Golf;MÑnnlich;0;11;11;St. Johann
+171;1;Benzin;2015;47,572168422;7,572809458;Grau;VW;90;Passat;Weiblich;0;11;11;St. Johann
+360;1;Benzin;2015;47,572168422;7,572809458;Grau;VW;90;Polo;Weiblich;0;11;11;St. Johann
+104;1;Benzin;2015;47,572168422;7,572809458;Grau;Volvo;16;V40;Weiblich;0;11;11;St. Johann
+143;1;Benzin;2015;47,563973994;7,596074939;Grau;Audi;1;A4;MÑnnlich;0;13;13;Clara
+175;1;Benzin;2015;47,563973994;7,596074939;Grau;Fiat;125;Punto;MÑnnlich;0;13;13;Clara
+179;1;Benzin;2015;47,563973994;7,596074939;Grau;Ford;165;Focus;MÑnnlich;0;13;13;Clara
+150;1;Benzin;2015;47,563973994;7,596074939;Grau;Mercedes-Benz;5;C;Weiblich;0;13;13;Clara
+114;1;Benzin;2015;47,563973994;7,596074939;Grau;Opel;128;Astra;Weiblich;0;13;13;Clara
+120;1;Benzin;2015;47,563973994;7,596074939;Grau;Opel;128;Vectra;Weiblich;0;13;13;Clara
+110;1;Benzin;2015;47,563973994;7,596074939;Grau;Opel;128;Zafira;Weiblich;0;13;13;Clara
+303;1;Benzin;2015;47,563973994;7,596074939;Grau;VW;90;Golf;MÑnnlich;0;13;13;Clara
+117;1;Benzin;2015;47,560607537;7,606111765;Grau;Audi;1;A3;MÑnnlich;0;14;14;Wettstein
+149;1;Benzin;2015;47,560607537;7,606111765;Grau;Mercedes-Benz;5;C;Weiblich;0;14;14;Wettstein
+145;1;Benzin;2015;47,560607537;7,606111765;Grau;Opel;128;Astra;MÑnnlich;0;14;14;Wettstein
+111;1;Benzin;2015;47,560607537;7,606111765;Grau;Opel;128;Zafira;Weiblich;0;14;14;Wettstein
+176;1;Benzin;2015;47,560607537;7,606111765;Grau;Peugeot;170;206;MÑnnlich;0;14;14;Wettstein
+124;1;Benzin;2015;47,560607537;7,606111765;Grau;Saab;32;9;MÑnnlich;0;14;14;Wettstein
+119;1;Benzin;2015;47,560607537;7,606111765;Grau;Toyota;117;Yaris;MÑnnlich;0;14;14;Wettstein
+344;1;Benzin;2015;47,560607537;7,606111765;Grau;VW;90;Golf;Weiblich;0;14;14;Wettstein
+103;1;Benzin;2015;47,573818735;7,617516518;Grau;Audi;1;A3;Weiblich;0;15;15;Hirzbrunnen
+217;1;Benzin;2015;47,573818735;7,617516518;Grau;Audi;1;A4;Weiblich;0;15;15;Hirzbrunnen
+107;1;Benzin;2015;47,573818735;7,617516518;Grau;Fiat;125;Punto;MÑnnlich;0;15;15;Hirzbrunnen
+162;1;Benzin;2015;47,573818735;7,617516518;Grau;Ford;165;Focus;MÑnnlich;0;15;15;Hirzbrunnen
+154;1;Benzin;2015;47,573818735;7,617516518;Grau;Honda;7;Civic;MÑnnlich;0;15;15;Hirzbrunnen
+175;1;Benzin;2015;47,573818735;7,617516518;Grau;Honda;7;Jazz;Weiblich;0;15;15;Hirzbrunnen
+121;1;Benzin;2015;47,573818735;7,617516518;Grau;Mazda;122;3;MÑnnlich;0;15;15;Hirzbrunnen
+111;1;Benzin;2015;47,573818735;7,617516518;Grau;Mazda;122;323;Weiblich;0;15;15;Hirzbrunnen
+260;1;Benzin;2015;47,573818735;7,617516518;Grau;Mercedes-Benz;5;A;Weiblich;0;15;15;Hirzbrunnen
+235;1;Benzin;2015;47,573818735;7,617516518;Grau;Mercedes-Benz;5;C;MÑnnlich;0;15;15;Hirzbrunnen
+142;1;Benzin;2015;47,573818735;7,617516518;Grau;Mercedes-Benz;5;E;MÑnnlich;0;15;15;Hirzbrunnen
+144;1;Benzin;2015;47,573818735;7,617516518;Grau;Mitsubishi;64;Colt;MÑnnlich;0;15;15;Hirzbrunnen
+225;1;Benzin;2015;47,573818735;7,617516518;Grau;Mitsubishi;64;Space;MÑnnlich;0;15;15;Hirzbrunnen
+269;1;Benzin;2015;47,573818735;7,617516518;Grau;Opel;128;Astra;Weiblich;0;15;15;Hirzbrunnen
+172;1;Benzin;2015;47,573818735;7,617516518;Grau;Opel;128;Corsa;Weiblich;0;15;15;Hirzbrunnen
+164;1;Benzin;2015;47,573818735;7,617516518;Grau;Opel;128;Meriva;MÑnnlich;0;15;15;Hirzbrunnen
+228;1;Benzin;2015;47,573818735;7,617516518;Grau;Opel;128;Vectra;MÑnnlich;0;15;15;Hirzbrunnen
+210;1;Benzin;2015;47,573818735;7,617516518;Grau;Opel;128;Zafira;MÑnnlich;0;15;15;Hirzbrunnen
+125;1;Benzin;2015;47,573818735;7,617516518;Grau;Peugeot;170;207;MÑnnlich;0;15;15;Hirzbrunnen
+122;1;Benzin;2015;47,573818735;7,617516518;Grau;Peugeot;170;307;Weiblich;0;15;15;Hirzbrunnen
+143;1;Benzin;2015;47,573818735;7,617516518;Grau;Renault;42;Clio;Weiblich;0;15;15;Hirzbrunnen
+177;1;Benzin;2015;47,573818735;7,617516518;Grau;Renault;42;MÇgane;Weiblich;0;15;15;Hirzbrunnen
+114;1;Benzin;2015;47,573818735;7,617516518;Grau;Skoda;134;Fabia;Weiblich;0;15;15;Hirzbrunnen
+136;1;Benzin;2015;47,573818735;7,617516518;Grau;Toyota;117;Avensis;MÑnnlich;0;15;15;Hirzbrunnen
+209;1;Benzin;2015;47,573818735;7,617516518;Grau;Toyota;117;Corolla;MÑnnlich;0;15;15;Hirzbrunnen
+107;1;Benzin;2015;47,573818735;7,617516518;Grau;Toyota;117;Rav4;Weiblich;0;15;15;Hirzbrunnen
+253;1;Benzin;2015;47,573818735;7,617516518;Grau;Toyota;117;Yaris;MÑnnlich;0;15;15;Hirzbrunnen
+482;1;Benzin;2015;47,573818735;7,617516518;Grau;VW;90;Golf;Weiblich;0;15;15;Hirzbrunnen
+104;1;Benzin;2015;47,573818735;7,617516518;Grau;VW;90;Passat;MÑnnlich;0;15;15;Hirzbrunnen
+219;1;Benzin;2015;47,573818735;7,617516518;Grau;VW;90;Polo;MÑnnlich;0;15;15;Hirzbrunnen
+127;1;Benzin;2015;47,573818735;7,617516518;Grau;VW;90;Touran;MÑnnlich;0;15;15;Hirzbrunnen
+152;1;Benzin;2015;47,566507744;7,604341507;Grau;Mercedes-Benz;5;C;MÑnnlich;0;16;16;Rosental
+112;1;Benzin;2015;47,566507744;7,604341507;Grau;Mercedes-Benz;5;E;Weiblich;0;16;16;Rosental
+106;1;Benzin;2015;47,566507744;7,604341507;Grau;Opel;128;Astra;Weiblich;0;16;16;Rosental
+162;1;Benzin;2015;47,566507744;7,604341507;Grau;Smart;104;Fortwo;Weiblich;0;16;16;Rosental
+308;1;Benzin;2015;47,566507744;7,604341507;Grau;VW;90;Golf;MÑnnlich;0;16;16;Rosental
+105;1;Benzin;2015;47,567962785;7,590866089;Grau;Alfa Romeo;147;147;Weiblich;0;17;17;MatthÑus
+133;1;Benzin;2015;47,567962785;7,590866089;Grau;Audi;1;A3;Weiblich;0;17;17;MatthÑus
+161;1;Benzin;2015;47,567962785;7,590866089;Grau;Audi;1;A4;MÑnnlich;0;17;17;MatthÑus
+212;1;Benzin;2015;47,567962785;7,590866089;Grau;Fiat;125;Punto;MÑnnlich;0;17;17;MatthÑus
+117;1;Benzin;2015;47,567962785;7,590866089;Grau;Ford;165;Focus;MÑnnlich;0;17;17;MatthÑus
+122;1;Benzin;2015;47,567962785;7,590866089;Grau;Honda;7;Jazz;MÑnnlich;0;17;17;MatthÑus
+257;1;Benzin;2015;47,567962785;7,590866089;Grau;Mercedes-Benz;5;A;MÑnnlich;0;17;17;MatthÑus
+168;1;Benzin;2015;47,567962785;7,590866089;Grau;Mercedes-Benz;5;B;Weiblich;0;17;17;MatthÑus
+390;1;Benzin;2015;47,567962785;7,590866089;Grau;Mercedes-Benz;5;C;MÑnnlich;0;17;17;MatthÑus
+205;1;Benzin;2015;47,567962785;7,590866089;Grau;Mercedes-Benz;5;E;MÑnnlich;0;17;17;MatthÑus
+180;1;Benzin;2015;47,567962785;7,590866089;Grau;Opel;128;Astra;MÑnnlich;0;17;17;MatthÑus
+142;1;Benzin;2015;47,567962785;7,590866089;Grau;Opel;128;Vectra;MÑnnlich;0;17;17;MatthÑus
+206;1;Benzin;2015;47,567962785;7,590866089;Grau;Opel;128;Zafira;MÑnnlich;0;17;17;MatthÑus
+153;1;Benzin;2015;47,567962785;7,590866089;Grau;Peugeot;170;206;MÑnnlich;0;17;17;MatthÑus
+119;1;Benzin;2015;47,567962785;7,590866089;Grau;Peugeot;170;308;Weiblich;0;17;17;MatthÑus
+155;1;Benzin;2015;47,567962785;7,590866089;Grau;Renault;42;Megane;Weiblich;0;17;17;MatthÑus
+137;1;Benzin;2015;47,567962785;7,590866089;Grau;Renault;42;MÇgane;Weiblich;0;17;17;MatthÑus
+110;1;Benzin;2015;47,567962785;7,590866089;Grau;Toyota;117;Corolla;Weiblich;0;17;17;MatthÑus
+136;1;Benzin;2015;47,567962785;7,590866089;Grau;Toyota;117;Yaris;MÑnnlich;0;17;17;MatthÑus
+758;1;Benzin;2015;47,567962785;7,590866089;Grau;VW;90;Golf;Weiblich;0;17;17;MatthÑus
+471;1;Benzin;2015;47,567962785;7,590866089;Grau;VW;90;Polo;Weiblich;0;17;17;MatthÑus
+108;1;Benzin;2015;47,574325399;7,591981888;Grau;Audi;1;A4;Weiblich;0;18;18;Klybeck
+146;1;Benzin;2015;47,574325399;7,591981888;Grau;Fiat;125;Punto;MÑnnlich;0;18;18;Klybeck
+180;1;Benzin;2015;47,574325399;7,591981888;Grau;Mercedes-Benz;5;C;Weiblich;0;18;18;Klybeck
+110;1;Benzin;2015;47,574325399;7,591981888;Grau;Opel;128;Corsa;Weiblich;0;18;18;Klybeck
+118;1;Benzin;2015;47,574325399;7,591981888;Grau;Opel;128;Vectra;Weiblich;0;18;18;Klybeck
+294;1;Benzin;2015;47,574325399;7,591981888;Grau;Opel;128;Zafira;MÑnnlich;0;18;18;Klybeck
+125;1;Benzin;2015;47,574325399;7,591981888;Grau;Peugeot;170;307;Weiblich;0;18;18;Klybeck
+179;1;Benzin;2015;47,574325399;7,591981888;Grau;Renault;42;Clio;MÑnnlich;0;18;18;Klybeck
+396;1;Benzin;2015;47,574325399;7,591981888;Grau;VW;90;Golf;Weiblich;0;18;18;Klybeck
+116;1;Benzin;2015;47,574325399;7,591981888;Grau;VW;90;Passat;Weiblich;0;18;18;Klybeck
+112;1;Benzin;2015;47,574325399;7,591981888;Grau;VW;90;Polo;MÑnnlich;0;18;18;Klybeck
+100;1;Benzin;2015;47,574325399;7,591981888;Grau;VW;90;Touran;Weiblich;0;18;18;Klybeck
+128;1;Benzin;2015;47,583473469;7,597088814;Grau;Fiat;125;Punto;Weiblich;0;19;19;KleinhÅningen
+120;1;Benzin;2015;47,583473469;7,597088814;Grau;Mercedes-Benz;5;A;Weiblich;0;19;19;KleinhÅningen
+143;1;Benzin;2015;47,583473469;7,597088814;Grau;Mercedes-Benz;5;E;MÑnnlich;0;19;19;KleinhÅningen
+140;1;Benzin;2015;47,583473469;7,597088814;Grau;VW;90;Golf;MÑnnlich;0;19;19;KleinhÅningen
+368;1;Benzin;2015;47,575686131;7,650518417;Grau;Audi;1;A3;MÑnnlich;0;20;20;Riehen
+445;1;Benzin;2015;47,575686131;7,650518417;Grau;Audi;1;A4;Weiblich;0;20;20;Riehen
+140;1;Benzin;2015;47,575686131;7,650518417;Grau;Audi;1;A6;Weiblich;0;20;20;Riehen
+176;1;Benzin;2015;47,575686131;7,650518417;Grau;Audi;1;Tt;Weiblich;0;20;20;Riehen
+118;1;Benzin;2015;47,575686131;7,650518417;Grau;BMW;81;120i;MÑnnlich;0;20;20;Riehen
+234;1;Benzin;2015;47,575686131;7,650518417;Grau;BMW;81;320i;Weiblich;0;20;20;Riehen
+130;1;Benzin;2015;47,575686131;7,650518417;Grau;BMW;81;325i;MÑnnlich;0;20;20;Riehen
+171;1;Benzin;2015;47,575686131;7,650518417;Grau;BMW;81;X1;MÑnnlich;0;20;20;Riehen
+121;1;Benzin;2015;47,575686131;7,650518417;Grau;BMW;81;X3;Weiblich;0;20;20;Riehen
+162;1;Benzin;2015;47,575686131;7,650518417;Grau;BMW;81;Z4;MÑnnlich;0;20;20;Riehen
+148;1;Benzin;2015;47,575686131;7,650518417;Grau;Citroân;116;C3;MÑnnlich;0;20;20;Riehen
+190;1;Benzin;2015;47,575686131;7,650518417;Grau;Citroân;116;C4;Weiblich;0;20;20;Riehen
+159;1;Benzin;2015;47,575686131;7,650518417;Grau;Citroân;116;Picasso;Weiblich;0;20;20;Riehen
+184;1;Benzin;2015;47,575686131;7,650518417;Grau;Fiat;125;500;MÑnnlich;0;20;20;Riehen
+265;1;Benzin;2015;47,575686131;7,650518417;Grau;Fiat;125;Punto;Weiblich;0;20;20;Riehen
+101;1;Benzin;2015;47,575686131;7,650518417;Grau;Ford;165;Fiesta;Weiblich;0;20;20;Riehen
+411;1;Benzin;2015;47,575686131;7,650518417;Grau;Ford;165;Focus;MÑnnlich;0;20;20;Riehen
+184;1;Benzin;2015;47,575686131;7,650518417;Grau;Honda;7;Accord;MÑnnlich;0;20;20;Riehen
+313;1;Benzin;2015;47,575686131;7,650518417;Grau;Honda;7;Civic;MÑnnlich;0;20;20;Riehen
+183;1;Benzin;2015;47,575686131;7,650518417;Grau;Honda;7;Cr;MÑnnlich;0;20;20;Riehen
+419;1;Benzin;2015;47,575686131;7,650518417;Grau;Honda;7;Jazz;Weiblich;0;20;20;Riehen
+113;1;Benzin;2015;47,575686131;7,650518417;Grau;Mazda;122;5;MÑnnlich;0;20;20;Riehen
+147;1;Benzin;2015;47,575686131;7,650518417;Grau;Mazda;122;6;Weiblich;0;20;20;Riehen
+116;1;Benzin;2015;47,575686131;7,650518417;Grau;Mazda;122;626;Weiblich;0;20;20;Riehen
+725;1;Benzin;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;A;Weiblich;0;20;20;Riehen
+594;1;Benzin;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;B;Weiblich;0;20;20;Riehen
+686;1;Benzin;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;C;Weiblich;0;20;20;Riehen
+451;1;Benzin;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;E;Weiblich;0;20;20;Riehen
+113;1;Benzin;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;Ml;MÑnnlich;0;20;20;Riehen
+107;1;Benzin;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;Sl;Weiblich;0;20;20;Riehen
+201;1;Benzin;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;Slk;MÑnnlich;0;20;20;Riehen
+339;1;Benzin;2015;47,575686131;7,650518417;Grau;Mini;112;Cooper;Weiblich;0;20;20;Riehen
+391;1;Benzin;2015;47,575686131;7,650518417;Grau;Mitsubishi;64;Colt;MÑnnlich;0;20;20;Riehen
+113;1;Benzin;2015;47,575686131;7,650518417;Grau;Nissan;89;Almera;Weiblich;0;20;20;Riehen
+787;1;Benzin;2015;47,575686131;7,650518417;Grau;Opel;128;Astra;Weiblich;0;20;20;Riehen
+421;1;Benzin;2015;47,575686131;7,650518417;Grau;Opel;128;Corsa;Weiblich;0;20;20;Riehen
+361;1;Benzin;2015;47,575686131;7,650518417;Grau;Opel;128;Meriva;Weiblich;0;20;20;Riehen
+137;1;Benzin;2015;47,575686131;7,650518417;Grau;Opel;128;Omega;Weiblich;0;20;20;Riehen
+180;1;Benzin;2015;47,575686131;7,650518417;Grau;Opel;128;Vectra;Weiblich;0;20;20;Riehen
+822;1;Benzin;2015;47,575686131;7,650518417;Grau;Opel;128;Zafira;MÑnnlich;0;20;20;Riehen
+484;1;Benzin;2015;47,575686131;7,650518417;Grau;Peugeot;170;206;Weiblich;0;20;20;Riehen
+386;1;Benzin;2015;47,575686131;7,650518417;Grau;Peugeot;170;207;Weiblich;0;20;20;Riehen
+118;1;Benzin;2015;47,575686131;7,650518417;Grau;Peugeot;170;3008;MÑnnlich;0;20;20;Riehen
+100;1;Benzin;2015;47,575686131;7,650518417;Grau;Peugeot;170;306;Weiblich;0;20;20;Riehen
+362;1;Benzin;2015;47,575686131;7,650518417;Grau;Peugeot;170;307;MÑnnlich;0;20;20;Riehen
+314;1;Benzin;2015;47,575686131;7,650518417;Grau;Porsche;113;911;Weiblich;0;20;20;Riehen
+134;1;Benzin;2015;47,575686131;7,650518417;Grau;Porsche;113;Boxster;MÑnnlich;0;20;20;Riehen
+151;1;Benzin;2015;47,575686131;7,650518417;Grau;Renault;42;Clio;MÑnnlich;0;20;20;Riehen
+210;1;Benzin;2015;47,575686131;7,650518417;Grau;Renault;42;Espace;MÑnnlich;0;20;20;Riehen
+110;1;Benzin;2015;47,575686131;7,650518417;Grau;Renault;42;Kangoo;MÑnnlich;0;20;20;Riehen
+212;1;Benzin;2015;47,575686131;7,650518417;Grau;Renault;42;MÇgane;Weiblich;0;20;20;Riehen
+339;1;Benzin;2015;47,575686131;7,650518417;Grau;Saab;32;9;Weiblich;0;20;20;Riehen
+205;1;Benzin;2015;47,575686131;7,650518417;Grau;Skoda;134;Fabia;MÑnnlich;0;20;20;Riehen
+274;1;Benzin;2015;47,575686131;7,650518417;Grau;Skoda;134;Octavia;MÑnnlich;0;20;20;Riehen
+146;1;Benzin;2015;47,575686131;7,650518417;Grau;Smart;104;Fortwo;Weiblich;0;20;20;Riehen
+111;1;Benzin;2015;47,575686131;7,650518417;Grau;Subaru;17;Forester;Weiblich;0;20;20;Riehen
+110;1;Benzin;2015;47,575686131;7,650518417;Grau;Subaru;17;Legacy;MÑnnlich;0;20;20;Riehen
+110;1;Benzin;2015;47,575686131;7,650518417;Grau;Toyota;117;Auris;Weiblich;0;20;20;Riehen
+142;1;Benzin;2015;47,575686131;7,650518417;Grau;Toyota;117;Avensis;MÑnnlich;0;20;20;Riehen
+163;1;Benzin;2015;47,575686131;7,650518417;Grau;Toyota;117;Aygo;Weiblich;0;20;20;Riehen
+115;1;Benzin;2015;47,575686131;7,650518417;Grau;Toyota;117;Camry;MÑnnlich;0;20;20;Riehen
+572;1;Benzin;2015;47,575686131;7,650518417;Grau;Toyota;117;Corolla;MÑnnlich;0;20;20;Riehen
+128;1;Benzin;2015;47,575686131;7,650518417;Grau;Toyota;117;Previa;Weiblich;0;20;20;Riehen
+519;1;Benzin;2015;47,575686131;7,650518417;Grau;Toyota;117;Yaris;Weiblich;0;20;20;Riehen
+1706;1;Benzin;2015;47,575686131;7,650518417;Grau;VW;90;Golf;Weiblich;0;20;20;Riehen
+293;1;Benzin;2015;47,575686131;7,650518417;Grau;VW;90;Passat;MÑnnlich;0;20;20;Riehen
+783;1;Benzin;2015;47,575686131;7,650518417;Grau;VW;90;Polo;Weiblich;0;20;20;Riehen
+136;1;Benzin;2015;47,575686131;7,650518417;Grau;VW;90;Tiguan;Weiblich;0;20;20;Riehen
+221;1;Benzin;2015;47,575686131;7,650518417;Grau;VW;90;Touran;MÑnnlich;0;20;20;Riehen
+100;1;Benzin;2015;47,575686131;7,650518417;Grau;Volvo;16;S80;MÑnnlich;0;20;20;Riehen
+156;1;Benzin;2015;47,575686131;7,650518417;Grau;Volvo;16;V40;MÑnnlich;0;20;20;Riehen
+192;1;Benzin;2015;47,575686131;7,650518417;Grau;Volvo;16;V70;Weiblich;0;20;20;Riehen
+102;1;Benzin;2015;47,575686131;7,650518417;Grau;Volvo;16;Xc70;Weiblich;0;20;20;Riehen
+114;1;Benzin;2015;47,567072391;7,666139603;Grau;VW;90;Golf;Weiblich;0;30;30;Bettingen
+101;1;Benzin;2015;47,552034765;7,619726658;GrÅn;VW;90;Golf;Weiblich;0;4;4;Breite
+130;1;Benzin;2015;47,547740610;7,605414391;GrÅn;Mini;112;Cooper;Weiblich;0;5;5;St. Alban
+189;1;Benzin;2015;47,547740610;7,605414391;GrÅn;Opel;128;Astra;Weiblich;0;5;5;St. Alban
+121;1;Benzin;2015;47,547740610;7,605414391;GrÅn;VW;90;Golf;MÑnnlich;0;5;5;St. Alban
+103;1;Benzin;2015;47,543388166;7,592303753;GrÅn;Opel;128;Corsa;MÑnnlich;0;6;6;Gundeldingen
+101;1;Benzin;2015;47,543388166;7,592303753;GrÅn;Toyota;117;Yaris;Weiblich;0;6;6;Gundeldingen
+146;1;Benzin;2015;47,543388166;7,592303753;GrÅn;VW;90;Golf;Weiblich;0;6;6;Gundeldingen
+179;1;Benzin;2015;47,548247527;7,571521997;GrÅn;VW;90;Golf;Weiblich;0;8;8;Bachletten
+166;1;Benzin;2015;47,560904373;7,565889359;GrÅn;Opel;128;Corsa;MÑnnlich;0;10;10;Iselin
+146;1;Benzin;2015;47,572168422;7,572809458;GrÅn;VW;90;Golf;MÑnnlich;0;11;11;St. Johann
+115;1;Benzin;2015;47,567962785;7,590866089;GrÅn;Fiat;125;Punto;Weiblich;0;17;17;MatthÑus
+108;1;Benzin;2015;47,575686131;7,650518417;GrÅn;Mazda;122;2;MÑnnlich;0;20;20;Riehen
+102;1;Benzin;2015;47,575686131;7,650518417;GrÅn;Mini;112;Cooper;Weiblich;0;20;20;Riehen
+111;1;Benzin;2015;47,575686131;7,650518417;GrÅn;Opel;128;Corsa;Weiblich;0;20;20;Riehen
+122;1;Benzin;2015;47,575686131;7,650518417;GrÅn;Toyota;117;Corolla;Weiblich;0;20;20;Riehen
+147;1;Benzin;2015;47,575686131;7,650518417;GrÅn;VW;90;Golf;Weiblich;0;20;20;Riehen
+106;1;Benzin;2015;47,545249405;7,661075592;Hellgrau;Toyota;117;Yaris;MÑnnlich;0;0;99;ausserkantonal
+264;1;Benzin;2015;47,555336607;7,578560114;Hellgrau;VW;90;Golf;MÑnnlich;0;3;3;Am Ring
+110;1;Benzin;2015;47,547740610;7,605414391;Hellgrau;Ford;165;Mondeo;MÑnnlich;0;5;5;St. Alban
+102;1;Benzin;2015;47,547740610;7,605414391;Hellgrau;Mercedes-Benz;5;A;Weiblich;0;5;5;St. Alban
+103;1;Benzin;2015;47,547740610;7,605414391;Hellgrau;Mercedes-Benz;5;C;Weiblich;0;5;5;St. Alban
+142;1;Benzin;2015;47,547740610;7,605414391;Hellgrau;VW;90;Golf;MÑnnlich;0;5;5;St. Alban
+136;1;Benzin;2015;47,543388166;7,592303753;Hellgrau;VW;90;Golf;Weiblich;0;6;6;Gundeldingen
+139;1;Benzin;2015;47,530785042;7,598108053;Hellgrau;Mercedes-Benz;5;C;Weiblich;0;7;7;Bruderholz
+126;1;Benzin;2015;47,530785042;7,598108053;Hellgrau;Toyota;117;Yaris;MÑnnlich;0;7;7;Bruderholz
+102;1;Benzin;2015;47,530785042;7,598108053;Hellgrau;VW;90;Golf;MÑnnlich;0;7;7;Bruderholz
+107;1;Benzin;2015;47,548247527;7,571521997;Hellgrau;Mitsubishi;64;Colt;Weiblich;0;8;8;Bachletten
+101;1;Benzin;2015;47,548247527;7,571521997;Hellgrau;Renault;42;MÇgane;Weiblich;0;8;8;Bachletten
+187;1;Benzin;2015;47,548247527;7,571521997;Hellgrau;VW;90;Golf;Weiblich;0;8;8;Bachletten
+144;1;Benzin;2015;47,560904373;7,565889359;Hellgrau;Ford;165;Mondeo;MÑnnlich;0;10;10;Iselin
+217;1;Benzin;2015;47,560904373;7,565889359;Hellgrau;Toyota;117;Corolla;Weiblich;0;10;10;Iselin
+242;1;Benzin;2015;47,560904373;7,565889359;Hellgrau;Toyota;117;Yaris;Weiblich;0;10;10;Iselin
+240;1;Benzin;2015;47,560904373;7,565889359;Hellgrau;VW;90;Golf;MÑnnlich;0;10;10;Iselin
+169;1;Benzin;2015;47,560904373;7,565889359;Hellgrau;VW;90;Polo;Weiblich;0;10;10;Iselin
+225;1;Benzin;2015;47,572168422;7,572809458;Hellgrau;VW;90;Golf;Weiblich;0;11;11;St. Johann
+130;1;Benzin;2015;47,573818735;7,617516518;Hellgrau;Toyota;117;Yaris;MÑnnlich;0;15;15;Hirzbrunnen
+129;1;Benzin;2015;47,573818735;7,617516518;Hellgrau;VW;90;Golf;Weiblich;0;15;15;Hirzbrunnen
+101;1;Benzin;2015;47,567962785;7,590866089;Hellgrau;Fiat;125;Punto;MÑnnlich;0;17;17;MatthÑus
+116;1;Benzin;2015;47,567962785;7,590866089;Hellgrau;VW;90;Golf;Weiblich;0;17;17;MatthÑus
+102;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Citroân;116;C3;Weiblich;0;20;20;Riehen
+113;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Dacia;8;Sandero;Weiblich;0;20;20;Riehen
+175;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Mitsubishi;64;Colt;Weiblich;0;20;20;Riehen
+125;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Mitsubishi;64;Outlander;MÑnnlich;0;20;20;Riehen
+110;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Renault;42;Clio;Weiblich;0;20;20;Riehen
+138;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Renault;42;MÇgane;Weiblich;0;20;20;Riehen
+146;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Toyota;117;Auris;Weiblich;0;20;20;Riehen
+106;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Toyota;117;Avensis;MÑnnlich;0;20;20;Riehen
+144;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Toyota;117;Corolla;MÑnnlich;0;20;20;Riehen
+106;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Toyota;117;Verso;Weiblich;0;20;20;Riehen
+232;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;Toyota;117;Yaris;Weiblich;0;20;20;Riehen
+375;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;VW;90;Golf;MÑnnlich;0;20;20;Riehen
+206;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;VW;90;Polo;MÑnnlich;0;20;20;Riehen
+118;1;Benzin;2015;47,575686131;7,650518417;Hellgrau;VW;90;Touran;Weiblich;0;20;20;Riehen
+237;1;Benzin;2015;47,556104110;7,589728832;Orange;Smart;104;Fortwo;Weiblich;0;1;1;Altstadt Grossbasel
+307;1;Benzin;2015;47,545249405;7,661075592;Rot;Citroân;116;C1;MÑnnlich;0;0;99;ausserkantonal
+158;1;Benzin;2015;47,545249405;7,661075592;Rot;Mini;112;Cooper;MÑnnlich;0;0;99;ausserkantonal
+173;1;Benzin;2015;47,545249405;7,661075592;Rot;VW;90;Up;Weiblich;0;0;99;ausserkantonal
+108;1;Benzin;2015;47,551734258;7,591713667;Rot;Opel;128;Astra;Weiblich;0;2;2;VorstÑdte
+222;1;Benzin;2015;47,555336607;7,578560114;Rot;VW;90;Golf;MÑnnlich;0;3;3;Am Ring
+124;1;Benzin;2015;47,552034765;7,619726658;Rot;Fiat;125;500;Weiblich;0;4;4;Breite
+130;1;Benzin;2015;47,552034765;7,619726658;Rot;Opel;128;Astra;MÑnnlich;0;4;4;Breite
+200;1;Benzin;2015;47,552034765;7,619726658;Rot;VW;90;Golf;Weiblich;0;4;4;Breite
+200;1;Benzin;2015;47,547740610;7,605414391;Rot;Mini;112;Cooper;Weiblich;0;5;5;St. Alban
+155;1;Benzin;2015;47,547740610;7,605414391;Rot;Opel;128;Astra;Weiblich;0;5;5;St. Alban
+256;1;Benzin;2015;47,547740610;7,605414391;Rot;VW;90;Golf;Weiblich;0;5;5;St. Alban
+250;1;Benzin;2015;47,543388166;7,592303753;Rot;Fiat;125;500;MÑnnlich;0;6;6;Gundeldingen
+104;1;Benzin;2015;47,543388166;7,592303753;Rot;Mini;112;Cooper;MÑnnlich;0;6;6;Gundeldingen
+161;1;Benzin;2015;47,543388166;7,592303753;Rot;Opel;128;Astra;Weiblich;0;6;6;Gundeldingen
+122;1;Benzin;2015;47,543388166;7,592303753;Rot;Opel;128;Corsa;MÑnnlich;0;6;6;Gundeldingen
+139;1;Benzin;2015;47,543388166;7,592303753;Rot;Opel;128;Vectra;Weiblich;0;6;6;Gundeldingen
+128;1;Benzin;2015;47,543388166;7,592303753;Rot;Toyota;117;Corolla;MÑnnlich;0;6;6;Gundeldingen
+316;1;Benzin;2015;47,543388166;7,592303753;Rot;VW;90;Golf;Weiblich;0;6;6;Gundeldingen
+105;1;Benzin;2015;47,543388166;7,592303753;Rot;VW;90;Passat;MÑnnlich;0;6;6;Gundeldingen
+148;1;Benzin;2015;47,543388166;7,592303753;Rot;VW;90;Polo;MÑnnlich;0;6;6;Gundeldingen
+100;1;Benzin;2015;47,530785042;7,598108053;Rot;Fiat;125;500;Weiblich;0;7;7;Bruderholz
+101;1;Benzin;2015;47,530785042;7,598108053;Rot;Mini;112;Cooper;MÑnnlich;0;7;7;Bruderholz
+100;1;Benzin;2015;47,530785042;7,598108053;Rot;Renault;42;MÇgane;MÑnnlich;0;7;7;Bruderholz
+182;1;Benzin;2015;47,530785042;7,598108053;Rot;VW;90;Golf;MÑnnlich;0;7;7;Bruderholz
+181;1;Benzin;2015;47,548247527;7,571521997;Rot;Fiat;125;500;MÑnnlich;0;8;8;Bachletten
+136;1;Benzin;2015;47,548247527;7,571521997;Rot;Mercedes-Benz;5;A;Weiblich;0;8;8;Bachletten
+288;1;Benzin;2015;47,548247527;7,571521997;Rot;VW;90;Golf;MÑnnlich;0;8;8;Bachletten
+152;1;Benzin;2015;47,548247527;7,571521997;Rot;VW;90;Polo;MÑnnlich;0;8;8;Bachletten
+101;1;Benzin;2015;47,555275061;7,569826841;Rot;Renault;42;MÇgane;MÑnnlich;0;9;9;Gotthelf
+133;1;Benzin;2015;47,555275061;7,569826841;Rot;Toyota;117;Yaris;MÑnnlich;0;9;9;Gotthelf
+100;1;Benzin;2015;47,560904373;7,565889359;Rot;Mercedes-Benz;5;A;Weiblich;0;10;10;Iselin
+127;1;Benzin;2015;47,560904373;7,565889359;Rot;Mitsubishi;64;Colt;MÑnnlich;0;10;10;Iselin
+155;1;Benzin;2015;47,560904373;7,565889359;Rot;Opel;128;Astra;MÑnnlich;0;10;10;Iselin
+147;1;Benzin;2015;47,560904373;7,565889359;Rot;Opel;128;Corsa;MÑnnlich;0;10;10;Iselin
+103;1;Benzin;2015;47,560904373;7,565889359;Rot;Peugeot;170;307;Weiblich;0;10;10;Iselin
+173;1;Benzin;2015;47,560904373;7,565889359;Rot;Renault;42;MÇgane;Weiblich;0;10;10;Iselin
+111;1;Benzin;2015;47,560904373;7,565889359;Rot;Toyota;117;Yaris;MÑnnlich;0;10;10;Iselin
+181;1;Benzin;2015;47,560904373;7,565889359;Rot;VW;90;Golf;MÑnnlich;0;10;10;Iselin
+106;1;Benzin;2015;47,572168422;7,572809458;Rot;BMW;81;320i;Weiblich;0;11;11;St. Johann
+207;1;Benzin;2015;47,572168422;7,572809458;Rot;Opel;128;Astra;MÑnnlich;0;11;11;St. Johann
+135;1;Benzin;2015;47,572168422;7,572809458;Rot;Opel;128;Corsa;MÑnnlich;0;11;11;St. Johann
+127;1;Benzin;2015;47,572168422;7,572809458;Rot;Peugeot;170;306;Weiblich;0;11;11;St. Johann
+104;1;Benzin;2015;47,572168422;7,572809458;Rot;Renault;42;Clio;MÑnnlich;0;11;11;St. Johann
+154;1;Benzin;2015;47,572168422;7,572809458;Rot;Toyota;117;Corolla;MÑnnlich;0;11;11;St. Johann
+314;1;Benzin;2015;47,572168422;7,572809458;Rot;VW;90;Golf;MÑnnlich;0;11;11;St. Johann
+142;1;Benzin;2015;47,572168422;7,572809458;Rot;VW;90;Polo;MÑnnlich;0;11;11;St. Johann
+131;1;Benzin;2015;47,563973994;7,596074939;Rot;Renault;42;Clio;MÑnnlich;0;13;13;Clara
+122;1;Benzin;2015;47,573818735;7,617516518;Rot;Fiat;125;500;MÑnnlich;0;15;15;Hirzbrunnen
+119;1;Benzin;2015;47,573818735;7,617516518;Rot;Mitsubishi;64;Colt;MÑnnlich;0;15;15;Hirzbrunnen
+122;1;Benzin;2015;47,573818735;7,617516518;Rot;VW;90;Golf;MÑnnlich;0;15;15;Hirzbrunnen
+195;1;Benzin;2015;47,566507744;7,604341507;Rot;Opel;128;Astra;MÑnnlich;0;16;16;Rosental
+140;1;Benzin;2015;47,566507744;7,604341507;Rot;VW;90;Golf;MÑnnlich;0;16;16;Rosental
+169;1;Benzin;2015;47,567962785;7,590866089;Rot;Opel;128;Astra;Weiblich;0;17;17;MatthÑus
+277;1;Benzin;2015;47,567962785;7,590866089;Rot;VW;90;Golf;MÑnnlich;0;17;17;MatthÑus
+124;1;Benzin;2015;47,575686131;7,650518417;Rot;Citroân;116;C3;Weiblich;0;20;20;Riehen
+239;1;Benzin;2015;47,575686131;7,650518417;Rot;Fiat;125;500;Weiblich;0;20;20;Riehen
+141;1;Benzin;2015;47,575686131;7,650518417;Rot;Honda;7;Jazz;Weiblich;0;20;20;Riehen
+113;1;Benzin;2015;47,575686131;7,650518417;Rot;Mazda;122;Mx;Weiblich;0;20;20;Riehen
+124;1;Benzin;2015;47,575686131;7,650518417;Rot;Mercedes-Benz;5;A;MÑnnlich;0;20;20;Riehen
+209;1;Benzin;2015;47,575686131;7,650518417;Rot;Mini;112;Cooper;Weiblich;0;20;20;Riehen
+179;1;Benzin;2015;47,575686131;7,650518417;Rot;Mitsubishi;64;Colt;MÑnnlich;0;20;20;Riehen
+121;1;Benzin;2015;47,575686131;7,650518417;Rot;Nissan;89;Micra;MÑnnlich;0;20;20;Riehen
+173;1;Benzin;2015;47,575686131;7,650518417;Rot;Opel;128;Astra;Weiblich;0;20;20;Riehen
+279;1;Benzin;2015;47,575686131;7,650518417;Rot;Opel;128;Corsa;Weiblich;0;20;20;Riehen
+139;1;Benzin;2015;47,575686131;7,650518417;Rot;Peugeot;170;206;Weiblich;0;20;20;Riehen
+145;1;Benzin;2015;47,575686131;7,650518417;Rot;Toyota;117;Aygo;MÑnnlich;0;20;20;Riehen
+155;1;Benzin;2015;47,575686131;7,650518417;Rot;Toyota;117;Corolla;Weiblich;0;20;20;Riehen
+142;1;Benzin;2015;47,575686131;7,650518417;Rot;Toyota;117;Starlet;Weiblich;0;20;20;Riehen
+242;1;Benzin;2015;47,575686131;7,650518417;Rot;Toyota;117;Yaris;MÑnnlich;0;20;20;Riehen
+482;1;Benzin;2015;47,575686131;7,650518417;Rot;VW;90;Golf;Weiblich;0;20;20;Riehen
+129;1;Benzin;2015;47,575686131;7,650518417;Rot;VW;90;Polo;Weiblich;0;20;20;Riehen
+180;1;Benzin;2015;47,545249405;7,661075592;Schwarz;Audi;1;A4;MÑnnlich;0;0;99;ausserkantonal
+104;1;Benzin;2015;47,545249405;7,661075592;Schwarz;Fiat;125;Punto;Weiblich;0;0;99;ausserkantonal
+108;1;Benzin;2015;47,545249405;7,661075592;Schwarz;Mercedes-Benz;5;A;MÑnnlich;0;0;99;ausserkantonal
+138;1;Benzin;2015;47,545249405;7,661075592;Schwarz;Mercedes-Benz;5;S;Weiblich;0;0;99;ausserkantonal
+102;1;Benzin;2015;47,545249405;7,661075592;Schwarz;Mitsubishi;64;Colt;MÑnnlich;0;0;99;ausserkantonal
+180;1;Benzin;2015;47,545249405;7,661075592;Schwarz;Skoda;134;Octavia;MÑnnlich;0;0;99;ausserkantonal
+404;1;Benzin;2015;47,545249405;7,661075592;Schwarz;Smart;104;Fortwo;MÑnnlich;0;0;99;ausserkantonal
+368;1;Benzin;2015;47,545249405;7,661075592;Schwarz;VW;90;Golf;MÑnnlich;0;0;99;ausserkantonal
+142;1;Benzin;2015;47,545249405;7,661075592;Schwarz;VW;90;Polo;Weiblich;0;0;99;ausserkantonal
+140;1;Benzin;2015;47,556104110;7,589728832;Schwarz;Mini;112;Cooper;Weiblich;0;1;1;Altstadt Grossbasel
+117;1;Benzin;2015;47,556104110;7,589728832;Schwarz;Porsche;113;911;Weiblich;0;1;1;Altstadt Grossbasel
+118;1;Benzin;2015;47,556104110;7,589728832;Schwarz;Saab;32;9;MÑnnlich;0;1;1;Altstadt Grossbasel
+174;1;Benzin;2015;47,556104110;7,589728832;Schwarz;Smart;104;Fortwo;MÑnnlich;0;1;1;Altstadt Grossbasel
+162;1;Benzin;2015;47,556104110;7,589728832;Schwarz;VW;90;Golf;Weiblich;0;1;1;Altstadt Grossbasel
+139;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Alfa Romeo;147;Giulietta;Weiblich;0;2;2;VorstÑdte
+121;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Audi;1;A3;Weiblich;0;2;2;VorstÑdte
+109;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Audi;1;A4;MÑnnlich;0;2;2;VorstÑdte
+125;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Fiat;125;500;Weiblich;0;2;2;VorstÑdte
+148;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Mercedes-Benz;5;A;Weiblich;0;2;2;VorstÑdte
+131;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Mercedes-Benz;5;C;Weiblich;0;2;2;VorstÑdte
+110;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Mercedes-Benz;5;S;Weiblich;0;2;2;VorstÑdte
+117;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Mini;112;Cooper;Weiblich;0;2;2;VorstÑdte
+211;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Porsche;113;911;Weiblich;0;2;2;VorstÑdte
+215;1;Benzin;2015;47,551734258;7,591713667;Schwarz;Smart;104;Fortwo;MÑnnlich;0;2;2;VorstÑdte
+429;1;Benzin;2015;47,551734258;7,591713667;Schwarz;VW;90;Golf;Weiblich;0;2;2;VorstÑdte
+114;1;Benzin;2015;47,551734258;7,591713667;Schwarz;VW;90;Passat;Weiblich;0;2;2;VorstÑdte
+174;1;Benzin;2015;47,551734258;7,591713667;Schwarz;VW;90;Polo;Weiblich;0;2;2;VorstÑdte
+327;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Audi;1;A3;Weiblich;0;3;3;Am Ring
+160;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Audi;1;A4;Weiblich;0;3;3;Am Ring
+147;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Fiat;125;Panda;Weiblich;0;3;3;Am Ring
+111;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Fiat;125;Punto;Keine Angabe;0;3;3;Am Ring
+123;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Mercedes-Benz;5;A;MÑnnlich;0;3;3;Am Ring
+118;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Mercedes-Benz;5;B;Weiblich;0;3;3;Am Ring
+150;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Mercedes-Benz;5;C;MÑnnlich;0;3;3;Am Ring
+110;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Mercedes-Benz;5;S;Weiblich;0;3;3;Am Ring
+145;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Mini;112;Cooper;Weiblich;0;3;3;Am Ring
+139;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Porsche;113;911;Weiblich;0;3;3;Am Ring
+124;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Renault;42;Clio;MÑnnlich;0;3;3;Am Ring
+224;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Saab;32;9;MÑnnlich;0;3;3;Am Ring
+208;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Smart;104;Fortwo;MÑnnlich;0;3;3;Am Ring
+679;1;Benzin;2015;47,555336607;7,578560114;Schwarz;VW;90;Golf;MÑnnlich;0;3;3;Am Ring
+106;1;Benzin;2015;47,555336607;7,578560114;Schwarz;VW;90;Passat;Weiblich;0;3;3;Am Ring
+178;1;Benzin;2015;47,555336607;7,578560114;Schwarz;VW;90;Polo;Weiblich;0;3;3;Am Ring
+128;1;Benzin;2015;47,555336607;7,578560114;Schwarz;Volvo;16;V70;MÑnnlich;0;3;3;Am Ring
+244;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Audi;1;A3;MÑnnlich;0;4;4;Breite
+114;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Audi;1;A4;MÑnnlich;0;4;4;Breite
+127;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Fiat;125;Panda;MÑnnlich;0;4;4;Breite
+120;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Fiat;125;Punto;MÑnnlich;0;4;4;Breite
+174;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Ford;165;Focus;Weiblich;0;4;4;Breite
+213;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Mercedes-Benz;5;C;MÑnnlich;0;4;4;Breite
+143;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Mini;112;Cooper;MÑnnlich;0;4;4;Breite
+109;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Mitsubishi;64;Colt;MÑnnlich;0;4;4;Breite
+124;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Opel;128;Astra;MÑnnlich;0;4;4;Breite
+102;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Opel;128;Zafira;MÑnnlich;0;4;4;Breite
+148;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Renault;42;Twingo;Weiblich;0;4;4;Breite
+105;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Skoda;134;Octavia;MÑnnlich;0;4;4;Breite
+161;1;Benzin;2015;47,552034765;7,619726658;Schwarz;Smart;104;Fortwo;MÑnnlich;0;4;4;Breite
+500;1;Benzin;2015;47,552034765;7,619726658;Schwarz;VW;90;Golf;MÑnnlich;0;4;4;Breite
+281;1;Benzin;2015;47,552034765;7,619726658;Schwarz;VW;90;Polo;MÑnnlich;0;4;4;Breite
+298;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Audi;1;A3;MÑnnlich;0;5;5;St. Alban
+164;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Audi;1;A4;MÑnnlich;0;5;5;St. Alban
+134;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Audi;1;Quattro;MÑnnlich;0;5;5;St. Alban
+150;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Audi;1;Tt;Weiblich;0;5;5;St. Alban
+112;1;Benzin;2015;47,547740610;7,605414391;Schwarz;BMW;81;320i;MÑnnlich;0;5;5;St. Alban
+220;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Fiat;125;500;Weiblich;0;5;5;St. Alban
+141;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Ford;165;Focus;MÑnnlich;0;5;5;St. Alban
+194;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mercedes-Benz;5;A;MÑnnlich;0;5;5;St. Alban
+120;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mercedes-Benz;5;B;MÑnnlich;0;5;5;St. Alban
+233;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mercedes-Benz;5;C;MÑnnlich;0;5;5;St. Alban
+157;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mercedes-Benz;5;Clk;MÑnnlich;0;5;5;St. Alban
+296;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mercedes-Benz;5;E;Weiblich;0;5;5;St. Alban
+146;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mercedes-Benz;5;S;MÑnnlich;0;5;5;St. Alban
+113;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mercedes-Benz;5;Slk;MÑnnlich;0;5;5;St. Alban
+257;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mini;112;Cooper;MÑnnlich;0;5;5;St. Alban
+101;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mini;112;One;Weiblich;0;5;5;St. Alban
+109;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Mitsubishi;64;Outlander;Weiblich;0;5;5;St. Alban
+213;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Opel;128;Astra;Weiblich;0;5;5;St. Alban
+125;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Opel;128;Corsa;Weiblich;0;5;5;St. Alban
+261;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Porsche;113;911;Weiblich;0;5;5;St. Alban
+166;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Porsche;113;Cayenne;MÑnnlich;0;5;5;St. Alban
+124;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Renault;42;Clio;MÑnnlich;0;5;5;St. Alban
+140;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Saab;32;9;Weiblich;0;5;5;St. Alban
+252;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Smart;104;Fortwo;MÑnnlich;0;5;5;St. Alban
+927;1;Benzin;2015;47,547740610;7,605414391;Schwarz;VW;90;Golf;Weiblich;0;5;5;St. Alban
+116;1;Benzin;2015;47,547740610;7,605414391;Schwarz;VW;90;Passat;Weiblich;0;5;5;St. Alban
+299;1;Benzin;2015;47,547740610;7,605414391;Schwarz;VW;90;Polo;Weiblich;0;5;5;St. Alban
+135;1;Benzin;2015;47,547740610;7,605414391;Schwarz;Volvo;16;V70;MÑnnlich;0;5;5;St. Alban
+151;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Alfa Romeo;147;147;Weiblich;0;6;6;Gundeldingen
+201;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Audi;1;A3;Weiblich;0;6;6;Gundeldingen
+242;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Audi;1;A4;MÑnnlich;0;6;6;Gundeldingen
+110;1;Benzin;2015;47,543388166;7,592303753;Schwarz;BMW;81;116i;Weiblich;0;6;6;Gundeldingen
+109;1;Benzin;2015;47,543388166;7,592303753;Schwarz;BMW;81;650i;Weiblich;0;6;6;Gundeldingen
+194;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Fiat;125;500;Weiblich;0;6;6;Gundeldingen
+138;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Fiat;125;Panda;Weiblich;0;6;6;Gundeldingen
+240;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Fiat;125;Punto;Weiblich;0;6;6;Gundeldingen
+122;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Ford;165;Fiesta;Weiblich;0;6;6;Gundeldingen
+102;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Ford;165;Focus;Weiblich;0;6;6;Gundeldingen
+132;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Ford;165;Maverick;Weiblich;0;6;6;Gundeldingen
+364;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Mercedes-Benz;5;A;Weiblich;0;6;6;Gundeldingen
+308;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Mercedes-Benz;5;C;MÑnnlich;0;6;6;Gundeldingen
+166;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Mercedes-Benz;5;Clk;Weiblich;0;6;6;Gundeldingen
+236;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Mercedes-Benz;5;E;MÑnnlich;0;6;6;Gundeldingen
+102;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Mercedes-Benz;5;Ml;Weiblich;0;6;6;Gundeldingen
+124;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Mercedes-Benz;5;S;Weiblich;0;6;6;Gundeldingen
+186;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Mini;112;Cooper;Weiblich;0;6;6;Gundeldingen
+119;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Mini;112;One;MÑnnlich;0;6;6;Gundeldingen
+106;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Mitsubishi;64;Colt;Weiblich;0;6;6;Gundeldingen
+112;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Opel;128;Astra;Weiblich;0;6;6;Gundeldingen
+187;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Opel;128;Corsa;Weiblich;0;6;6;Gundeldingen
+119;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Peugeot;170;206;Weiblich;0;6;6;Gundeldingen
+181;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Peugeot;170;207;MÑnnlich;0;6;6;Gundeldingen
+136;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Porsche;113;Cayenne;Weiblich;0;6;6;Gundeldingen
+115;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Renault;42;Clio;Weiblich;0;6;6;Gundeldingen
+132;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Saab;32;9;MÑnnlich;0;6;6;Gundeldingen
+115;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Seat;61;Ibiza;MÑnnlich;0;6;6;Gundeldingen
+313;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Smart;104;Fortwo;Weiblich;0;6;6;Gundeldingen
+190;1;Benzin;2015;47,543388166;7,592303753;Schwarz;Smart;104;Microcar;Weiblich;0;6;6;Gundeldingen
+1122;1;Benzin;2015;47,543388166;7,592303753;Schwarz;VW;90;Golf;MÑnnlich;0;6;6;Gundeldingen
+160;1;Benzin;2015;47,543388166;7,592303753;Schwarz;VW;90;Passat;MÑnnlich;0;6;6;Gundeldingen
+327;1;Benzin;2015;47,543388166;7,592303753;Schwarz;VW;90;Polo;MÑnnlich;0;6;6;Gundeldingen
+178;1;Benzin;2015;47,530785042;7,598108053;Schwarz;Audi;1;A3;MÑnnlich;0;7;7;Bruderholz
+100;1;Benzin;2015;47,530785042;7,598108053;Schwarz;Audi;1;A4;MÑnnlich;0;7;7;Bruderholz
+113;1;Benzin;2015;47,530785042;7,598108053;Schwarz;Fiat;125;500;MÑnnlich;0;7;7;Bruderholz
+219;1;Benzin;2015;47,530785042;7,598108053;Schwarz;Mercedes-Benz;5;A;MÑnnlich;0;7;7;Bruderholz
+168;1;Benzin;2015;47,530785042;7,598108053;Schwarz;Mercedes-Benz;5;C;MÑnnlich;0;7;7;Bruderholz
+105;1;Benzin;2015;47,530785042;7,598108053;Schwarz;Mini;112;Cooper;MÑnnlich;0;7;7;Bruderholz
+116;1;Benzin;2015;47,530785042;7,598108053;Schwarz;Opel;128;Astra;MÑnnlich;0;7;7;Bruderholz
+101;1;Benzin;2015;47,530785042;7,598108053;Schwarz;Porsche;113;Cayenne;MÑnnlich;0;7;7;Bruderholz
+184;1;Benzin;2015;47,530785042;7,598108053;Schwarz;Skoda;134;Octavia;MÑnnlich;0;7;7;Bruderholz
+606;1;Benzin;2015;47,530785042;7,598108053;Schwarz;VW;90;Golf;MÑnnlich;0;7;7;Bruderholz
+142;1;Benzin;2015;47,530785042;7,598108053;Schwarz;VW;90;Passat;MÑnnlich;0;7;7;Bruderholz
+215;1;Benzin;2015;47,530785042;7,598108053;Schwarz;VW;90;Polo;MÑnnlich;0;7;7;Bruderholz
+278;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Audi;1;A3;Weiblich;0;8;8;Bachletten
+340;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Audi;1;A4;MÑnnlich;0;8;8;Bachletten
+118;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Audi;1;A6;Weiblich;0;8;8;Bachletten
+156;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Fiat;125;500;MÑnnlich;0;8;8;Bachletten
+163;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Fiat;125;Panda;MÑnnlich;0;8;8;Bachletten
+208;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Fiat;125;Punto;Weiblich;0;8;8;Bachletten
+255;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Mercedes-Benz;5;A;MÑnnlich;0;8;8;Bachletten
+112;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Mercedes-Benz;5;B;MÑnnlich;0;8;8;Bachletten
+214;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Mercedes-Benz;5;C;Weiblich;0;8;8;Bachletten
+145;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Mercedes-Benz;5;E;MÑnnlich;0;8;8;Bachletten
+231;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Mini;112;Cooper;Weiblich;0;8;8;Bachletten
+123;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Mitsubishi;64;Colt;MÑnnlich;0;8;8;Bachletten
+115;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Nissan;89;Qashqai;MÑnnlich;0;8;8;Bachletten
+145;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Opel;128;Astra;MÑnnlich;0;8;8;Bachletten
+130;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Opel;128;Zafira;Weiblich;0;8;8;Bachletten
+185;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Porsche;113;911;Weiblich;0;8;8;Bachletten
+190;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Porsche;113;Cayenne;Weiblich;0;8;8;Bachletten
+208;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Saab;32;9;Weiblich;0;8;8;Bachletten
+122;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Seat;61;Ibiza;MÑnnlich;0;8;8;Bachletten
+150;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Skoda;134;Octavia;Weiblich;0;8;8;Bachletten
+761;1;Benzin;2015;47,548247527;7,571521997;Schwarz;VW;90;Golf;MÑnnlich;0;8;8;Bachletten
+107;1;Benzin;2015;47,548247527;7,571521997;Schwarz;VW;90;Passat;Weiblich;0;8;8;Bachletten
+189;1;Benzin;2015;47,548247527;7,571521997;Schwarz;VW;90;Touran;Weiblich;0;8;8;Bachletten
+126;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Volvo;16;V40;MÑnnlich;0;8;8;Bachletten
+122;1;Benzin;2015;47,548247527;7,571521997;Schwarz;Volvo;16;V70;Weiblich;0;8;8;Bachletten
+145;1;Benzin;2015;47,555275061;7,569826841;Schwarz;Ford;165;Focus;MÑnnlich;0;9;9;Gotthelf
+108;1;Benzin;2015;47,555275061;7,569826841;Schwarz;Mercedes-Benz;5;S;MÑnnlich;0;9;9;Gotthelf
+119;1;Benzin;2015;47,555275061;7,569826841;Schwarz;Mini;112;Cooper;MÑnnlich;0;9;9;Gotthelf
+107;1;Benzin;2015;47,555275061;7,569826841;Schwarz;Opel;128;Astra;Weiblich;0;9;9;Gotthelf
+107;1;Benzin;2015;47,555275061;7,569826841;Schwarz;Saab;32;9;MÑnnlich;0;9;9;Gotthelf
+122;1;Benzin;2015;47,555275061;7,569826841;Schwarz;Smart;104;Fortwo;MÑnnlich;0;9;9;Gotthelf
+390;1;Benzin;2015;47,555275061;7,569826841;Schwarz;VW;90;Golf;MÑnnlich;0;9;9;Gotthelf
+141;1;Benzin;2015;47,555275061;7,569826841;Schwarz;VW;90;Polo;MÑnnlich;0;9;9;Gotthelf
+179;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Audi;1;A3;Weiblich;0;10;10;Iselin
+177;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Audi;1;A4;Weiblich;0;10;10;Iselin
+127;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Fiat;125;500;MÑnnlich;0;10;10;Iselin
+368;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Fiat;125;Punto;Weiblich;0;10;10;Iselin
+265;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Mercedes-Benz;5;C;Weiblich;0;10;10;Iselin
+265;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Mercedes-Benz;5;E;MÑnnlich;0;10;10;Iselin
+143;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Opel;128;Astra;Weiblich;0;10;10;Iselin
+234;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Opel;128;Corsa;MÑnnlich;0;10;10;Iselin
+129;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Saab;32;9;Weiblich;0;10;10;Iselin
+147;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Skoda;134;Octavia;MÑnnlich;0;10;10;Iselin
+160;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Smart;104;Fortwo;MÑnnlich;0;10;10;Iselin
+167;1;Benzin;2015;47,560904373;7,565889359;Schwarz;Toyota;117;Yaris;Weiblich;0;10;10;Iselin
+496;1;Benzin;2015;47,560904373;7,565889359;Schwarz;VW;90;Golf;Weiblich;0;10;10;Iselin
+111;1;Benzin;2015;47,560904373;7,565889359;Schwarz;VW;90;Passat;Weiblich;0;10;10;Iselin
+358;1;Benzin;2015;47,560904373;7,565889359;Schwarz;VW;90;Polo;MÑnnlich;0;10;10;Iselin
+127;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Alfa Romeo;147;147;MÑnnlich;0;11;11;St. Johann
+256;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Audi;1;A3;MÑnnlich;0;11;11;St. Johann
+131;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Audi;1;A4;MÑnnlich;0;11;11;St. Johann
+136;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Audi;1;A6;Weiblich;0;11;11;St. Johann
+106;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Fiat;125;500;MÑnnlich;0;11;11;St. Johann
+229;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Fiat;125;Punto;MÑnnlich;0;11;11;St. Johann
+190;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Ford;165;Focus;MÑnnlich;0;11;11;St. Johann
+239;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Mercedes-Benz;5;A;Weiblich;0;11;11;St. Johann
+323;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Mercedes-Benz;5;C;Weiblich;0;11;11;St. Johann
+140;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Mercedes-Benz;5;E;MÑnnlich;0;11;11;St. Johann
+171;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Mercedes-Benz;5;S;Weiblich;0;11;11;St. Johann
+115;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Mini;112;Cooper;Weiblich;0;11;11;St. Johann
+166;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Opel;128;Astra;MÑnnlich;0;11;11;St. Johann
+146;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Opel;128;Corsa;MÑnnlich;0;11;11;St. Johann
+149;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Opel;128;Zafira;MÑnnlich;0;11;11;St. Johann
+105;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Peugeot;170;206;MÑnnlich;0;11;11;St. Johann
+106;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Renault;42;Clio;MÑnnlich;0;11;11;St. Johann
+113;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Skoda;134;Octavia;MÑnnlich;0;11;11;St. Johann
+137;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Smart;104;CoupÇ;MÑnnlich;0;11;11;St. Johann
+128;1;Benzin;2015;47,572168422;7,572809458;Schwarz;Smart;104;Fortwo;MÑnnlich;0;11;11;St. Johann
+733;1;Benzin;2015;47,572168422;7,572809458;Schwarz;VW;90;Golf;MÑnnlich;0;11;11;St. Johann
+104;1;Benzin;2015;47,572168422;7,572809458;Schwarz;VW;90;Lupo;Weiblich;0;11;11;St. Johann
+154;1;Benzin;2015;47,572168422;7,572809458;Schwarz;VW;90;Passat;MÑnnlich;0;11;11;St. Johann
+346;1;Benzin;2015;47,572168422;7,572809458;Schwarz;VW;90;Polo;Weiblich;0;11;11;St. Johann
+104;1;Benzin;2015;47,563973994;7,596074939;Schwarz;Skoda;134;Octavia;Weiblich;0;13;13;Clara
+157;1;Benzin;2015;47,563973994;7,596074939;Schwarz;VW;90;Golf;Weiblich;0;13;13;Clara
+136;1;Benzin;2015;47,560607537;7,606111765;Schwarz;Audi;1;A4;MÑnnlich;0;14;14;Wettstein
+109;1;Benzin;2015;47,560607537;7,606111765;Schwarz;Mercedes-Benz;5;A;MÑnnlich;0;14;14;Wettstein
+124;1;Benzin;2015;47,560607537;7,606111765;Schwarz;Saab;32;9;MÑnnlich;0;14;14;Wettstein
+252;1;Benzin;2015;47,560607537;7,606111765;Schwarz;VW;90;Golf;Weiblich;0;14;14;Wettstein
+112;1;Benzin;2015;47,560607537;7,606111765;Schwarz;VW;90;Polo;Weiblich;0;14;14;Wettstein
+145;1;Benzin;2015;47,573818735;7,617516518;Schwarz;Audi;1;A4;Weiblich;0;15;15;Hirzbrunnen
+102;1;Benzin;2015;47,573818735;7,617516518;Schwarz;Fiat;125;Panda;MÑnnlich;0;15;15;Hirzbrunnen
+122;1;Benzin;2015;47,573818735;7,617516518;Schwarz;Mazda;122;2;MÑnnlich;0;15;15;Hirzbrunnen
+150;1;Benzin;2015;47,573818735;7,617516518;Schwarz;Mercedes-Benz;5;A;Weiblich;0;15;15;Hirzbrunnen
+155;1;Benzin;2015;47,573818735;7,617516518;Schwarz;Mercedes-Benz;5;B;Weiblich;0;15;15;Hirzbrunnen
+218;1;Benzin;2015;47,573818735;7,617516518;Schwarz;Opel;128;Astra;MÑnnlich;0;15;15;Hirzbrunnen
+309;1;Benzin;2015;47,573818735;7,617516518;Schwarz;VW;90;Golf;Weiblich;0;15;15;Hirzbrunnen
+272;1;Benzin;2015;47,573818735;7,617516518;Schwarz;VW;90;Polo;MÑnnlich;0;15;15;Hirzbrunnen
+151;1;Benzin;2015;47,566507744;7,604341507;Schwarz;Fiat;125;Punto;MÑnnlich;0;16;16;Rosental
+162;1;Benzin;2015;47,566507744;7,604341507;Schwarz;Mercedes-Benz;5;A;MÑnnlich;0;16;16;Rosental
+130;1;Benzin;2015;47,566507744;7,604341507;Schwarz;Mercedes-Benz;5;C;Weiblich;0;16;16;Rosental
+137;1;Benzin;2015;47,566507744;7,604341507;Schwarz;Smart;104;Fortwo;Weiblich;0;16;16;Rosental
+545;1;Benzin;2015;47,566507744;7,604341507;Schwarz;VW;90;Golf;Weiblich;0;16;16;Rosental
+166;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Audi;1;A3;Weiblich;0;17;17;MatthÑus
+232;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Audi;1;A4;Weiblich;0;17;17;MatthÑus
+115;1;Benzin;2015;47,567962785;7,590866089;Schwarz;BMW;81;116i;Weiblich;0;17;17;MatthÑus
+154;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Fiat;125;Punto;MÑnnlich;0;17;17;MatthÑus
+109;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Mazda;122;6;Weiblich;0;17;17;MatthÑus
+256;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Mercedes-Benz;5;C;MÑnnlich;0;17;17;MatthÑus
+179;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Mercedes-Benz;5;E;Weiblich;0;17;17;MatthÑus
+139;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Mercedes-Benz;5;Slk;Weiblich;0;17;17;MatthÑus
+106;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Opel;128;Astra;Weiblich;0;17;17;MatthÑus
+153;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Opel;128;Corsa;MÑnnlich;0;17;17;MatthÑus
+195;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Renault;42;Clio;MÑnnlich;0;17;17;MatthÑus
+102;1;Benzin;2015;47,567962785;7,590866089;Schwarz;Saab;32;9;Weiblich;0;17;17;MatthÑus
+596;1;Benzin;2015;47,567962785;7,590866089;Schwarz;VW;90;Golf;Weiblich;0;17;17;MatthÑus
+134;1;Benzin;2015;47,567962785;7,590866089;Schwarz;VW;90;Passat;Weiblich;0;17;17;MatthÑus
+317;1;Benzin;2015;47,567962785;7,590866089;Schwarz;VW;90;Polo;MÑnnlich;0;17;17;MatthÑus
+136;1;Benzin;2015;47,567962785;7,590866089;Schwarz;VW;90;Touran;MÑnnlich;0;17;17;MatthÑus
+122;1;Benzin;2015;47,574325399;7,591981888;Schwarz;Audi;1;A3;MÑnnlich;0;18;18;Klybeck
+146;1;Benzin;2015;47,574325399;7,591981888;Schwarz;Audi;1;A4;Weiblich;0;18;18;Klybeck
+184;1;Benzin;2015;47,574325399;7,591981888;Schwarz;Fiat;125;Punto;Weiblich;0;18;18;Klybeck
+180;1;Benzin;2015;47,574325399;7,591981888;Schwarz;Mercedes-Benz;5;C;Weiblich;0;18;18;Klybeck
+199;1;Benzin;2015;47,574325399;7,591981888;Schwarz;Opel;128;Astra;Weiblich;0;18;18;Klybeck
+136;1;Benzin;2015;47,574325399;7,591981888;Schwarz;VW;90;Golf;MÑnnlich;0;18;18;Klybeck
+150;1;Benzin;2015;47,574325399;7,591981888;Schwarz;VW;90;Polo;MÑnnlich;0;18;18;Klybeck
+230;1;Benzin;2015;47,583473469;7,597088814;Schwarz;VW;90;Golf;Weiblich;0;19;19;KleinhÅningen
+135;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Alfa Romeo;147;147;MÑnnlich;0;20;20;Riehen
+115;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Alfa Romeo;147;Giulietta;Weiblich;0;20;20;Riehen
+474;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Audi;1;A3;MÑnnlich;0;20;20;Riehen
+321;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Audi;1;A4;MÑnnlich;0;20;20;Riehen
+179;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Audi;1;A5;MÑnnlich;0;20;20;Riehen
+113;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Audi;1;A6;Weiblich;0;20;20;Riehen
+103;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Audi;1;Q3;Weiblich;0;20;20;Riehen
+154;1;Benzin;2015;47,575686131;7,650518417;Schwarz;BMW;81;116i;Weiblich;0;20;20;Riehen
+201;1;Benzin;2015;47,575686131;7,650518417;Schwarz;BMW;81;320i;MÑnnlich;0;20;20;Riehen
+164;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Fiat;125;500;MÑnnlich;0;20;20;Riehen
+113;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Fiat;125;Panda;MÑnnlich;0;20;20;Riehen
+327;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Fiat;125;Punto;Weiblich;0;20;20;Riehen
+196;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Ford;165;Fiesta;MÑnnlich;0;20;20;Riehen
+324;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Ford;165;Focus;Weiblich;0;20;20;Riehen
+138;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Honda;7;Civic;Weiblich;0;20;20;Riehen
+118;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Honda;7;Jazz;MÑnnlich;0;20;20;Riehen
+104;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mazda;122;2;MÑnnlich;0;20;20;Riehen
+124;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mazda;122;3;MÑnnlich;0;20;20;Riehen
+521;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;A;MÑnnlich;0;20;20;Riehen
+272;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;B;Weiblich;0;20;20;Riehen
+398;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;C;Weiblich;0;20;20;Riehen
+100;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;Clk;MÑnnlich;0;20;20;Riehen
+288;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;E;MÑnnlich;0;20;20;Riehen
+105;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;Ml;MÑnnlich;0;20;20;Riehen
+102;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;S;MÑnnlich;0;20;20;Riehen
+161;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;Slk;Weiblich;0;20;20;Riehen
+369;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mini;112;Cooper;Weiblich;0;20;20;Riehen
+165;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Mitsubishi;64;Colt;Weiblich;0;20;20;Riehen
+135;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Nissan;89;Qashqai;Weiblich;0;20;20;Riehen
+244;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Opel;128;Astra;MÑnnlich;0;20;20;Riehen
+234;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Opel;128;Corsa;MÑnnlich;0;20;20;Riehen
+248;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Opel;128;Zafira;Weiblich;0;20;20;Riehen
+160;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Peugeot;170;207;MÑnnlich;0;20;20;Riehen
+341;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Porsche;113;911;Weiblich;0;20;20;Riehen
+149;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Porsche;113;Cayenne;MÑnnlich;0;20;20;Riehen
+197;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Renault;42;Clio;MÑnnlich;0;20;20;Riehen
+158;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Renault;42;MÇgane;MÑnnlich;0;20;20;Riehen
+195;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Renault;42;Twingo;MÑnnlich;0;20;20;Riehen
+288;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Saab;32;9;Weiblich;0;20;20;Riehen
+122;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Seat;61;Ibiza;Weiblich;0;20;20;Riehen
+142;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Skoda;134;Fabia;Weiblich;0;20;20;Riehen
+283;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Skoda;134;Octavia;MÑnnlich;0;20;20;Riehen
+123;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Skoda;134;Roomster;Weiblich;0;20;20;Riehen
+140;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Smart;104;CoupÇ;Weiblich;0;20;20;Riehen
+513;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Smart;104;Fortwo;MÑnnlich;0;20;20;Riehen
+207;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Smart;104;Microcar;MÑnnlich;0;20;20;Riehen
+164;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Toyota;117;Avensis;MÑnnlich;0;20;20;Riehen
+166;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Toyota;117;Rav4;MÑnnlich;0;20;20;Riehen
+1211;1;Benzin;2015;47,575686131;7,650518417;Schwarz;VW;90;Golf;MÑnnlich;0;20;20;Riehen
+140;1;Benzin;2015;47,575686131;7,650518417;Schwarz;VW;90;Passat;Weiblich;0;20;20;Riehen
+441;1;Benzin;2015;47,575686131;7,650518417;Schwarz;VW;90;Polo;MÑnnlich;0;20;20;Riehen
+144;1;Benzin;2015;47,575686131;7,650518417;Schwarz;VW;90;Tiguan;MÑnnlich;0;20;20;Riehen
+110;1;Benzin;2015;47,575686131;7,650518417;Schwarz;VW;90;Touran;MÑnnlich;0;20;20;Riehen
+109;1;Benzin;2015;47,575686131;7,650518417;Schwarz;VW;90;Up;MÑnnlich;0;20;20;Riehen
+202;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Volvo;16;V40;MÑnnlich;0;20;20;Riehen
+127;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Volvo;16;V50;MÑnnlich;0;20;20;Riehen
+105;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Volvo;16;V70;Weiblich;0;20;20;Riehen
+107;1;Benzin;2015;47,575686131;7,650518417;Schwarz;Volvo;16;Xc90;Weiblich;0;20;20;Riehen
+111;1;Benzin;2015;47,545249405;7,661075592;Weiss;Citroân;116;C3;Weiblich;0;0;99;ausserkantonal
+129;1;Benzin;2015;47,545249405;7,661075592;Weiss;Fiat;125;500;Weiblich;0;0;99;ausserkantonal
+209;1;Benzin;2015;47,545249405;7,661075592;Weiss;Ford;165;B;MÑnnlich;0;0;99;ausserkantonal
+131;1;Benzin;2015;47,545249405;7,661075592;Weiss;Honda;7;Jazz;Weiblich;0;0;99;ausserkantonal
+123;1;Benzin;2015;47,545249405;7,661075592;Weiss;Hyundai;138;I20;Weiblich;0;0;99;ausserkantonal
+371;1;Benzin;2015;47,545249405;7,661075592;Weiss;Opel;128;Astra;Weiblich;0;0;99;ausserkantonal
+109;1;Benzin;2015;47,545249405;7,661075592;Weiss;Opel;128;Corsa;MÑnnlich;0;0;99;ausserkantonal
+106;1;Benzin;2015;47,545249405;7,661075592;Weiss;Opel;128;Meriva;Weiblich;0;0;99;ausserkantonal
+117;1;Benzin;2015;47,545249405;7,661075592;Weiss;Peugeot;170;207;Weiblich;0;0;99;ausserkantonal
+251;1;Benzin;2015;47,545249405;7,661075592;Weiss;Skoda;134;Octavia;Weiblich;0;0;99;ausserkantonal
+106;1;Benzin;2015;47,545249405;7,661075592;Weiss;Smart;104;Fortwo;MÑnnlich;0;0;99;ausserkantonal
+202;1;Benzin;2015;47,545249405;7,661075592;Weiss;Toyota;117;Yaris;Weiblich;0;0;99;ausserkantonal
+303;1;Benzin;2015;47,545249405;7,661075592;Weiss;VW;90;Golf;MÑnnlich;0;0;99;ausserkantonal
+278;1;Benzin;2015;47,545249405;7,661075592;Weiss;VW;90;Polo;Weiblich;0;0;99;ausserkantonal
+2487;1;Benzin;2015;47,545249405;7,661075592;Weiss;VW;90;Up;Weiblich;0;0;99;ausserkantonal
+403;1;Benzin;2015;47,556104110;7,589728832;Weiss;Peugeot;170;107;MÑnnlich;0;1;1;Altstadt Grossbasel
+114;1;Benzin;2015;47,556104110;7,589728832;Weiss;VW;90;Golf;Weiblich;0;1;1;Altstadt Grossbasel
+160;1;Benzin;2015;47,556104110;7,589728832;Weiss;VW;90;Polo;Weiblich;0;1;1;Altstadt Grossbasel
+116;1;Benzin;2015;47,551734258;7,591713667;Weiss;Mercedes-Benz;5;A;Weiblich;0;2;2;VorstÑdte
+133;1;Benzin;2015;47,551734258;7,591713667;Weiss;Mini;112;Cooper;MÑnnlich;0;2;2;VorstÑdte
+257;1;Benzin;2015;47,551734258;7,591713667;Weiss;Opel;128;Astra;MÑnnlich;0;2;2;VorstÑdte
+305;1;Benzin;2015;47,551734258;7,591713667;Weiss;Opel;128;Corsa;MÑnnlich;0;2;2;VorstÑdte
+117;1;Benzin;2015;47,551734258;7,591713667;Weiss;Renault;42;Kangoo;Weiblich;0;2;2;VorstÑdte
+120;1;Benzin;2015;47,551734258;7,591713667;Weiss;Skoda;134;Fabia;Weiblich;0;2;2;VorstÑdte
+218;1;Benzin;2015;47,551734258;7,591713667;Weiss;Smart;104;Fortwo;Weiblich;0;2;2;VorstÑdte
+108;1;Benzin;2015;47,551734258;7,591713667;Weiss;Toyota;117;Aygo;MÑnnlich;0;2;2;VorstÑdte
+105;1;Benzin;2015;47,551734258;7,591713667;Weiss;VW;90;T4;Weiblich;0;2;2;VorstÑdte
+317;1;Benzin;2015;47,555336607;7,578560114;Weiss;Fiat;125;500;MÑnnlich;0;3;3;Am Ring
+134;1;Benzin;2015;47,555336607;7,578560114;Weiss;Mercedes-Benz;5;B;MÑnnlich;0;3;3;Am Ring
+180;1;Benzin;2015;47,555336607;7,578560114;Weiss;Mini;112;Cooper;Weiblich;0;3;3;Am Ring
+294;1;Benzin;2015;47,555336607;7,578560114;Weiss;Opel;128;Astra;MÑnnlich;0;3;3;Am Ring
+333;1;Benzin;2015;47,555336607;7,578560114;Weiss;Opel;128;Corsa;MÑnnlich;0;3;3;Am Ring
+266;1;Benzin;2015;47,555336607;7,578560114;Weiss;Smart;104;Fortwo;Weiblich;0;3;3;Am Ring
+218;1;Benzin;2015;47,555336607;7,578560114;Weiss;VW;90;Golf;Weiblich;0;3;3;Am Ring
+175;1;Benzin;2015;47,555336607;7,578560114;Weiss;VW;90;Polo;MÑnnlich;0;3;3;Am Ring
+210;1;Benzin;2015;47,552034765;7,619726658;Weiss;Fiat;125;500;Weiblich;0;4;4;Breite
+146;1;Benzin;2015;47,552034765;7,619726658;Weiss;Opel;128;Astra;Weiblich;0;4;4;Breite
+168;1;Benzin;2015;47,552034765;7,619726658;Weiss;VW;90;Golf;MÑnnlich;0;4;4;Breite
+125;1;Benzin;2015;47,547740610;7,605414391;Weiss;Audi;1;A3;MÑnnlich;0;5;5;St. Alban
+451;1;Benzin;2015;47,547740610;7,605414391;Weiss;Fiat;125;500;MÑnnlich;0;5;5;St. Alban
+164;1;Benzin;2015;47,547740610;7,605414391;Weiss;Hyundai;138;I20;MÑnnlich;0;5;5;St. Alban
+101;1;Benzin;2015;47,547740610;7,605414391;Weiss;Mazda;122;Cx;Weiblich;0;5;5;St. Alban
+116;1;Benzin;2015;47,547740610;7,605414391;Weiss;Mercedes-Benz;5;A;MÑnnlich;0;5;5;St. Alban
+108;1;Benzin;2015;47,547740610;7,605414391;Weiss;Mercedes-Benz;5;C;Weiblich;0;5;5;St. Alban
+169;1;Benzin;2015;47,547740610;7,605414391;Weiss;Mini;112;Cooper;Weiblich;0;5;5;St. Alban
+109;1;Benzin;2015;47,547740610;7,605414391;Weiss;Mitsubishi;64;Colt;Weiblich;0;5;5;St. Alban
+460;1;Benzin;2015;47,547740610;7,605414391;Weiss;Opel;128;Astra;Weiblich;0;5;5;St. Alban
+120;1;Benzin;2015;47,547740610;7,605414391;Weiss;Opel;128;Combo;Weiblich;0;5;5;St. Alban
+190;1;Benzin;2015;47,547740610;7,605414391;Weiss;Opel;128;Corsa;Weiblich;0;5;5;St. Alban
+108;1;Benzin;2015;47,547740610;7,605414391;Weiss;Opel;128;Meriva;MÑnnlich;0;5;5;St. Alban
+101;1;Benzin;2015;47,547740610;7,605414391;Weiss;Peugeot;170;208;Weiblich;0;5;5;St. Alban
+105;1;Benzin;2015;47,547740610;7,605414391;Weiss;Renault;42;Clio;MÑnnlich;0;5;5;St. Alban
+124;1;Benzin;2015;47,547740610;7,605414391;Weiss;Renault;42;Megane;Weiblich;0;5;5;St. Alban
+103;1;Benzin;2015;47,547740610;7,605414391;Weiss;Skoda;134;Octavia;MÑnnlich;0;5;5;St. Alban
+301;1;Benzin;2015;47,547740610;7,605414391;Weiss;Smart;104;Fortwo;Weiblich;0;5;5;St. Alban
+230;1;Benzin;2015;47,547740610;7,605414391;Weiss;Toyota;117;Yaris;Weiblich;0;5;5;St. Alban
+216;1;Benzin;2015;47,547740610;7,605414391;Weiss;VW;90;Golf;Weiblich;0;5;5;St. Alban
+308;1;Benzin;2015;47,547740610;7,605414391;Weiss;VW;90;Polo;Weiblich;0;5;5;St. Alban
+151;1;Benzin;2015;47,547740610;7,605414391;Weiss;VW;90;Up;Weiblich;0;5;5;St. Alban
+235;1;Benzin;2015;47,543388166;7,592303753;Weiss;Fiat;125;500;Weiblich;0;6;6;Gundeldingen
+128;1;Benzin;2015;47,543388166;7,592303753;Weiss;Hyundai;138;I20;MÑnnlich;0;6;6;Gundeldingen
+121;1;Benzin;2015;47,543388166;7,592303753;Weiss;Mercedes-Benz;5;C;Weiblich;0;6;6;Gundeldingen
+288;1;Benzin;2015;47,543388166;7,592303753;Weiss;Opel;128;Astra;Weiblich;0;6;6;Gundeldingen
+106;1;Benzin;2015;47,543388166;7,592303753;Weiss;Opel;128;Corsa;MÑnnlich;0;6;6;Gundeldingen
+284;1;Benzin;2015;47,543388166;7,592303753;Weiss;Smart;104;Fortwo;Weiblich;0;6;6;Gundeldingen
+111;1;Benzin;2015;47,543388166;7,592303753;Weiss;Toyota;117;Yaris;MÑnnlich;0;6;6;Gundeldingen
+419;1;Benzin;2015;47,543388166;7,592303753;Weiss;VW;90;Golf;Weiblich;0;6;6;Gundeldingen
+197;1;Benzin;2015;47,543388166;7,592303753;Weiss;VW;90;Polo;MÑnnlich;0;6;6;Gundeldingen
+202;1;Benzin;2015;47,530785042;7,598108053;Weiss;Fiat;125;500;MÑnnlich;0;7;7;Bruderholz
+100;1;Benzin;2015;47,530785042;7,598108053;Weiss;Hyundai;138;I20;MÑnnlich;0;7;7;Bruderholz
+143;1;Benzin;2015;47,530785042;7,598108053;Weiss;Mitsubishi;64;Colt;MÑnnlich;0;7;7;Bruderholz
+255;1;Benzin;2015;47,530785042;7,598108053;Weiss;VW;90;Golf;Weiblich;0;7;7;Bruderholz
+216;1;Benzin;2015;47,548247527;7,571521997;Weiss;Fiat;125;500;Weiblich;0;8;8;Bachletten
+163;1;Benzin;2015;47,548247527;7,571521997;Weiss;Mitsubishi;64;Colt;MÑnnlich;0;8;8;Bachletten
+164;1;Benzin;2015;47,548247527;7,571521997;Weiss;Opel;128;Astra;MÑnnlich;0;8;8;Bachletten
+155;1;Benzin;2015;47,548247527;7,571521997;Weiss;Opel;128;Corsa;Weiblich;0;8;8;Bachletten
+101;1;Benzin;2015;47,548247527;7,571521997;Weiss;Opel;128;Meriva;Weiblich;0;8;8;Bachletten
+112;1;Benzin;2015;47,548247527;7,571521997;Weiss;Skoda;134;Fabia;MÑnnlich;0;8;8;Bachletten
+142;1;Benzin;2015;47,548247527;7,571521997;Weiss;Skoda;134;Octavia;Weiblich;0;8;8;Bachletten
+350;1;Benzin;2015;47,548247527;7,571521997;Weiss;VW;90;Golf;MÑnnlich;0;8;8;Bachletten
+152;1;Benzin;2015;47,548247527;7,571521997;Weiss;VW;90;Polo;Weiblich;0;8;8;Bachletten
+162;1;Benzin;2015;47,555275061;7,569826841;Weiss;Fiat;125;500;MÑnnlich;0;9;9;Gotthelf
+102;1;Benzin;2015;47,555275061;7,569826841;Weiss;Toyota;117;Yaris;MÑnnlich;0;9;9;Gotthelf
+218;1;Benzin;2015;47,555275061;7,569826841;Weiss;VW;90;Golf;Weiblich;0;9;9;Gotthelf
+130;1;Benzin;2015;47,560904373;7,565889359;Weiss;Alfa Romeo;147;Giulietta;Weiblich;0;10;10;Iselin
+125;1;Benzin;2015;47,560904373;7,565889359;Weiss;Fiat;125;500;Weiblich;0;10;10;Iselin
+157;1;Benzin;2015;47,560904373;7,565889359;Weiss;Fiat;125;Punto;MÑnnlich;0;10;10;Iselin
+104;1;Benzin;2015;47,560904373;7,565889359;Weiss;Renault;42;Megane;Weiblich;0;10;10;Iselin
+148;1;Benzin;2015;47,560904373;7,565889359;Weiss;Toyota;117;Aygo;Weiblich;0;10;10;Iselin
+162;1;Benzin;2015;47,560904373;7,565889359;Weiss;Toyota;117;Corolla;MÑnnlich;0;10;10;Iselin
+116;1;Benzin;2015;47,560904373;7,565889359;Weiss;Toyota;117;Yaris;MÑnnlich;0;10;10;Iselin
+362;1;Benzin;2015;47,560904373;7,565889359;Weiss;VW;90;Golf;MÑnnlich;0;10;10;Iselin
+158;1;Benzin;2015;47,572168422;7,572809458;Weiss;Fiat;125;500;Weiblich;0;11;11;St. Johann
+111;1;Benzin;2015;47,572168422;7,572809458;Weiss;Mercedes-Benz;5;C;Weiblich;0;11;11;St. Johann
+168;1;Benzin;2015;47,572168422;7,572809458;Weiss;Opel;128;Astra;Weiblich;0;11;11;St. Johann
+110;1;Benzin;2015;47,572168422;7,572809458;Weiss;Peugeot;170;207;Weiblich;0;11;11;St. Johann
+142;1;Benzin;2015;47,572168422;7,572809458;Weiss;Renault;42;Clio;Weiblich;0;11;11;St. Johann
+112;1;Benzin;2015;47,572168422;7,572809458;Weiss;Toyota;117;Yaris;Weiblich;0;11;11;St. Johann
+291;1;Benzin;2015;47,572168422;7,572809458;Weiss;VW;90;Golf;MÑnnlich;0;11;11;St. Johann
+252;1;Benzin;2015;47,572168422;7,572809458;Weiss;VW;90;Polo;MÑnnlich;0;11;11;St. Johann
+134;1;Benzin;2015;47,560831974;7,592083812;Weiss;VW;90;Golf;Weiblich;0;12;12;Altstadt Kleinbasel
+109;1;Benzin;2015;47,563973994;7,596074939;Weiss;Fiat;125;500;Weiblich;0;13;13;Clara
+101;1;Benzin;2015;47,560607537;7,606111765;Weiss;Smart;104;Fortwo;Weiblich;0;14;14;Wettstein
+160;1;Benzin;2015;47,560607537;7,606111765;Weiss;VW;90;Golf;MÑnnlich;0;14;14;Wettstein
+166;1;Benzin;2015;47,573818735;7,617516518;Weiss;Fiat;125;500;MÑnnlich;0;15;15;Hirzbrunnen
+225;1;Benzin;2015;47,573818735;7,617516518;Weiss;Opel;128;Astra;Weiblich;0;15;15;Hirzbrunnen
+147;1;Benzin;2015;47,573818735;7,617516518;Weiss;Smart;104;Fortwo;MÑnnlich;0;15;15;Hirzbrunnen
+221;1;Benzin;2015;47,573818735;7,617516518;Weiss;VW;90;Golf;Weiblich;0;15;15;Hirzbrunnen
+112;1;Benzin;2015;47,573818735;7,617516518;Weiss;VW;90;Polo;Weiblich;0;15;15;Hirzbrunnen
+198;1;Benzin;2015;47,566507744;7,604341507;Weiss;Opel;128;Corsa;Weiblich;0;16;16;Rosental
+192;1;Benzin;2015;47,566507744;7,604341507;Weiss;Smart;104;Fortwo;Weiblich;0;16;16;Rosental
+175;1;Benzin;2015;47,566507744;7,604341507;Weiss;VW;90;Golf;MÑnnlich;0;16;16;Rosental
+171;1;Benzin;2015;47,566507744;7,604341507;Weiss;VW;90;Polo;MÑnnlich;0;16;16;Rosental
+241;1;Benzin;2015;47,567962785;7,590866089;Weiss;Fiat;125;500;MÑnnlich;0;17;17;MatthÑus
+122;1;Benzin;2015;47,567962785;7,590866089;Weiss;Mercedes-Benz;5;C;Weiblich;0;17;17;MatthÑus
+179;1;Benzin;2015;47,567962785;7,590866089;Weiss;Opel;128;Corsa;Weiblich;0;17;17;MatthÑus
+241;1;Benzin;2015;47,567962785;7,590866089;Weiss;VW;90;Golf;MÑnnlich;0;17;17;MatthÑus
+112;1;Benzin;2015;47,567962785;7,590866089;Weiss;VW;90;Polo;Weiblich;0;17;17;MatthÑus
+105;1;Benzin;2015;47,574325399;7,591981888;Weiss;Opel;128;Astra;Weiblich;0;18;18;Klybeck
+206;1;Benzin;2015;47,574325399;7,591981888;Weiss;VW;90;Golf;MÑnnlich;0;18;18;Klybeck
+132;1;Benzin;2015;47,583473469;7,597088814;Weiss;Opel;128;Astra;MÑnnlich;0;19;19;KleinhÅningen
+165;1;Benzin;2015;47,583473469;7,597088814;Weiss;Renault;42;Kangoo;Weiblich;0;19;19;KleinhÅningen
+111;1;Benzin;2015;47,583473469;7,597088814;Weiss;Skoda;134;Octavia;Weiblich;0;19;19;KleinhÅningen
+155;1;Benzin;2015;47,575686131;7,650518417;Weiss;Audi;1;A1;Weiblich;0;20;20;Riehen
+177;1;Benzin;2015;47,575686131;7,650518417;Weiss;Audi;1;A4;MÑnnlich;0;20;20;Riehen
+400;1;Benzin;2015;47,575686131;7,650518417;Weiss;Fiat;125;500;Weiblich;0;20;20;Riehen
+108;1;Benzin;2015;47,575686131;7,650518417;Weiss;Fiat;125;Panda;Weiblich;0;20;20;Riehen
+165;1;Benzin;2015;47,575686131;7,650518417;Weiss;Fiat;125;Punto;MÑnnlich;0;20;20;Riehen
+168;1;Benzin;2015;47,575686131;7,650518417;Weiss;Ford;165;Focus;Weiblich;0;20;20;Riehen
+153;1;Benzin;2015;47,575686131;7,650518417;Weiss;Honda;7;Jazz;Weiblich;0;20;20;Riehen
+190;1;Benzin;2015;47,575686131;7,650518417;Weiss;Hyundai;138;I20;MÑnnlich;0;20;20;Riehen
+119;1;Benzin;2015;47,575686131;7,650518417;Weiss;Mazda;122;2;Weiblich;0;20;20;Riehen
+246;1;Benzin;2015;47,575686131;7,650518417;Weiss;Mercedes-Benz;5;A;MÑnnlich;0;20;20;Riehen
+106;1;Benzin;2015;47,575686131;7,650518417;Weiss;Mercedes-Benz;5;B;Weiblich;0;20;20;Riehen
+121;1;Benzin;2015;47,575686131;7,650518417;Weiss;Mercedes-Benz;5;E;Weiblich;0;20;20;Riehen
+242;1;Benzin;2015;47,575686131;7,650518417;Weiss;Mini;112;Cooper;Weiblich;0;20;20;Riehen
+126;1;Benzin;2015;47,575686131;7,650518417;Weiss;Mini;112;One;Weiblich;0;20;20;Riehen
+120;1;Benzin;2015;47,575686131;7,650518417;Weiss;Mitsubishi;64;Colt;MÑnnlich;0;20;20;Riehen
+127;1;Benzin;2015;47,575686131;7,650518417;Weiss;Nissan;89;Micra;Weiblich;0;20;20;Riehen
+147;1;Benzin;2015;47,575686131;7,650518417;Weiss;Nissan;89;Qashqai;Weiblich;0;20;20;Riehen
+173;1;Benzin;2015;47,575686131;7,650518417;Weiss;Opel;128;Astra;Weiblich;0;20;20;Riehen
+109;1;Benzin;2015;47,575686131;7,650518417;Weiss;Opel;128;Corsa;MÑnnlich;0;20;20;Riehen
+111;1;Benzin;2015;47,575686131;7,650518417;Weiss;Opel;128;Meriva;MÑnnlich;0;20;20;Riehen
+121;1;Benzin;2015;47,575686131;7,650518417;Weiss;Opel;128;Zafira;Weiblich;0;20;20;Riehen
+241;1;Benzin;2015;47,575686131;7,650518417;Weiss;Renault;42;Clio;Weiblich;0;20;20;Riehen
+152;1;Benzin;2015;47,575686131;7,650518417;Weiss;Renault;42;Kangoo;MÑnnlich;0;20;20;Riehen
+125;1;Benzin;2015;47,575686131;7,650518417;Weiss;Seat;61;Ibiza;MÑnnlich;0;20;20;Riehen
+110;1;Benzin;2015;47,575686131;7,650518417;Weiss;Seat;61;Leon;Weiblich;0;20;20;Riehen
+183;1;Benzin;2015;47,575686131;7,650518417;Weiss;Skoda;134;Octavia;Weiblich;0;20;20;Riehen
+398;1;Benzin;2015;47,575686131;7,650518417;Weiss;Smart;104;Fortwo;MÑnnlich;0;20;20;Riehen
+139;1;Benzin;2015;47,575686131;7,650518417;Weiss;Suzuki;25;Swift;MÑnnlich;0;20;20;Riehen
+113;1;Benzin;2015;47,575686131;7,650518417;Weiss;Toyota;117;Auris;Weiblich;0;20;20;Riehen
+106;1;Benzin;2015;47,575686131;7,650518417;Weiss;Toyota;117;Corolla;Weiblich;0;20;20;Riehen
+103;1;Benzin;2015;47,575686131;7,650518417;Weiss;Toyota;117;Rav4;MÑnnlich;0;20;20;Riehen
+314;1;Benzin;2015;47,575686131;7,650518417;Weiss;Toyota;117;Yaris;Weiblich;0;20;20;Riehen
+665;1;Benzin;2015;47,575686131;7,650518417;Weiss;VW;90;Golf;MÑnnlich;0;20;20;Riehen
+262;1;Benzin;2015;47,575686131;7,650518417;Weiss;VW;90;Polo;Weiblich;0;20;20;Riehen
+125;1;Benzin;2015;47,575686131;7,650518417;Weiss;VW;90;Tiguan;Weiblich;0;20;20;Riehen
+100;1;ElektrizitÑt / Hybrid;2015;47,555336607;7,578560114;Grau;Toyota;117;Yaris;Weiblich;0;3;3;Am Ring
+102;1;ElektrizitÑt / Hybrid;2015;47,547740610;7,605414391;Grau;Honda;7;Jazz;Weiblich;0;5;5;St. Alban
+112;1;ElektrizitÑt / Hybrid;2015;47,573818735;7,617516518;Grau;Honda;7;Jazz;MÑnnlich;0;15;15;Hirzbrunnen
+149;1;ElektrizitÑt / Hybrid;2015;47,575686131;7,650518417;Grau;Honda;7;Jazz;MÑnnlich;0;20;20;Riehen
+101;1;ElektrizitÑt / Hybrid;2015;47,575686131;7,650518417;Grau;Toyota;117;Prius;Weiblich;0;20;20;Riehen
+223;1;ElektrizitÑt / Hybrid;2015;47,560904373;7,565889359;Hellgrau;Toyota;117;Prius;MÑnnlich;0;10;10;Iselin
+141;1;ElektrizitÑt / Hybrid;2015;47,545249405;7,661075592;Rot;Honda;7;Jazz;Weiblich;0;0;99;ausserkantonal
+252;1;ElektrizitÑt / Hybrid;2015;47,545249405;7,661075592;Weiss;Honda;7;Jazz;MÑnnlich;0;0;99;ausserkantonal
+171;1;ElektrizitÑt / Hybrid;2015;47,545249405;7,661075592;Weiss;Toyota;117;Yaris;Weiblich;0;0;99;ausserkantonal
+133;1;ElektrizitÑt / Hybrid;2015;47,547740610;7,605414391;Weiss;Toyota;117;Auris;MÑnnlich;0;5;5;St. Alban
+392;1;ElektrizitÑt / Hybrid;2015;47,547740610;7,605414391;Weiss;Toyota;117;Yaris;MÑnnlich;0;5;5;St. Alban
+156;1;ElektrizitÑt / Hybrid;2015;47,543388166;7,592303753;Weiss;Honda;7;Jazz;Weiblich;0;6;6;Gundeldingen
+123;1;ElektrizitÑt / Hybrid;2015;47,543388166;7,592303753;Weiss;Toyota;117;Yaris;MÑnnlich;0;6;6;Gundeldingen
+236;1;ElektrizitÑt / Hybrid;2015;47,560904373;7,565889359;Weiss;Toyota;117;Prius;MÑnnlich;0;10;10;Iselin
+146;1;ElektrizitÑt / Hybrid;2015;47,572168422;7,572809458;Weiss;Toyota;117;Yaris;MÑnnlich;0;11;11;St. Johann
+107;1;ElektrizitÑt / Hybrid;2015;47,575686131;7,650518417;Weiss;Toyota;117;Auris;MÑnnlich;0;20;20;Riehen
+159;1;ElektrizitÑt / Hybrid;2015;47,575686131;7,650518417;Weiss;Toyota;117;Prius;Weiblich;0;20;20;Riehen
+129;1;ElektrizitÑt / Hybrid;2015;47,575686131;7,650518417;Weiss;Toyota;117;Yaris;MÑnnlich;0;20;20;Riehen
+139;1;Diesel;2015;47,543388166;7,592303753;Beige;Skoda;134;Octavia;MÑnnlich;0;6;6;Gundeldingen
+112;1;Diesel;2015;47,545249405;7,661075592;Blau;Mercedes-Benz;5;E;MÑnnlich;0;0;99;ausserkantonal
+137;1;Diesel;2015;47,545249405;7,661075592;Blau;Skoda;134;Octavia;MÑnnlich;0;0;99;ausserkantonal
+220;1;Diesel;2015;47,545249405;7,661075592;Blau;VW;90;T5;Weiblich;0;0;99;ausserkantonal
+156;1;Diesel;2015;47,547740610;7,605414391;Blau;Skoda;134;Octavia;MÑnnlich;0;5;5;St. Alban
+100;1;Diesel;2015;47,547740610;7,605414391;Blau;VW;90;Golf;MÑnnlich;0;5;5;St. Alban
+109;1;Diesel;2015;47,543388166;7,592303753;Blau;VW;90;Golf;MÑnnlich;0;6;6;Gundeldingen
+117;1;Diesel;2015;47,543388166;7,592303753;Blau;VW;90;Sharan;Weiblich;0;6;6;Gundeldingen
+132;1;Diesel;2015;47,572168422;7,572809458;Blau;Opel;128;Zafira;Weiblich;0;11;11;St. Johann
+147;1;Diesel;2015;47,572168422;7,572809458;Blau;VW;90;Passat;MÑnnlich;0;11;11;St. Johann
+109;1;Diesel;2015;47,567962785;7,590866089;Blau;VW;90;Passat;MÑnnlich;0;17;17;MatthÑus
+120;1;Diesel;2015;47,575686131;7,650518417;Blau;Audi;1;A4;Weiblich;0;20;20;Riehen
+114;1;Diesel;2015;47,575686131;7,650518417;Blau;Mercedes-Benz;5;E;MÑnnlich;0;20;20;Riehen
+288;1;Diesel;2015;47,575686131;7,650518417;Blau;VW;90;Golf;MÑnnlich;0;20;20;Riehen
+136;1;Diesel;2015;47,575686131;7,650518417;Blau;VW;90;Passat;Weiblich;0;20;20;Riehen
+155;1;Diesel;2015;47,575686131;7,650518417;Dunkelblau;Mercedes-Benz;5;E;MÑnnlich;0;20;20;Riehen
+100;1;Diesel;2015;47,545249405;7,661075592;Dunkelgrau;Audi;1;A4;MÑnnlich;0;0;99;ausserkantonal
+145;1;Diesel;2015;47,556104110;7,589728832;Dunkelgrau;VW;90;T5;MÑnnlich;0;1;1;Altstadt Grossbasel
+116;1;Diesel;2015;47,547740610;7,605414391;Dunkelgrau;Audi;1;A6;MÑnnlich;0;5;5;St. Alban
+103;1;Diesel;2015;47,572168422;7,572809458;Dunkelgrau;Audi;1;A4;MÑnnlich;0;11;11;St. Johann
+101;1;Diesel;2015;47,575686131;7,650518417;Dunkelgrau;Audi;1;A6;MÑnnlich;0;20;20;Riehen
+114;1;Diesel;2015;47,575686131;7,650518417;Dunkelgrau;VW;90;Touareg;MÑnnlich;0;20;20;Riehen
+286;1;Diesel;2015;47,567962785;7,590866089;Gelb;Opel;128;Astra;MÑnnlich;0;17;17;MatthÑus
+184;1;Diesel;2015;47,545249405;7,661075592;Grau;Audi;1;A4;MÑnnlich;0;0;99;ausserkantonal
+155;1;Diesel;2015;47,545249405;7,661075592;Grau;Audi;1;A6;MÑnnlich;0;0;99;ausserkantonal
+265;1;Diesel;2015;47,545249405;7,661075592;Grau;BMW;81;X3;Weiblich;0;0;99;ausserkantonal
+118;1;Diesel;2015;47,545249405;7,661075592;Grau;BMW;81;X5;MÑnnlich;0;0;99;ausserkantonal
+100;1;Diesel;2015;47,545249405;7,661075592;Grau;Mercedes-Benz;5;C;Weiblich;0;0;99;ausserkantonal
+242;1;Diesel;2015;47,545249405;7,661075592;Grau;Peugeot;170;308;Weiblich;0;0;99;ausserkantonal
+635;1;Diesel;2015;47,545249405;7,661075592;Grau;Skoda;134;Octavia;Weiblich;0;0;99;ausserkantonal
+183;1;Diesel;2015;47,545249405;7,661075592;Grau;VW;90;Golf;Weiblich;0;0;99;ausserkantonal
+235;1;Diesel;2015;47,545249405;7,661075592;Grau;VW;90;Passat;MÑnnlich;0;0;99;ausserkantonal
+144;1;Diesel;2015;47,551734258;7,591713667;Grau;Audi;1;A6;Weiblich;0;2;2;VorstÑdte
+100;1;Diesel;2015;47,551734258;7,591713667;Grau;Audi;1;Q5;MÑnnlich;0;2;2;VorstÑdte
+199;1;Diesel;2015;47,551734258;7,591713667;Grau;VW;90;Golf;MÑnnlich;0;2;2;VorstÑdte
+109;1;Diesel;2015;47,551734258;7,591713667;Grau;VW;90;Passat;Weiblich;0;2;2;VorstÑdte
+181;1;Diesel;2015;47,555336607;7,578560114;Grau;Audi;1;A4;Weiblich;0;3;3;Am Ring
+146;1;Diesel;2015;47,555336607;7,578560114;Grau;BMW;81;X3;Weiblich;0;3;3;Am Ring
+111;1;Diesel;2015;47,555336607;7,578560114;Grau;Citroân;116;C5;MÑnnlich;0;3;3;Am Ring
+106;1;Diesel;2015;47,555336607;7,578560114;Grau;Mercedes-Benz;5;C;Weiblich;0;3;3;Am Ring
+149;1;Diesel;2015;47,555336607;7,578560114;Grau;VW;90;Golf;Weiblich;0;3;3;Am Ring
+250;1;Diesel;2015;47,555336607;7,578560114;Grau;VW;90;Passat;MÑnnlich;0;3;3;Am Ring
+179;1;Diesel;2015;47,555336607;7,578560114;Grau;VW;90;Touran;Weiblich;0;3;3;Am Ring
+153;1;Diesel;2015;47,552034765;7,619726658;Grau;Audi;1;A4;Weiblich;0;4;4;Breite
+196;1;Diesel;2015;47,552034765;7,619726658;Grau;Audi;1;A6;MÑnnlich;0;4;4;Breite
+153;1;Diesel;2015;47,552034765;7,619726658;Grau;Mercedes-Benz;5;C;Weiblich;0;4;4;Breite
+120;1;Diesel;2015;47,552034765;7,619726658;Grau;Mercedes-Benz;5;E;MÑnnlich;0;4;4;Breite
+257;1;Diesel;2015;47,547740610;7,605414391;Grau;Audi;1;A4;Weiblich;0;5;5;St. Alban
+226;1;Diesel;2015;47,547740610;7,605414391;Grau;Audi;1;A6;MÑnnlich;0;5;5;St. Alban
+114;1;Diesel;2015;47,547740610;7,605414391;Grau;BMW;81;520d;MÑnnlich;0;5;5;St. Alban
+111;1;Diesel;2015;47,547740610;7,605414391;Grau;BMW;81;530d;MÑnnlich;0;5;5;St. Alban
+352;1;Diesel;2015;47,547740610;7,605414391;Grau;BMW;81;X3;MÑnnlich;0;5;5;St. Alban
+194;1;Diesel;2015;47,547740610;7,605414391;Grau;BMW;81;X5;Weiblich;0;5;5;St. Alban
+212;1;Diesel;2015;47,547740610;7,605414391;Grau;Mercedes-Benz;5;C;Weiblich;0;5;5;St. Alban
+178;1;Diesel;2015;47,547740610;7,605414391;Grau;Mercedes-Benz;5;E;Weiblich;0;5;5;St. Alban
+320;1;Diesel;2015;47,547740610;7,605414391;Grau;Skoda;134;Octavia;MÑnnlich;0;5;5;St. Alban
+143;1;Diesel;2015;47,547740610;7,605414391;Grau;Toyota;117;Avensis;MÑnnlich;0;5;5;St. Alban
+280;1;Diesel;2015;47,547740610;7,605414391;Grau;VW;90;Golf;Weiblich;0;5;5;St. Alban
+233;1;Diesel;2015;47,547740610;7,605414391;Grau;VW;90;Passat;Weiblich;0;5;5;St. Alban
+140;1;Diesel;2015;47,547740610;7,605414391;Grau;VW;90;Sharan;Weiblich;0;5;5;St. Alban
+155;1;Diesel;2015;47,547740610;7,605414391;Grau;VW;90;Touran;MÑnnlich;0;5;5;St. Alban
+140;1;Diesel;2015;47,543388166;7,592303753;Grau;Audi;1;A3;Weiblich;0;6;6;Gundeldingen
+236;1;Diesel;2015;47,543388166;7,592303753;Grau;Audi;1;A4;Weiblich;0;6;6;Gundeldingen
+300;1;Diesel;2015;47,543388166;7,592303753;Grau;Audi;1;A6;Weiblich;0;6;6;Gundeldingen
+146;1;Diesel;2015;47,543388166;7,592303753;Grau;BMW;81;320d;Weiblich;0;6;6;Gundeldingen
+151;1;Diesel;2015;47,543388166;7,592303753;Grau;BMW;81;X5;Weiblich;0;6;6;Gundeldingen
+111;1;Diesel;2015;47,543388166;7,592303753;Grau;Ford;165;Focus;Weiblich;0;6;6;Gundeldingen
+183;1;Diesel;2015;47,543388166;7,592303753;Grau;Mercedes-Benz;5;C;MÑnnlich;0;6;6;Gundeldingen
+242;1;Diesel;2015;47,543388166;7,592303753;Grau;Mercedes-Benz;5;E;Weiblich;0;6;6;Gundeldingen
+134;1;Diesel;2015;47,543388166;7,592303753;Grau;Opel;128;Zafira;Weiblich;0;6;6;Gundeldingen
+119;1;Diesel;2015;47,543388166;7,592303753;Grau;Peugeot;170;307br;Weiblich;0;6;6;Gundeldingen
+519;1;Diesel;2015;47,543388166;7,592303753;Grau;Skoda;134;Octavia;Weiblich;0;6;6;Gundeldingen
+253;1;Diesel;2015;47,543388166;7,592303753;Grau;VW;90;Golf;Weiblich;0;6;6;Gundeldingen
+184;1;Diesel;2015;47,543388166;7,592303753;Grau;VW;90;Passat;Weiblich;0;6;6;Gundeldingen
+103;1;Diesel;2015;47,543388166;7,592303753;Grau;VW;90;Touran;Keine Angabe;0;6;6;Gundeldingen
+118;1;Diesel;2015;47,530785042;7,598108053;Grau;Audi;1;A4;MÑnnlich;0;7;7;Bruderholz
+120;1;Diesel;2015;47,530785042;7,598108053;Grau;BMW;81;X3;Weiblich;0;7;7;Bruderholz
+130;1;Diesel;2015;47,530785042;7,598108053;Grau;Citroân;116;C4;MÑnnlich;0;7;7;Bruderholz
+135;1;Diesel;2015;47,530785042;7,598108053;Grau;Mercedes-Benz;5;Glk;Weiblich;0;7;7;Bruderholz
+197;1;Diesel;2015;47,530785042;7,598108053;Grau;VW;90;Passat;Weiblich;0;7;7;Bruderholz
+138;1;Diesel;2015;47,530785042;7,598108053;Grau;VW;90;Sharan;Weiblich;0;7;7;Bruderholz
+149;1;Diesel;2015;47,530785042;7,598108053;Grau;VW;90;Touran;MÑnnlich;0;7;7;Bruderholz
+133;1;Diesel;2015;47,548247527;7,571521997;Grau;Audi;1;A4;MÑnnlich;0;8;8;Bachletten
+108;1;Diesel;2015;47,548247527;7,571521997;Grau;Audi;1;A6;MÑnnlich;0;8;8;Bachletten
+114;1;Diesel;2015;47,548247527;7,571521997;Grau;BMW;81;X3;MÑnnlich;0;8;8;Bachletten
+137;1;Diesel;2015;47,548247527;7,571521997;Grau;Mercedes-Benz;5;Glk;Weiblich;0;8;8;Bachletten
+132;1;Diesel;2015;47,548247527;7,571521997;Grau;VW;90;Golf;Weiblich;0;8;8;Bachletten
+224;1;Diesel;2015;47,548247527;7,571521997;Grau;VW;90;Passat;MÑnnlich;0;8;8;Bachletten
+108;1;Diesel;2015;47,548247527;7,571521997;Grau;VW;90;Sharan;MÑnnlich;0;8;8;Bachletten
+120;1;Diesel;2015;47,555275061;7,569826841;Grau;Audi;1;A4;MÑnnlich;0;9;9;Gotthelf
+102;1;Diesel;2015;47,555275061;7,569826841;Grau;Mercedes-Benz;5;E;MÑnnlich;0;9;9;Gotthelf
+113;1;Diesel;2015;47,555275061;7,569826841;Grau;VW;90;Passat;MÑnnlich;0;9;9;Gotthelf
+208;1;Diesel;2015;47,560904373;7,565889359;Grau;Audi;1;A4;Weiblich;0;10;10;Iselin
+132;1;Diesel;2015;47,560904373;7,565889359;Grau;Audi;1;A6;MÑnnlich;0;10;10;Iselin
+159;1;Diesel;2015;47,560904373;7,565889359;Grau;BMW;81;320d;MÑnnlich;0;10;10;Iselin
+113;1;Diesel;2015;47,560904373;7,565889359;Grau;Fiat;125;Punto;MÑnnlich;0;10;10;Iselin
+113;1;Diesel;2015;47,560904373;7,565889359;Grau;Mercedes-Benz;5;A;MÑnnlich;0;10;10;Iselin
+159;1;Diesel;2015;47,560904373;7,565889359;Grau;Mercedes-Benz;5;C;MÑnnlich;0;10;10;Iselin
+211;1;Diesel;2015;47,560904373;7,565889359;Grau;Mercedes-Benz;5;E;Weiblich;0;10;10;Iselin
+144;1;Diesel;2015;47,560904373;7,565889359;Grau;Skoda;134;Octavia;MÑnnlich;0;10;10;Iselin
+177;1;Diesel;2015;47,560904373;7,565889359;Grau;VW;90;Golf;MÑnnlich;0;10;10;Iselin
+106;1;Diesel;2015;47,560904373;7,565889359;Grau;VW;90;Tiguan;MÑnnlich;0;10;10;Iselin
+155;1;Diesel;2015;47,560904373;7,565889359;Grau;VW;90;Touran;MÑnnlich;0;10;10;Iselin
+107;1;Diesel;2015;47,572168422;7,572809458;Grau;Alfa Romeo;147;159sw;MÑnnlich;0;11;11;St. Johann
+231;1;Diesel;2015;47,572168422;7,572809458;Grau;Audi;1;A4;MÑnnlich;0;11;11;St. Johann
+147;1;Diesel;2015;47,572168422;7,572809458;Grau;Audi;1;A6;MÑnnlich;0;11;11;St. Johann
+164;1;Diesel;2015;47,572168422;7,572809458;Grau;BMW;81;320d;Weiblich;0;11;11;St. Johann
+193;1;Diesel;2015;47,572168422;7,572809458;Grau;Mercedes-Benz;5;C;MÑnnlich;0;11;11;St. Johann
+135;1;Diesel;2015;47,572168422;7,572809458;Grau;Mercedes-Benz;5;E;Weiblich;0;11;11;St. Johann
+104;1;Diesel;2015;47,572168422;7,572809458;Grau;Mercedes-Benz;5;Ml;MÑnnlich;0;11;11;St. Johann
+112;1;Diesel;2015;47,572168422;7,572809458;Grau;Opel;128;Zafira;MÑnnlich;0;11;11;St. Johann
+120;1;Diesel;2015;47,572168422;7,572809458;Grau;Skoda;134;Octavia;MÑnnlich;0;11;11;St. Johann
+332;1;Diesel;2015;47,572168422;7,572809458;Grau;VW;90;Golf;MÑnnlich;0;11;11;St. Johann
+290;1;Diesel;2015;47,572168422;7,572809458;Grau;VW;90;Passat;MÑnnlich;0;11;11;St. Johann
+214;1;Diesel;2015;47,572168422;7,572809458;Grau;VW;90;Touran;Weiblich;0;11;11;St. Johann
+112;1;Diesel;2015;47,563973994;7,596074939;Grau;VW;90;Passat;MÑnnlich;0;13;13;Clara
+149;1;Diesel;2015;47,560607537;7,606111765;Grau;Audi;1;A4;MÑnnlich;0;14;14;Wettstein
+102;1;Diesel;2015;47,560607537;7,606111765;Grau;BMW;81;116d;MÑnnlich;0;14;14;Wettstein
+403;1;Diesel;2015;47,560607537;7,606111765;Grau;BMW;81;318d;Weiblich;0;14;14;Wettstein
+557;1;Diesel;2015;47,560607537;7,606111765;Grau;BMW;81;520d;Weiblich;0;14;14;Wettstein
+332;1;Diesel;2015;47,560607537;7,606111765;Grau;VW;90;Golf;Weiblich;0;14;14;Wettstein
+137;1;Diesel;2015;47,573818735;7,617516518;Grau;Mercedes-Benz;5;C;Weiblich;0;15;15;Hirzbrunnen
+133;1;Diesel;2015;47,573818735;7,617516518;Grau;Mercedes-Benz;5;E;Weiblich;0;15;15;Hirzbrunnen
+161;1;Diesel;2015;47,573818735;7,617516518;Grau;Skoda;134;Octavia;MÑnnlich;0;15;15;Hirzbrunnen
+184;1;Diesel;2015;47,566507744;7,604341507;Grau;Audi;1;A4;MÑnnlich;0;16;16;Rosental
+168;1;Diesel;2015;47,566507744;7,604341507;Grau;VW;90;Touran;Weiblich;0;16;16;Rosental
+187;1;Diesel;2015;47,567962785;7,590866089;Grau;Audi;1;A4;MÑnnlich;0;17;17;MatthÑus
+135;1;Diesel;2015;47,567962785;7,590866089;Grau;Audi;1;A6;Weiblich;0;17;17;MatthÑus
+145;1;Diesel;2015;47,567962785;7,590866089;Grau;BMW;81;320d;Weiblich;0;17;17;MatthÑus
+180;1;Diesel;2015;47,567962785;7,590866089;Grau;Mercedes-Benz;5;C;Weiblich;0;17;17;MatthÑus
+106;1;Diesel;2015;47,567962785;7,590866089;Grau;Mercedes-Benz;5;C250cdi;MÑnnlich;0;17;17;MatthÑus
+192;1;Diesel;2015;47,567962785;7,590866089;Grau;Mercedes-Benz;5;E;Weiblich;0;17;17;MatthÑus
+102;1;Diesel;2015;47,567962785;7,590866089;Grau;Opel;128;Astra;Weiblich;0;17;17;MatthÑus
+215;1;Diesel;2015;47,567962785;7,590866089;Grau;Opel;128;Zafira;MÑnnlich;0;17;17;MatthÑus
+110;1;Diesel;2015;47,567962785;7,590866089;Grau;Skoda;134;Octavia;Weiblich;0;17;17;MatthÑus
+268;1;Diesel;2015;47,567962785;7,590866089;Grau;VW;90;Golf;Weiblich;0;17;17;MatthÑus
+183;1;Diesel;2015;47,567962785;7,590866089;Grau;VW;90;Passat;Weiblich;0;17;17;MatthÑus
+110;1;Diesel;2015;47,574325399;7,591981888;Grau;Audi;1;A3;Weiblich;0;18;18;Klybeck
+130;1;Diesel;2015;47,574325399;7,591981888;Grau;Audi;1;A4;Weiblich;0;18;18;Klybeck
+110;1;Diesel;2015;47,574325399;7,591981888;Grau;Audi;1;A6;Weiblich;0;18;18;Klybeck
+106;1;Diesel;2015;47,574325399;7,591981888;Grau;BMW;81;530d;Weiblich;0;18;18;Klybeck
+109;1;Diesel;2015;47,574325399;7,591981888;Grau;Mercedes-Benz;5;E;Weiblich;0;18;18;Klybeck
+234;1;Diesel;2015;47,574325399;7,591981888;Grau;VW;90;Golf;Weiblich;0;18;18;Klybeck
+157;1;Diesel;2015;47,574325399;7,591981888;Grau;VW;90;Passat;MÑnnlich;0;18;18;Klybeck
+168;1;Diesel;2015;47,574325399;7,591981888;Grau;VW;90;Touran;Weiblich;0;18;18;Klybeck
+115;1;Diesel;2015;47,583473469;7,597088814;Grau;Audi;1;A6;MÑnnlich;0;19;19;KleinhÅningen
+118;1;Diesel;2015;47,575686131;7,650518417;Grau;Audi;1;A3;Weiblich;0;20;20;Riehen
+153;1;Diesel;2015;47,575686131;7,650518417;Grau;Audi;1;A4;Weiblich;0;20;20;Riehen
+170;1;Diesel;2015;47,575686131;7,650518417;Grau;Audi;1;A6;Weiblich;0;20;20;Riehen
+139;1;Diesel;2015;47,575686131;7,650518417;Grau;Audi;1;Q5;MÑnnlich;0;20;20;Riehen
+124;1;Diesel;2015;47,575686131;7,650518417;Grau;BMW;81;X1;Weiblich;0;20;20;Riehen
+241;1;Diesel;2015;47,575686131;7,650518417;Grau;BMW;81;X3;Weiblich;0;20;20;Riehen
+129;1;Diesel;2015;47,575686131;7,650518417;Grau;BMW;81;X5;Weiblich;0;20;20;Riehen
+153;1;Diesel;2015;47,575686131;7,650518417;Grau;Citroân;116;C5;Weiblich;0;20;20;Riehen
+104;1;Diesel;2015;47,575686131;7,650518417;Grau;Mazda;122;6;MÑnnlich;0;20;20;Riehen
+163;1;Diesel;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;A;Weiblich;0;20;20;Riehen
+102;1;Diesel;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;B;Weiblich;0;20;20;Riehen
+229;1;Diesel;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;C;MÑnnlich;0;20;20;Riehen
+196;1;Diesel;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;E;MÑnnlich;0;20;20;Riehen
+114;1;Diesel;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;Glk;Weiblich;0;20;20;Riehen
+163;1;Diesel;2015;47,575686131;7,650518417;Grau;Mercedes-Benz;5;Ml;Weiblich;0;20;20;Riehen
+163;1;Diesel;2015;47,575686131;7,650518417;Grau;Opel;128;Zafira;MÑnnlich;0;20;20;Riehen
+115;1;Diesel;2015;47,575686131;7,650518417;Grau;Peugeot;170;308;MÑnnlich;0;20;20;Riehen
+144;1;Diesel;2015;47,575686131;7,650518417;Grau;Seat;61;Alhambra;MÑnnlich;0;20;20;Riehen
+124;1;Diesel;2015;47,575686131;7,650518417;Grau;Skoda;134;Octavia;MÑnnlich;0;20;20;Riehen
+104;1;Diesel;2015;47,575686131;7,650518417;Grau;VW;90;Caddy;MÑnnlich;0;20;20;Riehen
+459;1;Diesel;2015;47,575686131;7,650518417;Grau;VW;90;Golf;MÑnnlich;0;20;20;Riehen
+247;1;Diesel;2015;47,575686131;7,650518417;Grau;VW;90;Passat;MÑnnlich;0;20;20;Riehen
+403;1;Diesel;2015;47,575686131;7,650518417;Grau;VW;90;Touran;MÑnnlich;0;20;20;Riehen
+111;1;Diesel;2015;47,545249405;7,661075592;Hellgrau;Ford;165;S;MÑnnlich;0;0;99;ausserkantonal
+113;1;Diesel;2015;47,545249405;7,661075592;Hellgrau;Skoda;134;Octavia;MÑnnlich;0;0;99;ausserkantonal
+238;1;Diesel;2015;47,543388166;7,592303753;Hellgrau;Skoda;134;Octavia;MÑnnlich;0;6;6;Gundeldingen
+114;1;Diesel;2015;47,530785042;7,598108053;Hellgrau;VW;90;Golf;MÑnnlich;0;7;7;Bruderholz
+126;1;Diesel;2015;47,555275061;7,569826841;Hellgrau;Ford;165;Mondeo;MÑnnlich;0;9;9;Gotthelf
+116;1;Diesel;2015;47,560904373;7,565889359;Hellgrau;Toyota;117;Corolla;MÑnnlich;0;10;10;Iselin
+123;1;Diesel;2015;47,560904373;7,565889359;Hellgrau;VW;90;Golf;MÑnnlich;0;10;10;Iselin
+122;1;Diesel;2015;47,572168422;7,572809458;Hellgrau;VW;90;Golf;Weiblich;0;11;11;St. Johann
+215;1;Diesel;2015;47,572168422;7,572809458;Hellgrau;VW;90;Touran;MÑnnlich;0;11;11;St. Johann
+126;1;Diesel;2015;47,563973994;7,596074939;Hellgrau;Skoda;134;Octavia;Weiblich;0;13;13;Clara
+333;1;Diesel;2015;47,560607537;7,606111765;Hellgrau;Renault;42;Espace;MÑnnlich;0;14;14;Wettstein
+441;1;Diesel;2015;47,560607537;7,606111765;Hellgrau;VW;90;Golf;MÑnnlich;0;14;14;Wettstein
+185;1;Diesel;2015;47,560607537;7,606111765;Hellgrau;VW;90;Passat;Weiblich;0;14;14;Wettstein
+103;1;Diesel;2015;47,567962785;7,590866089;Hellgrau;VW;90;Passat;MÑnnlich;0;17;17;MatthÑus
+100;1;Diesel;2015;47,575686131;7,650518417;Hellgrau;Ford;165;Mondeo;MÑnnlich;0;20;20;Riehen
+107;1;Diesel;2015;47,575686131;7,650518417;Hellgrau;Ford;165;S;Weiblich;0;20;20;Riehen
+108;1;Diesel;2015;47,575686131;7,650518417;Hellgrau;Skoda;134;Octavia;MÑnnlich;0;20;20;Riehen
+129;1;Diesel;2015;47,556104110;7,589728832;Orange;VW;90;Caddy;Weiblich;0;1;1;Altstadt Grossbasel
+535;1;Diesel;2015;47,545249405;7,661075592;Rot;Citroân;116;C3;MÑnnlich;0;0;99;ausserkantonal
+585;1;Diesel;2015;47,545249405;7,661075592;Rot;Renault;42;Megane;MÑnnlich;0;0;99;ausserkantonal
+458;1;Diesel;2015;47,545249405;7,661075592;Rot;VW;90;Golf;MÑnnlich;0;0;99;ausserkantonal
+141;1;Diesel;2015;47,547740610;7,605414391;Rot;Renault;42;Master;Weiblich;0;5;5;St. Alban
+104;1;Diesel;2015;47,548247527;7,571521997;Rot;VW;90;Golf;Weiblich;0;8;8;Bachletten
+105;1;Diesel;2015;47,566507744;7,604341507;Rot;Ford;165;Tourneo;Weiblich;0;16;16;Rosental
+102;1;Diesel;2015;47,583473469;7,597088814;Rot;Opel;128;Astra;Weiblich;0;19;19;KleinhÅningen
+102;1;Diesel;2015;47,575686131;7,650518417;Rot;VW;90;Golf;MÑnnlich;0;20;20;Riehen
+185;1;Diesel;2015;47,545249405;7,661075592;Schwarz;Audi;1;A3;Weiblich;0;0;99;ausserkantonal
+547;1;Diesel;2015;47,545249405;7,661075592;Schwarz;Audi;1;A4;MÑnnlich;0;0;99;ausserkantonal
+111;1;Diesel;2015;47,545249405;7,661075592;Schwarz;Audi;1;A5;Weiblich;0;0;99;ausserkantonal
+211;1;Diesel;2015;47,545249405;7,661075592;Schwarz;Audi;1;A6;Weiblich;0;0;99;ausserkantonal
+130;1;Diesel;2015;47,545249405;7,661075592;Schwarz;BMW;81;316d;MÑnnlich;0;0;99;ausserkantonal
+149;1;Diesel;2015;47,545249405;7,661075592;Schwarz;BMW;81;320d;Weiblich;0;0;99;ausserkantonal
+143;1;Diesel;2015;47,545249405;7,661075592;Schwarz;BMW;81;X3;MÑnnlich;0;0;99;ausserkantonal
+265;1;Diesel;2015;47,545249405;7,661075592;Schwarz;BMW;81;X5;MÑnnlich;0;0;99;ausserkantonal
+214;1;Diesel;2015;47,545249405;7,661075592;Schwarz;Mercedes-Benz;5;E;MÑnnlich;0;0;99;ausserkantonal
+390;1;Diesel;2015;47,545249405;7,661075592;Schwarz;Opel;128;Astra;Weiblich;0;0;99;ausserkantonal
+120;1;Diesel;2015;47,545249405;7,661075592;Schwarz;Peugeot;170;Partner;MÑnnlich;0;0;99;ausserkantonal
+228;1;Diesel;2015;47,545249405;7,661075592;Schwarz;Skoda;134;Octavia;MÑnnlich;0;0;99;ausserkantonal
+267;1;Diesel;2015;47,545249405;7,661075592;Schwarz;VW;90;Golf;MÑnnlich;0;0;99;ausserkantonal
+552;1;Diesel;2015;47,545249405;7,661075592;Schwarz;VW;90;Passat;MÑnnlich;0;0;99;ausserkantonal
+118;1;Diesel;2015;47,545249405;7,661075592;Schwarz;VW;90;Touran;Weiblich;0;0;99;ausserkantonal
+157;1;Diesel;2015;47,545249405;7,661075592;Schwarz;Volvo;16;Xc60;Weiblich;0;0;99;ausserkantonal
+100;1;Diesel;2015;47,551734258;7,591713667;Schwarz;Audi;1;A3;MÑnnlich;0;2;2;VorstÑdte
+122;1;Diesel;2015;47,551734258;7,591713667;Schwarz;Audi;1;A4;Weiblich;0;2;2;VorstÑdte
+111;1;Diesel;2015;47,551734258;7,591713667;Schwarz;Audi;1;A6;Weiblich;0;2;2;VorstÑdte
+162;1;Diesel;2015;47,551734258;7,591713667;Schwarz;BMW;81;320d;MÑnnlich;0;2;2;VorstÑdte
+113;1;Diesel;2015;47,551734258;7,591713667;Schwarz;VW;90;Golf;Weiblich;0;2;2;VorstÑdte
+102;1;Diesel;2015;47,551734258;7,591713667;Schwarz;VW;90;Passat;MÑnnlich;0;2;2;VorstÑdte
+109;1;Diesel;2015;47,551734258;7,591713667;Schwarz;VW;90;Touran;Weiblich;0;2;2;VorstÑdte
+109;1;Diesel;2015;47,555336607;7,578560114;Schwarz;Audi;1;A3;MÑnnlich;0;3;3;Am Ring
+244;1;Diesel;2015;47,555336607;7,578560114;Schwarz;Audi;1;A4;MÑnnlich;0;3;3;Am Ring
+116;1;Diesel;2015;47,555336607;7,578560114;Schwarz;Audi;1;Q5;Weiblich;0;3;3;Am Ring
+225;1;Diesel;2015;47,555336607;7,578560114;Schwarz;BMW;81;X5;Weiblich;0;3;3;Am Ring
+221;1;Diesel;2015;47,555336607;7,578560114;Schwarz;Ford;165;Grandc;Weiblich;0;3;3;Am Ring
+207;1;Diesel;2015;47,555336607;7,578560114;Schwarz;VW;90;Golf;MÑnnlich;0;3;3;Am Ring
+154;1;Diesel;2015;47,555336607;7,578560114;Schwarz;VW;90;Passat;MÑnnlich;0;3;3;Am Ring
+138;1;Diesel;2015;47,552034765;7,619726658;Schwarz;Audi;1;A4;MÑnnlich;0;4;4;Breite
+173;1;Diesel;2015;47,552034765;7,619726658;Schwarz;BMW;81;X5;MÑnnlich;0;4;4;Breite
+181;1;Diesel;2015;47,552034765;7,619726658;Schwarz;Mercedes-Benz;5;C;Weiblich;0;4;4;Breite
+256;1;Diesel;2015;47,552034765;7,619726658;Schwarz;VW;90;Golf;MÑnnlich;0;4;4;Breite
+136;1;Diesel;2015;47,552034765;7,619726658;Schwarz;VW;90;Passat;MÑnnlich;0;4;4;Breite
+105;1;Diesel;2015;47,547740610;7,605414391;Schwarz;Audi;1;A3;MÑnnlich;0;5;5;St. Alban
+349;1;Diesel;2015;47,547740610;7,605414391;Schwarz;Audi;1;A4;Weiblich;0;5;5;St. Alban
+382;1;Diesel;2015;47,547740610;7,605414391;Schwarz;Audi;1;A6;Weiblich;0;5;5;St. Alban
+113;1;Diesel;2015;47,547740610;7,605414391;Schwarz;Audi;1;Q3;MÑnnlich;0;5;5;St. Alban
+172;1;Diesel;2015;47,547740610;7,605414391;Schwarz;Audi;1;Q5;Weiblich;0;5;5;St. Alban
+157;1;Diesel;2015;47,547740610;7,605414391;Schwarz;BMW;81;320d;Weiblich;0;5;5;St. Alban
+129;1;Diesel;2015;47,547740610;7,605414391;Schwarz;BMW;81;X1;MÑnnlich;0;5;5;St. Alban
+297;1;Diesel;2015;47,547740610;7,605414391;Schwarz;BMW;81;X3;MÑnnlich;0;5;5;St. Alban
+318;1;Diesel;2015;47,547740610;7,605414391;Schwarz;BMW;81;X5;MÑnnlich;0;5;5;St. Alban
+102;1;Diesel;2015;47,547740610;7,605414391;Schwarz;Citroân;116;C5;MÑnnlich;0;5;5;St. Alban
+107;1;Diesel;2015;47,547740610;7,605414391;Schwarz;Jeep;15;Grandcherokee;MÑnnlich;0;5;5;St. Alban
+425;1;Diesel;2015;47,547740610;7,605414391;Schwarz;VW;90;Golf;MÑnnlich;0;5;5;St. Alban
+328;1;Diesel;2015;47,547740610;7,605414391;Schwarz;VW;90;Passat;MÑnnlich;0;5;5;St. Alban
+161;1;Diesel;2015;47,547740610;7,605414391;Schwarz;VW;90;Sharan;MÑnnlich;0;5;5;St. Alban
+106;1;Diesel;2015;47,547740610;7,605414391;Schwarz;VW;90;Tiguan;MÑnnlich;0;5;5;St. Alban
+249;1;Diesel;2015;47,547740610;7,605414391;Schwarz;VW;90;Touareg;Weiblich;0;5;5;St. Alban
+101;1;Diesel;2015;47,547740610;7,605414391;Schwarz;VW;90;Touran;MÑnnlich;0;5;5;St. Alban
+114;1;Diesel;2015;47,547740610;7,605414391;Schwarz;Volvo;16;Xc90;Weiblich;0;5;5;St. Alban
+144;1;Diesel;2015;47,543388166;7,592303753;Schwarz;Audi;1;A3;Weiblich;0;6;6;Gundeldingen
+254;1;Diesel;2015;47,543388166;7,592303753;Schwarz;Audi;1;A4;Weiblich;0;6;6;Gundeldingen
+310;1;Diesel;2015;47,543388166;7,592303753;Schwarz;Audi;1;A6;MÑnnlich;0;6;6;Gundeldingen
+123;1;Diesel;2015;47,543388166;7,592303753;Schwarz;Audi;1;Q7;MÑnnlich;0;6;6;Gundeldingen
+121;1;Diesel;2015;47,543388166;7,592303753;Schwarz;BMW;81;320d;MÑnnlich;0;6;6;Gundeldingen
+115;1;Diesel;2015;47,543388166;7,592303753;Schwarz;BMW;81;X3;Weiblich;0;6;6;Gundeldingen
+211;1;Diesel;2015;47,543388166;7,592303753;Schwarz;BMW;81;X5;Weiblich;0;6;6;Gundeldingen
+103;1;Diesel;2015;47,543388166;7,592303753;Schwarz;BMW;81;X6;Weiblich;0;6;6;Gundeldingen
+102;1;Diesel;2015;47,543388166;7,592303753;Schwarz;Hyundai;138;Santa;MÑnnlich;0;6;6;Gundeldingen
+122;1;Diesel;2015;47,543388166;7,592303753;Schwarz;Mercedes-Benz;5;C;MÑnnlich;0;6;6;Gundeldingen
+182;1;Diesel;2015;47,543388166;7,592303753;Schwarz;Mercedes-Benz;5;E;Weiblich;0;6;6;Gundeldingen
+383;1;Diesel;2015;47,543388166;7,592303753;Schwarz;Skoda;134;Octavia;Weiblich;0;6;6;Gundeldingen
+332;1;Diesel;2015;47,543388166;7,592303753;Schwarz;VW;90;Golf;MÑnnlich;0;6;6;Gundeldingen
+314;1;Diesel;2015;47,543388166;7,592303753;Schwarz;VW;90;Passat;Weiblich;0;6;6;Gundeldingen
+188;1;Diesel;2015;47,543388166;7,592303753;Schwarz;VW;90;Touran;MÑnnlich;0;6;6;Gundeldingen
+169;1;Diesel;2015;47,543388166;7,592303753;Schwarz;Volvo;16;Xc60;MÑnnlich;0;6;6;Gundeldingen
+115;1;Diesel;2015;47,530785042;7,598108053;Schwarz;Audi;1;A4;MÑnnlich;0;7;7;Bruderholz
+142;1;Diesel;2015;47,530785042;7,598108053;Schwarz;BMW;81;320d;Weiblich;0;7;7;Bruderholz
+107;1;Diesel;2015;47,530785042;7,598108053;Schwarz;BMW;81;X5;Weiblich;0;7;7;Bruderholz
+114;1;Diesel;2015;47,530785042;7,598108053;Schwarz;VW;90;Golf;Weiblich;0;7;7;Bruderholz
+183;1;Diesel;2015;47,530785042;7,598108053;Schwarz;VW;90;Passat;Weiblich;0;7;7;Bruderholz
+101;1;Diesel;2015;47,530785042;7,598108053;Schwarz;VW;90;Touareg;Weiblich;0;7;7;Bruderholz
+175;1;Diesel;2015;47,548247527;7,571521997;Schwarz;Audi;1;A4;Weiblich;0;8;8;Bachletten
+152;1;Diesel;2015;47,548247527;7,571521997;Schwarz;BMW;81;X3;MÑnnlich;0;8;8;Bachletten
+212;1;Diesel;2015;47,548247527;7,571521997;Schwarz;VW;90;Golf;Weiblich;0;8;8;Bachletten
+146;1;Diesel;2015;47,548247527;7,571521997;Schwarz;VW;90;Passat;MÑnnlich;0;8;8;Bachletten
+103;1;Diesel;2015;47,548247527;7,571521997;Schwarz;VW;90;Touran;Weiblich;0;8;8;Bachletten
+135;1;Diesel;2015;47,555275061;7,569826841;Schwarz;VW;90;Golf;Weiblich;0;9;9;Gotthelf
+245;1;Diesel;2015;47,560904373;7,565889359;Schwarz;Audi;1;A4;Weiblich;0;10;10;Iselin
+126;1;Diesel;2015;47,560904373;7,565889359;Schwarz;BMW;81;X3;MÑnnlich;0;10;10;Iselin
+210;1;Diesel;2015;47,560904373;7,565889359;Schwarz;BMW;81;X5;MÑnnlich;0;10;10;Iselin
+120;1;Diesel;2015;47,560904373;7,565889359;Schwarz;Ford;165;Kuga;Weiblich;0;10;10;Iselin
+116;1;Diesel;2015;47,560904373;7,565889359;Schwarz;Mercedes-Benz;5;A;Weiblich;0;10;10;Iselin
+120;1;Diesel;2015;47,560904373;7,565889359;Schwarz;Mercedes-Benz;5;E;Weiblich;0;10;10;Iselin
+327;1;Diesel;2015;47,560904373;7,565889359;Schwarz;VW;90;Golf;MÑnnlich;0;10;10;Iselin
+246;1;Diesel;2015;47,560904373;7,565889359;Schwarz;VW;90;Passat;MÑnnlich;0;10;10;Iselin
+103;1;Diesel;2015;47,560904373;7,565889359;Schwarz;VW;90;Touareg;MÑnnlich;0;10;10;Iselin
+182;1;Diesel;2015;47,560904373;7,565889359;Schwarz;VW;90;Touran;Weiblich;0;10;10;Iselin
+150;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Audi;1;A3;Weiblich;0;11;11;St. Johann
+441;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Audi;1;A4;Weiblich;0;11;11;St. Johann
+224;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Audi;1;A6;Weiblich;0;11;11;St. Johann
+121;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Audi;1;Q5;MÑnnlich;0;11;11;St. Johann
+100;1;Diesel;2015;47,572168422;7,572809458;Schwarz;BMW;81;118d;MÑnnlich;0;11;11;St. Johann
+232;1;Diesel;2015;47,572168422;7,572809458;Schwarz;BMW;81;320d;Weiblich;0;11;11;St. Johann
+108;1;Diesel;2015;47,572168422;7,572809458;Schwarz;BMW;81;X3;MÑnnlich;0;11;11;St. Johann
+212;1;Diesel;2015;47,572168422;7,572809458;Schwarz;BMW;81;X5;Weiblich;0;11;11;St. Johann
+148;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Mercedes-Benz;5;C;MÑnnlich;0;11;11;St. Johann
+133;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Mercedes-Benz;5;E;MÑnnlich;0;11;11;St. Johann
+113;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Mercedes-Benz;5;Ml;MÑnnlich;0;11;11;St. Johann
+103;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Mercedes-Benz;5;Viano;Weiblich;0;11;11;St. Johann
+104;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Opel;128;Zafira;Weiblich;0;11;11;St. Johann
+119;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Skoda;134;Octavia;Weiblich;0;11;11;St. Johann
+353;1;Diesel;2015;47,572168422;7,572809458;Schwarz;VW;90;Golf;MÑnnlich;0;11;11;St. Johann
+265;1;Diesel;2015;47,572168422;7,572809458;Schwarz;VW;90;Passat;MÑnnlich;0;11;11;St. Johann
+141;1;Diesel;2015;47,572168422;7,572809458;Schwarz;VW;90;Touareg;MÑnnlich;0;11;11;St. Johann
+263;1;Diesel;2015;47,572168422;7,572809458;Schwarz;VW;90;Touran;Weiblich;0;11;11;St. Johann
+112;1;Diesel;2015;47,572168422;7,572809458;Schwarz;Volvo;16;Xc90;MÑnnlich;0;11;11;St. Johann
+123;1;Diesel;2015;47,560831974;7,592083812;Schwarz;Audi;1;A4;Weiblich;0;12;12;Altstadt Kleinbasel
+116;1;Diesel;2015;47,560831974;7,592083812;Schwarz;Mercedes-Benz;5;E;Weiblich;0;12;12;Altstadt Kleinbasel
+128;1;Diesel;2015;47,563973994;7,596074939;Schwarz;Audi;1;A4;MÑnnlich;0;13;13;Clara
+143;1;Diesel;2015;47,560607537;7,606111765;Schwarz;Audi;1;A4;MÑnnlich;0;14;14;Wettstein
+103;1;Diesel;2015;47,560607537;7,606111765;Schwarz;BMW;81;X3;MÑnnlich;0;14;14;Wettstein
+103;1;Diesel;2015;47,560607537;7,606111765;Schwarz;VW;90;Golf;MÑnnlich;0;14;14;Wettstein
+150;1;Diesel;2015;47,560607537;7,606111765;Schwarz;VW;90;Passat;Weiblich;0;14;14;Wettstein
+100;1;Diesel;2015;47,573818735;7,617516518;Schwarz;BMW;81;X5;Weiblich;0;15;15;Hirzbrunnen
+121;1;Diesel;2015;47,573818735;7,617516518;Schwarz;Mercedes-Benz;5;E;MÑnnlich;0;15;15;Hirzbrunnen
+123;1;Diesel;2015;47,573818735;7,617516518;Schwarz;Mercedes-Benz;5;Ml;MÑnnlich;0;15;15;Hirzbrunnen
+128;1;Diesel;2015;47,573818735;7,617516518;Schwarz;VW;90;Golf;MÑnnlich;0;15;15;Hirzbrunnen
+283;1;Diesel;2015;47,566507744;7,604341507;Schwarz;Audi;1;A4;MÑnnlich;0;16;16;Rosental
+157;1;Diesel;2015;47,566507744;7,604341507;Schwarz;Audi;1;A6;Weiblich;0;16;16;Rosental
+113;1;Diesel;2015;47,566507744;7,604341507;Schwarz;BMW;81;320d;Weiblich;0;16;16;Rosental
+159;1;Diesel;2015;47,566507744;7,604341507;Schwarz;BMW;81;X5;Weiblich;0;16;16;Rosental
+256;1;Diesel;2015;47,566507744;7,604341507;Schwarz;VW;90;Golf;Weiblich;0;16;16;Rosental
+210;1;Diesel;2015;47,566507744;7,604341507;Schwarz;VW;90;Passat;MÑnnlich;0;16;16;Rosental
+204;1;Diesel;2015;47,567962785;7,590866089;Schwarz;Audi;1;A4;MÑnnlich;0;17;17;MatthÑus
+112;1;Diesel;2015;47,567962785;7,590866089;Schwarz;BMW;81;320d;Weiblich;0;17;17;MatthÑus
+162;1;Diesel;2015;47,567962785;7,590866089;Schwarz;BMW;81;X5;MÑnnlich;0;17;17;MatthÑus
+213;1;Diesel;2015;47,567962785;7,590866089;Schwarz;Mercedes-Benz;5;C;Weiblich;0;17;17;MatthÑus
+225;1;Diesel;2015;47,567962785;7,590866089;Schwarz;Mercedes-Benz;5;E;MÑnnlich;0;17;17;MatthÑus
+100;1;Diesel;2015;47,567962785;7,590866089;Schwarz;Skoda;134;Octavia;MÑnnlich;0;17;17;MatthÑus
+307;1;Diesel;2015;47,567962785;7,590866089;Schwarz;VW;90;Golf;MÑnnlich;0;17;17;MatthÑus
+311;1;Diesel;2015;47,567962785;7,590866089;Schwarz;VW;90;Passat;MÑnnlich;0;17;17;MatthÑus
+113;1;Diesel;2015;47,567962785;7,590866089;Schwarz;VW;90;Tiguan;Weiblich;0;17;17;MatthÑus
+173;1;Diesel;2015;47,567962785;7,590866089;Schwarz;VW;90;Touran;Weiblich;0;17;17;MatthÑus
+152;1;Diesel;2015;47,574325399;7,591981888;Schwarz;Audi;1;A4;Weiblich;0;18;18;Klybeck
+109;1;Diesel;2015;47,574325399;7,591981888;Schwarz;BMW;81;320d;MÑnnlich;0;18;18;Klybeck
+153;1;Diesel;2015;47,574325399;7,591981888;Schwarz;BMW;81;X5;Weiblich;0;18;18;Klybeck
+128;1;Diesel;2015;47,574325399;7,591981888;Schwarz;Mercedes-Benz;5;Ml;Weiblich;0;18;18;Klybeck
+143;1;Diesel;2015;47,574325399;7,591981888;Schwarz;VW;90;Golf;MÑnnlich;0;18;18;Klybeck
+164;1;Diesel;2015;47,574325399;7,591981888;Schwarz;VW;90;Passat;MÑnnlich;0;18;18;Klybeck
+117;1;Diesel;2015;47,574325399;7,591981888;Schwarz;VW;90;Touareg;MÑnnlich;0;18;18;Klybeck
+181;1;Diesel;2015;47,583473469;7,597088814;Schwarz;Audi;1;A4;MÑnnlich;0;19;19;KleinhÅningen
+165;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Audi;1;A3;MÑnnlich;0;20;20;Riehen
+269;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Audi;1;A4;Weiblich;0;20;20;Riehen
+286;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Audi;1;A6;MÑnnlich;0;20;20;Riehen
+155;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Audi;1;Q5;MÑnnlich;0;20;20;Riehen
+103;1;Diesel;2015;47,575686131;7,650518417;Schwarz;BMW;81;320d;MÑnnlich;0;20;20;Riehen
+111;1;Diesel;2015;47,575686131;7,650518417;Schwarz;BMW;81;520d;MÑnnlich;0;20;20;Riehen
+146;1;Diesel;2015;47,575686131;7,650518417;Schwarz;BMW;81;X1;MÑnnlich;0;20;20;Riehen
+251;1;Diesel;2015;47,575686131;7,650518417;Schwarz;BMW;81;X3;MÑnnlich;0;20;20;Riehen
+274;1;Diesel;2015;47,575686131;7,650518417;Schwarz;BMW;81;X5;Weiblich;0;20;20;Riehen
+159;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Ford;165;Kuga;Weiblich;0;20;20;Riehen
+149;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;C;Weiblich;0;20;20;Riehen
+253;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;E;Weiblich;0;20;20;Riehen
+166;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Mercedes-Benz;5;Ml;MÑnnlich;0;20;20;Riehen
+102;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Seat;61;Leon;Weiblich;0;20;20;Riehen
+200;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Skoda;134;Octavia;Weiblich;0;20;20;Riehen
+100;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Skoda;134;Superb;Weiblich;0;20;20;Riehen
+290;1;Diesel;2015;47,575686131;7,650518417;Schwarz;VW;90;Golf;MÑnnlich;0;20;20;Riehen
+242;1;Diesel;2015;47,575686131;7,650518417;Schwarz;VW;90;Passat;Weiblich;0;20;20;Riehen
+129;1;Diesel;2015;47,575686131;7,650518417;Schwarz;VW;90;Sharan;Weiblich;0;20;20;Riehen
+184;1;Diesel;2015;47,575686131;7,650518417;Schwarz;VW;90;Tiguan;Weiblich;0;20;20;Riehen
+182;1;Diesel;2015;47,575686131;7,650518417;Schwarz;VW;90;Touareg;MÑnnlich;0;20;20;Riehen
+180;1;Diesel;2015;47,575686131;7,650518417;Schwarz;VW;90;Touran;Weiblich;0;20;20;Riehen
+152;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Volvo;16;V50;MÑnnlich;0;20;20;Riehen
+173;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Volvo;16;Xc60;Weiblich;0;20;20;Riehen
+102;1;Diesel;2015;47,575686131;7,650518417;Schwarz;Volvo;16;Xc70;Weiblich;0;20;20;Riehen
+249;1;Diesel;2015;47,545249405;7,661075592;Weiss;Audi;1;A4;MÑnnlich;0;0;99;ausserkantonal
+125;1;Diesel;2015;47,545249405;7,661075592;Weiss;BMW;81;320d;Weiblich;0;0;99;ausserkantonal
+129;1;Diesel;2015;47,545249405;7,661075592;Weiss;Citroân;116;C4;Weiblich;0;0;99;ausserkantonal
+143;1;Diesel;2015;47,545249405;7,661075592;Weiss;Ford;165;Fiesta;Weiblich;0;0;99;ausserkantonal
+623;1;Diesel;2015;47,545249405;7,661075592;Weiss;Ford;165;Fiesta1;MÑnnlich;0;0;99;ausserkantonal
+861;1;Diesel;2015;47,545249405;7,661075592;Weiss;Ford;165;Focus;MÑnnlich;0;0;99;ausserkantonal
+152;1;Diesel;2015;47,545249405;7,661075592;Weiss;Ford;165;S;MÑnnlich;0;0;99;ausserkantonal
+117;1;Diesel;2015;47,545249405;7,661075592;Weiss;Ford;165;Tourneo;Weiblich;0;0;99;ausserkantonal
+299;1;Diesel;2015;47,545249405;7,661075592;Weiss;Mercedes-Benz;5;E;Weiblich;0;0;99;ausserkantonal
+246;1;Diesel;2015;47,545249405;7,661075592;Weiss;Opel;128;Astra;Weiblich;0;0;99;ausserkantonal
+141;1;Diesel;2015;47,545249405;7,661075592;Weiss;Renault;42;Clio;MÑnnlich;0;0;99;ausserkantonal
+1543;1;Diesel;2015;47,545249405;7,661075592;Weiss;Renault;42;Megane;Weiblich;0;0;99;ausserkantonal
+683;1;Diesel;2015;47,545249405;7,661075592;Weiss;Skoda;134;Octavia;MÑnnlich;0;0;99;ausserkantonal
+290;1;Diesel;2015;47,545249405;7,661075592;Weiss;VW;90;Caddy;MÑnnlich;0;0;99;ausserkantonal
+248;1;Diesel;2015;47,545249405;7,661075592;Weiss;VW;90;Passat;Weiblich;0;0;99;ausserkantonal
+148;1;Diesel;2015;47,545249405;7,661075592;Weiss;VW;90;T5;MÑnnlich;0;0;99;ausserkantonal
+110;1;Diesel;2015;47,545249405;7,661075592;Weiss;VW;90;Touran;MÑnnlich;0;0;99;ausserkantonal
+105;1;Diesel;2015;47,556104110;7,589728832;Weiss;Land Rover;18;Defender;Weiblich;0;1;1;Altstadt Grossbasel
+541;1;Diesel;2015;47,556104110;7,589728832;Weiss;VW;90;T5;Weiblich;0;1;1;Altstadt Grossbasel
+178;1;Diesel;2015;47,551734258;7,591713667;Weiss;Ford;165;Transit;MÑnnlich;0;2;2;VorstÑdte
+171;1;Diesel;2015;47,551734258;7,591713667;Weiss;Renault;42;Trafic;Weiblich;0;2;2;VorstÑdte
+159;1;Diesel;2015;47,555336607;7,578560114;Weiss;BMW;81;116d;Weiblich;0;3;3;Am Ring
+148;1;Diesel;2015;47,555336607;7,578560114;Weiss;Skoda;134;Fabia;MÑnnlich;0;3;3;Am Ring
+349;1;Diesel;2015;47,547740610;7,605414391;Weiss;BMW;81;316d;MÑnnlich;0;5;5;St. Alban
+265;1;Diesel;2015;47,547740610;7,605414391;Weiss;BMW;81;320d;MÑnnlich;0;5;5;St. Alban
+119;1;Diesel;2015;47,547740610;7,605414391;Weiss;BMW;81;X1;MÑnnlich;0;5;5;St. Alban
+107;1;Diesel;2015;47,547740610;7,605414391;Weiss;Citroân;116;Jumper;Weiblich;0;5;5;St. Alban
+123;1;Diesel;2015;47,547740610;7,605414391;Weiss;Citroân;116;Jumpy;MÑnnlich;0;5;5;St. Alban
+153;1;Diesel;2015;47,547740610;7,605414391;Weiss;Mercedes-Benz;5;E;Weiblich;0;5;5;St. Alban
+407;1;Diesel;2015;47,547740610;7,605414391;Weiss;Mercedes-Benz;5;Vito;Weiblich;0;5;5;St. Alban
+937;1;Diesel;2015;47,547740610;7,605414391;Weiss;Opel;128;Astra;Weiblich;0;5;5;St. Alban
+139;1;Diesel;2015;47,547740610;7,605414391;Weiss;Opel;128;Insignia;Weiblich;0;5;5;St. Alban
+141;1;Diesel;2015;47,547740610;7,605414391;Weiss;Opel;128;Vivaro;Weiblich;0;5;5;St. Alban
+146;1;Diesel;2015;47,547740610;7,605414391;Weiss;Renault;42;Trafic;Weiblich;0;5;5;St. Alban
+510;1;Diesel;2015;47,547740610;7,605414391;Weiss;Skoda;134;Octavia;MÑnnlich;0;5;5;St. Alban
+193;1;Diesel;2015;47,547740610;7,605414391;Weiss;VW;90;Caddy;Weiblich;0;5;5;St. Alban
+129;1;Diesel;2015;47,547740610;7,605414391;Weiss;VW;90;Golf;MÑnnlich;0;5;5;St. Alban
+369;1;Diesel;2015;47,547740610;7,605414391;Weiss;VW;90;T5;Weiblich;0;5;5;St. Alban
+100;1;Diesel;2015;47,547740610;7,605414391;Weiss;VW;90;Tiguan;MÑnnlich;0;5;5;St. Alban
+167;1;Diesel;2015;47,547740610;7,605414391;Weiss;VW;90;Touran;Weiblich;0;5;5;St. Alban
+101;1;Diesel;2015;47,543388166;7,592303753;Weiss;Peugeot;170;308;Weiblich;0;6;6;Gundeldingen
+146;1;Diesel;2015;47,543388166;7,592303753;Weiss;Skoda;134;Octavia;Weiblich;0;6;6;Gundeldingen
+120;1;Diesel;2015;47,543388166;7,592303753;Weiss;VW;90;T5;Weiblich;0;6;6;Gundeldingen
+161;1;Diesel;2015;47,543388166;7,592303753;Weiss;VW;90;Touran;Weiblich;0;6;6;Gundeldingen
+114;1;Diesel;2015;47,560904373;7,565889359;Weiss;VW;90;Golf;Weiblich;0;10;10;Iselin
+137;1;Diesel;2015;47,572168422;7,572809458;Weiss;Skoda;134;Octavia;MÑnnlich;0;11;11;St. Johann
+173;1;Diesel;2015;47,572168422;7,572809458;Weiss;VW;90;Golf;Weiblich;0;11;11;St. Johann
+153;1;Diesel;2015;47,572168422;7,572809458;Weiss;VW;90;T5;Weiblich;0;11;11;St. Johann
+132;1;Diesel;2015;47,566507744;7,604341507;Weiss;Ford;165;Focus;MÑnnlich;0;16;16;Rosental
+127;1;Diesel;2015;47,566507744;7,604341507;Weiss;Opel;128;Astra;Weiblich;0;16;16;Rosental
+160;1;Diesel;2015;47,566507744;7,604341507;Weiss;Peugeot;170;Expert;MÑnnlich;0;16;16;Rosental
+128;1;Diesel;2015;47,567962785;7,590866089;Weiss;VW;90;Golf;Weiblich;0;17;17;MatthÑus
+177;1;Diesel;2015;47,574325399;7,591981888;Weiss;VW;90;Golf;MÑnnlich;0;18;18;Klybeck
+141;1;Diesel;2015;47,583473469;7,597088814;Weiss;Fiat;125;Doblo;MÑnnlich;0;19;19;KleinhÅningen
+132;1;Diesel;2015;47,575686131;7,650518417;Weiss;Skoda;134;Octavia;MÑnnlich;0;20;20;Riehen
+159;1;Diesel;2015;47,575686131;7,650518417;Weiss;Toyota;117;Yaris;MÑnnlich;0;20;20;Riehen
+141;1;Diesel;2015;47,575686131;7,650518417;Weiss;VW;90;Golf;Weiblich;0;20;20;Riehen
+193;1;Diesel;2015;47,575686131;7,650518417;Weiss;VW;90;T5;Weiblich;0;20;20;Riehen
+113;1;Diesel;2015;47,575686131;7,650518417;Weiss;Volvo;16;Xc60;MÑnnlich;0;20;20;Riehen
+103;1;ElektrizitÑt / Hybrid;2015;47,556104110;7,589728832;Weiss;Mitsubishi;64;I;MÑnnlich;0;1;1;Altstadt Grossbasel
+144;1;Erdgas;2015;47,543388166;7,592303753;Weiss;Opel;128;Combo;Weiblich;0;6;6;Gundeldingen
+149;1;Erdgas;2015;47,543388166;7,592303753;Weiss;Opel;128;Zafira;Weiblich;0;6;6;Gundeldingen
+104;1;Erdgas;2015;47,543388166;7,592303753;Weiss;VW;90;Caddy;MÑnnlich;0;6;6;Gundeldingen
+309;1;Erdgas;2015;47,543388166;7,592303753;Weiss;VW;90;Eco;Weiblich;0;6;6;Gundeldingen
+411;1;Erdgas;2015;47,543388166;7,592303753;Weiss;VW;90;Touran;MÑnnlich;0;6;6;Gundeldingen
+257;1;Erdgas;2015;47,543388166;7,592303753;Weiss;Fiat;125;Panda;Weiblich;0;6;6;Gundeldingen
+255;1;Erdgas;2015;47,543388166;7,592303753;Weiss;Fiat;125;Punto;MÑnnlich;0;6;6;Gundeldingen
